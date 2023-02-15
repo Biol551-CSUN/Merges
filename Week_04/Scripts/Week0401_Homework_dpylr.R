@@ -88,33 +88,8 @@ ggplot(data=log_females,
         axis.title.y=element_text(size=12), 
         plot.title=element_text(hjust=0.5)) 
         #panel.background=element_rect("beige")) 
-
-
-
-
-fit_female_figure #get it, cuz like figure like body shape but also plot, ha. 
-
-
-
-
-##Extra: 
-%>% na.omit(), 
-mapping=aes(x=sex, 
-            y=mean, 
-            group=species,
-            fill=species)) + 
-  geom_col(position="dodge2") + 
-  labs(x="Sex of Penguins", 
-       y="Body mass of Penguins (g)", 
-       title="Body Mass of Penguins by Sex of 3 Different Species") + 
-  scale_x_discrete(label= c("Male", "Female")) +
-  scale_fill_manual(values= beyonce_palette(18)) + ##never using anything else (jk), Beyonce is a queen with these blues
-  theme_classic() + 
-  theme(axis.text.x=element_text(size=13), 
-        axis.text.y=element_text(size=13)) 
-#plot.title=element_title(h.just=0.5)) ##this part is not working, can use to center title 
-ggsave(here("Week_03","Output","bestpenguinplot.png"),
-       width=7, height=5))
+ggsave(here("Week_04","Outputs","homeworkplot_logbodymass.png"),
+       width=7, height=5)
 
 
 
