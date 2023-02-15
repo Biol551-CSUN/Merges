@@ -87,7 +87,6 @@ ggplot(penguins %>% na.omit(),
         axis.text.y=element_text(size=13))  
 ##looks kinda cool! 
 
-
 ##when you ggsave- change width and height can alter the length of axes, so it might not look the same as you are seeing in the plot window
 ##adding titles -- figure out how to include this in code 
   #ggtitle
