@@ -19,7 +19,6 @@ library(nationalparkcolors)
 library(ggplot2)
 library(hrbrthemes)
 
-
 ############################
 ### Assignments ###
 ############################
