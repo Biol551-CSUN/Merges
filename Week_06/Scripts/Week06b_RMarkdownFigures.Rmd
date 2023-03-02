@@ -1,0 +1,31 @@
+---
+title: "Week06b: Learning more in RMarkdown with Figures"
+author: "Hannah Merges"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load Libraries 
+```{r}
+library(tidyverse)
+library(palmerpenguins)
+library(here)
+```
+## Make a plot with penguin data 
+```{r}
+penguins %>% ##using the penguin dataset
+  ggplot(aes(x=bill_length_mm, 
+             y=bill_depth_mm, 
+             color=species)) + 
+  geom_point() + 
+  geom_smooth(method = "lm") + #add a linear regression 
+  labs(x="Bill Length (mm)", 
+       y="Bill Depth (mm)", 
+       color = "Species") + 
+  theme_bw()
+```
+
