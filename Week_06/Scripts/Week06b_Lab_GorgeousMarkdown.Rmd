@@ -1,0 +1,110 @@
+---
+title: "Week06b Lab: Making a Gorgeous Markdown Script"
+author: "Hannah Merges"
+date: "`r Sys.Date()`"
+output: 
+  prettydoc::html_pretty:
+    theme: hpstr
+    
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, 
+                      warning=FALSE, 
+                      message=FALSE, 
+                      fig.path = "../Outputs/")
+```
+## Introduction 
+Welcome! This lab will use R Markdown to: 
+
+* Create a table and figure using a previous dataset 
+* Use features such as **bold**, _italics_, and lists to demonstrate comfort in R Markdown language 
+* Make a _beautiful script_ using new themes, document styles, texts, etc. 
+
+
+### Load necessary libraries 
+```{r}
+library(tidyverse)
+library(here)
+library(kableExtra)
+library(lubridate)
+library(praise)
+library(rmarkdown)
+```
+
+### Read in data and arrange/tidy it 
+
+```{r}
+DepthData <-read_csv(here("Week_06","Data","DepthData.csv"))
+
+CondData<-read_csv(here("Week_06","Data","CondData.csv")) %>% 
+  mutate(date=mdy_hms(date), ##change the columns to proper date, year format 
+         date=round_date(date, "10 seconds")) #round seconds to match with depth data
+
+###joining both datasets together to analyze in figures more easily 
+joined_DepthCond <- inner_join(DepthData, CondData) %>% 
+  mutate(date=round_date(date, "minute")) %>% #rounds for minute 
+  group_by(date) %>% #group by the dates to then average everything 
+  summarise(avg_temp=mean(Temperature), #averages for each var
+            avg_salinity=mean(Salinity), 
+            avg_depth=mean(Depth))
+
+## will use this for the table 
+full_DepthCond <- inner_join(DepthData, CondData)
+
+totalaverages <- full_DepthCond %>% 
+  group_by(Serial) %>% 
+  summarise(totalavg_temp=mean(Temperature), #averages for each var
+            totalavg_salinity=mean(Salinity), 
+            totalavg_depth=mean(Depth))
+totalaverages
+
+```
+### Make a figure using this data 
+
+```{r conductivity_depth_figure, fig.align='center', fig.cap="The average temperature, salinity, and depth recordings from January 1st, 2015"}
+
+##use stat_density_2d for this specific dataset because this uses the frequency of each point --> how often does this salinity occur at this temperature 
+##can normally use geom_tile() for other heat maps 
+
+joined_DepthCond %>%
+  ggplot(aes(x=avg_salinity,
+             y=avg_temp)) +
+  stat_density_2d(aes(fill = ..level..), geom = "polygon", colour="white") + #area + contour 
+  labs(x="Average Salinity (ppt)", 
+       y="Average Temperature(C)", 
+       title="Analysis of Temperature and Salinity Frequencies") + 
+  theme_linedraw() +
+  theme(axis.text.x=element_text(size=10), 
+        axis.text.y=element_text(size=10), 
+        axis.title.x=element_text(size=12),
+        axis.title.y=element_text(size=12), 
+        plot.title=element_text(hjust=0.5))
+```
+
+### Showing data in a table 
+```{r}
+totalaverages %>% 
+  kbl() %>% #make it a kable table
+  kable_classic() %>% #style for this kable table 
+  row_spec(1, bold=T, color="white", background="coral") %>% #more style choices to change the color of my rows
+  kable_styling(full_width=FALSE) #this makes the width fit to the size/amount of text 
+```
+
+### Summary 
+This lab was designed to make a **beautiful** R Markdown script and practice new skills. I think I succeeded. I learned some new things like how to make a density plot/heat map. I also learned that the plots output right below in the script, not in the plots window like I am used to :)
+Goals for next time: include pictures! 
+**_Thank you for reading!_**
+
+
+
+
+
+
+
+
+
+
+
+
+

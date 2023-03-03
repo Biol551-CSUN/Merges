@@ -2,11 +2,15 @@
 title: "Week06b: Learning more in RMarkdown with Figures"
 author: "Hannah Merges"
 date: "`r Sys.Date()`"
-output: html_document
+output: 
+  html_document:
+    toc: TRUE
+    toc_float: TRUE
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, 
+                      fig.path="../Outputs/")
 ```
 
 ## Load Libraries 
@@ -14,9 +18,15 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(palmerpenguins)
 library(here)
+library(kableExtra)
 ```
 ## Make a plot with penguin data 
-```{r}
+```{r penguin, fig.asp=1.2, fig.align='center', fig.cap="This is my penguin figure", dev='pdf', echo=FALSE}
+##if doing out.width -- need to put %ange in quotes 
+##if doing fig.width and fig.height, just numeric value so don't need quotes 
+#default for height and width is in inches
+##fig.align 
+## aspect ration -- can manipulate by percentage or ratio 
 penguins %>% ##using the penguin dataset
   ggplot(aes(x=bill_length_mm, 
              y=bill_depth_mm, 
@@ -28,4 +38,31 @@ penguins %>% ##using the penguin dataset
        color = "Species") + 
   theme_bw()
 ```
+
+## Yeet, let's learn how to make a table 
+|Time|Session|Topic|
+|:-------|:-------|:-------:|
+|*left*|*center*|*right*|
+|1:00|1|Anatomy|
+|1:50|2|**Break**|
+|2:00|3|LUNCH|
+
+## Use new package to help create a basic table 
+```{r}
+penguins %>% 
+  group_by(species) %>%  
+  summarise(billmean=mean(bill_length_mm, na.rm=TRUE)) %>% 
+  kbl() %>% #make it a kable table
+  kable_classic() %>% 
+  row_spec(2, bold=T, color="white", background="red") %>% 
+  kable_styling(full_width=FALSE)
+```
+
+
+
+
+
+
+
+
 
