@@ -83,7 +83,7 @@ joined_DepthCond %>%
 ```
 
 ### Showing data in a table 
-```{r}
+```{r Table, warning=FALSE}
 totalaverages %>% 
   kbl() %>% #make it a kable table
   kable_classic() %>% #style for this kable table 
