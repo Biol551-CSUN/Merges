@@ -83,12 +83,22 @@ joined_DepthCond %>%
 ```
 
 ### Showing data in a table 
-```{r Table, warning=FALSE}
-totalaverages %>% 
+```{r conductivity_table, fig.align='center', fig.cap="The total averages of temperature, salinity, and depth across all recordings from January 1st, 2015"}
+## the figure captions are not showing up here, and I am not sure why, but maybe related to saving as output problem?
+
+conductivity_averages <- totalaverages %>% 
   kbl() %>% #make it a kable table
   kable_classic() %>% #style for this kable table 
   row_spec(1, bold=T, color="white", background="coral") %>% #more style choices to change the color of my rows
-  kable_styling(full_width=FALSE) #this makes the width fit to the size/amount of text 
+  kable_styling(full_width=FALSE) %>% #this makes the width fit to the size/amount of text 
+  save_kable(here("Outputs", "avg_conductivitytable.png"))
+  
+  save_kable(here("avg_conductivity_table.png")) 
+
+conductivity_averages
+
+
+
 ```
 
 ### Summary 

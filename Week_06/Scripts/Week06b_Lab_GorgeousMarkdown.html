@@ -12,7 +12,7 @@
 
 <meta name="author" content="Hannah Merges" />
 
-<meta name="date" content="2023-03-02" />
+<meta name="date" content="2023-03-04" />
 
 <title>Week06b Lab: Making a Gorgeous Markdown Script</title>
 
@@ -374,7 +374,7 @@ pointer-events: auto;
 <h1 class="title toc-ignore entry-title">Week06b Lab: Making a Gorgeous
 Markdown Script</h1>
 <h3 class="author">Hannah Merges</h3>
-<h3 class="date">2023-03-02</h3>
+<h3 class="date">2023-03-04</h3>
 </div><!-- /.header-title-wrap -->
 </header>
 
@@ -458,11 +458,15 @@ The average temperature, salinity, and depth recordings from January
 </div>
 <div id="showing-data-in-a-table" class="section level3">
 <h3>Showing data in a table</h3>
-<div class="sourceCode" id="cb5"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>totalaverages <span class="sc">%&gt;%</span> </span>
-<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kbl</span>() <span class="sc">%&gt;%</span> <span class="co">#make it a kable table</span></span>
-<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kable_classic</span>() <span class="sc">%&gt;%</span> <span class="co">#style for this kable table </span></span>
-<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">row_spec</span>(<span class="dv">1</span>, <span class="at">bold=</span>T, <span class="at">color=</span><span class="st">&quot;white&quot;</span>, <span class="at">background=</span><span class="st">&quot;coral&quot;</span>) <span class="sc">%&gt;%</span> <span class="co">#more style choices to change the color of my rows</span></span>
-<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kable_styling</span>(<span class="at">full_width=</span><span class="cn">FALSE</span>) <span class="co">#this makes the width fit to the size/amount of text </span></span></code></pre></div>
+<div class="sourceCode" id="cb5"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="do">## the figure captions are not showing up here, and I am not sure why, but maybe related to saving as output problem?</span></span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a>conductivity_averages <span class="ot">&lt;-</span> totalaverages <span class="sc">%&gt;%</span> </span>
+<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kbl</span>() <span class="sc">%&gt;%</span> <span class="co">#make it a kable table</span></span>
+<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kable_classic</span>() <span class="sc">%&gt;%</span> <span class="co">#style for this kable table </span></span>
+<span id="cb5-6"><a href="#cb5-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">row_spec</span>(<span class="dv">1</span>, <span class="at">bold=</span>T, <span class="at">color=</span><span class="st">&quot;white&quot;</span>, <span class="at">background=</span><span class="st">&quot;coral&quot;</span>) <span class="sc">%&gt;%</span> <span class="co">#more style choices to change the color of my rows</span></span>
+<span id="cb5-7"><a href="#cb5-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kable_styling</span>(<span class="at">full_width=</span><span class="cn">FALSE</span>) <span class="co">#this makes the width fit to the size/amount of text </span></span>
+<span id="cb5-8"><a href="#cb5-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-9"><a href="#cb5-9" aria-hidden="true" tabindex="-1"></a>conductivity_averages</span></code></pre></div>
 <table class=" lightable-classic table" style="font-family: &quot;Arial Narrow&quot;, &quot;Source Sans Pro&quot;, sans-serif; margin-left: auto; margin-right: auto; width: auto !important; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>

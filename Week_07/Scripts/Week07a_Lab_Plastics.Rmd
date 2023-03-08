@@ -1,0 +1,105 @@
+---
+title: "Week07 Plastic Pollution Distribution"
+author: "Hannah Merges"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    theme: spacelab
+    toc: TRUE
+    toc_float: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, 
+                      warning=FALSE, 
+                      message=FALSE, 
+                      fig.path = "../Outputs/")
+```
+## Introduction 
+This week's lab will be using map packages to analyze a previous **plastic pollution** Tidy Tuesday dataset. 
+
+## Load libraries 
+```{r, warning=FALSE, message=FALSE}
+library(tidyverse)
+library(here)
+library(maps)
+library(mapdata)
+library(mapproj)
+library(stringr)
+library(beyonce)
+```
+
+## Read in Data 
+```{r, warning=FALSE, message=FALSE}
+plastic_poll <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2021/2021-01-26/plastics.csv')
+```
+## Tidy the data 
+Wow this took so long, why are people so messy. Learned _new things_ though! 
+```{r}
+world <- map_data("world")
+plastic_poll_filtered <- plastic_poll %>% 
+ drop_na() %>% 
+ filter(parent_company=="The Coca-Cola Company") 
+
+setdiff(plastic_poll_filtered$country, world$region) ## this function shows you a list of which names are different per the specificed columns of each dataset --> so we know what to change! 
+## used filtered dataset here because only care about the differences in countries with Coca Cola b/c that is what I am using in the map 
+
+test <- world %>% 
+  distinct(region) ##can also use this function in tidyverse to get isolated list 
+test
+
+#now going to change the names 
+##str_to_lower() can also use stringr package of all the titles need to be changed, but since only a few individual ones, going to use case_when()
+
+plastics_rename <- plastic_poll %>% 
+  mutate(country=case_when(country=="NIGERIA" ~ "Nigeria", ##this changes the spelling of the names in plastics dataset to match the world set 
+                           country=="United States of America" ~ "USA",
+                           country=="United Kingdom of Great Britain & Northern Ireland" ~ "UK", 
+         TRUE ~as.character(plastic_poll$country))) %>% ##need to mutate the column to create a new column for if these things are true, and then if TRUE, put them back into the dataset with the same column as the other normal names 
+  drop_na() %>% 
+  filter(parent_company=="The Coca-Cola Company") ##feel like the order matters here 
+
+check1 <- plastics_rename %>% 
+  distinct(country) ##here there are 49 rows which means 6 countries repeat 
+
+??case_when
+ 
+##NOW join with the world dataset to get lat and long data 
+world_plastics <- world %>% 
+  rename(country = region) %>%
+  inner_join(plastics_rename) %>% 
+  drop_na()
+
+check2 <- world_plastics %>% 
+  distinct(country) ##here there are only 34 observations, how did I lose 10??
+  
+```
+
+## Make a map! 
+```{r, CocaCola map, fig.align='center', fig.cap="The countries around the world that have plastic pollution from Coca Cola"}
+ggplot() + 
+  geom_polygon(data=world, ##need this as the base layer to get the whole map 
+               aes(x=long, 
+                   y=lat, 
+                   group=group), 
+               fill="beige", ##outside of the aesthetics because it is not based on data 
+               color="black") +  #this works with the borders 
+  geom_polygon(data=world_plastics, ##add a new layer with the filtered countries 
+               aes(x=long, 
+                   y=lat, 
+                   group=group,
+                   fill=country)) + 
+  scale_color_gradient() + 
+  guides(fill=FALSE) + 
+  theme_bw() + 
+  labs(x="Longitude", 
+       y="Latitude", 
+       title="Countries in the World Polluted with Coca-Cola") + 
+   theme(axis.text.x=element_text(size=10), 
+        axis.text.y=element_text(size=10), 
+        axis.title.x=element_text(size=12),
+        axis.title.y=element_text(size=12), 
+        plot.title=element_text(hjust=0.5))
+
+```
+
