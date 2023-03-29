@@ -1,0 +1,149 @@
+---
+title: "Good Plot, Bad Plot"
+author: "Hannah Merges"
+date: "`r Sys.Date()`"
+output: 
+  html_document: 
+    theme: united 
+    toc: TRUE 
+    toc_float: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, 
+                      warning = FALSE,
+                      message = FALSE, 
+                      fig.path="../Output/")
+```
+
+## Introduction to the assignment:
+-  The goal here is to make a really great, informative, and accurate plot with any set of data. Conversely, we will also be making a horrible plot both in its aesthetics and accuracy of portrayed data. 
+
+## Load Libraries 
+```{r}
+library(tidyverse)
+library(here)
+library(magick)
+library(PNWColors)
+```
+
+## Read in Data 
+This dataset is downloaded from the NSF-funded Moorea Coral Reef Long-Term Ecological Research project in Moorea, French Polynesia.  
+
+This dataset is part of a time-series study which includes recruitment data from 2005 through 2016 and uses ceramic tiles to collect and count coral recruits from the lagoon and the forereef. 
+Primary families of coral species were Acroporids, Pocillopora, and Porites, with some labeled as other or unidentifiable. 
+```{r}
+#read in the data from MCR! 
+coral_counts <- read_csv(here("GoodPlot_BadPlot/Data/coral_recruit_tile_spat_counts_2006-2016_20180626.csv"))
+
+coral_counts %>% 
+distinct(location)
+  
+```
+## Tidy and manipulate the data 
+
+```{r}
+##tidying the original dataset 
+coral_counts2 <- coral_counts %>% 
+  filter(family!="Unidentified", 
+         family!="Other",
+         side!="A") %>% 
+  drop_na() %>% 
+  mutate(season=if_else(season=="jan-sep","Jan-Sep", "Sep-Jan"))
+##this filters for just these families and says side does NOT include "A"
+coral_counts2
+
+coral_counts2 %>% 
+distinct(family) #just checking to confirm it dropped everything properly
+
+coral_counts3 <- coral_counts2 %>%
+  group_by(family,season) %>% 
+  summarize(sum_total=sum(count)) 
+coral_counts3
+
+#how do I best manipulate this data so it is in a good organization what I want to plot?
+#I am thinking of making a plot to show either the recruit counts per side of the tile OR to show the total counts from each tile over time and among species 
+counts_tilelocation <- coral_counts %>% 
+  pivot_wider(names_from = side, values_from = count) %>% 
+  filter(habitat=="Lagoon", 
+         family=="Pocilloporidae") %>% 
+  mutate(total_count = B + S + T) ##R recognizes double quotes as characters,so just add the literal column name  
+  
+counts_tilelocation %>% 
+distinct(total_count)
+# did not end up using this dataset but good to keep it for the next assignment and learn how to do it 
+
+```
+
+## Make a good plot 
+This is a good plot because it very clearly illustrates the data in a straightforward and accurate way. This plot shows the two recruitment seasons on the x-axis and the total counts of recruits across all years of the study on the y-axis. The plot is faceted by coral family to show a direct comparison between each one. It also includes a helpful figure caption and a picture in the top right corner of what a recruitment tile looks like for reference. The labels are easy to read and the title clearly explains what the plot is showing. 
+
+```{r, goodplot, fig.align='center', fig.cap="This plot shows the total counts from 2005-2016 for coral recruits on collected tiles across all habitats and shores."}
+
+ggplot(data=coral_counts3, 
+       aes(x=season, 
+           y=sum_total, 
+           fill=season)) + 
+  geom_col() + 
+  facet_wrap(~family) + 
+  theme_linedraw() + 
+  scale_fill_manual(values=pnw_palette("Sailboat")) +
+  labs(x="Recruitment Season", 
+       y="Total number of coral recruits", 
+       title="Species abundance of coral recruits by season from 2005-2016", 
+       fill="Season") + 
+  theme(axis.text.x=element_text(size=10), 
+        axis.text.y=element_text(size=10), 
+        axis.title.x=element_text(size=12),
+        axis.title.y=element_text(size=12), 
+        plot.title=element_text(hjust=0.5)) 
+ggsave(here("GoodPlot_BadPlot", "Output", "goodplot_recruitment.jpg"), 
+       width=6, height=5)
+
+##This plot includes a picture of recruitment tiles to give context for the data. 
+??magick
+tiles <-image_read("http://www.australiangeographic.com.au/wp-content/uploads/2019/04/Settlement-on-tile-900x507.jpg")
+
+recruit <- image_read(here("GoodPlot_BadPlot", "Output", "goodplot_recruitment.jpg"))
+
+tiles2 <- image_scale(tiles, "250x350") ##figuring out how to crop the image so it is not as large
+tiles2
+
+goodplot_tileimage <- image_composite(recruit, tiles2, offset = "+1500+90") #adding two images to each other and offset is used to move the picture around the frame --> first number is the width and second is height 
+goodplot_tileimage
+
+```
+
+## Make a bad plot  
+This is a bad plot because ... well hopefully it is obvious.  
+But, aside from the obvious **bold** choice of colors, the axis labels are too big to read effectively and the title is small and off-center. Also the actual data, is facet wrapped in potentially a helpful way except that no context is really given for what we are looking at. There is count data on the y axis, but for what? And there is virtually no context for what or where these lagoon or forereef areas are. Also, the axes are scaled inappropriately (how would there be negative recruits?) and therefore puts the data crunched in the middle of the graph. The line shapes are also too crowded together to actually see the data. 
+```{r, badplot, fig.align='center', fig.cap="This is a really bad plot that illustrates the counts of coral families (unlabeled) on recruitment tiles in different habitats and shores in Moorea from 2005-2016"}
+ggplot(data=coral_counts, 
+       aes(x=nominal_year, 
+           y=count)) +
+  geom_segment(aes(x=nominal_year, xend=nominal_year, y=0, yend=count)) +
+  geom_point(size=2, color="yellow", fill=alpha("green", 0.1), alpha=0.7, shape=21, stroke=2) +
+  facet_wrap(shore~habitat) + 
+  theme_gray() + 
+  labs(x="year", 
+       y="number", 
+       title="RECRUIT SPP IN 2000s ") +
+  theme(axis.text.x=element_text(size=20), 
+        axis.text.y=element_text(size=20), 
+        axis.title.x=element_text(size=5),
+        axis.title.y=element_text(size=8),
+        plot.title=element_text(hjust=1, size = rel(0.8) ), 
+        plot.background=element_rect("hotpink"), 
+        panel.border=element_rect(fill = NA, colour = "blue"), 
+        strip.background = element_rect(fill = "orange", colour = "purple")) + 
+  xlim(2000,2020) + 
+  ylim(-20,50)
+ggsave(here("GoodPlot_BadPlot","Output", "Bad_Plot.jpg"), height=10, width=10)
+
+```
+## Summary 
+-  This assignment helped me learn different ways to manipulate a dataset as well as aesthetics for a plot. I think it would be cool to have figured out a way to insert and image of a recruitment tile and then somehow get the location of each recruit as a data point onto the image to better visualize the data. However, I think my plot does a good job at presenting the information in an understandable and relevant way, and my bad plot is confusing and harsh to look at, which fits the goals of the assignment.  
+
+
+
+
