@@ -1,0 +1,2423 @@
+Location,Plot_Number,Treatment,Replicate,Coral_Diversity,Species,Count
+Kimbe,7,High,1,high,Canthigaster papua,1
+Kimbe,7,High,1,high,Chaetodon baronessa,1
+Kimbe,7,High,1,high,Chaetodon octofascialis,1
+Kimbe,7,High,1,high,Cheilodipterus quinquelineatus,16
+Kimbe,7,High,1,high,Chromis viridis,13
+Kimbe,7,High,1,high,Dascyllus aruanus,1
+Kimbe,7,High,1,high,Dascyllus melanurus,35
+Kimbe,7,High,1,high,Dascyllus reticulatus,9
+Kimbe,7,High,1,high,Dascyllus trimaculatus,3
+Kimbe,7,High,1,high,Dischistodus perspicillatus,1
+Kimbe,7,High,1,high,Gobiodon albofasciatus,2
+Kimbe,7,High,1,high,Gobiodon ceramicus,2
+Kimbe,7,High,1,high,Gobiodon histrio,2
+Kimbe,7,High,1,high,Gobiodon okulolineatus,1
+Kimbe,7,High,1,high,Gobiodon sp C,4
+Kimbe,7,High,1,high,Halichoeres chloropterus,1
+Kimbe,7,High,1,high,Halichoeres melanurus,1
+Kimbe,7,High,1,high,Lutjanus gibbus,20
+Kimbe,7,High,1,high,Myripristis sp,1
+Kimbe,7,High,1,high,Neoniphon sp,5
+Kimbe,7,High,1,high,Paragobiodon echinocephalus,3
+Kimbe,7,High,1,high,Paragobiodon xanthosomus,10
+Kimbe,7,High,1,high,Pomacentrus simsiang,1
+Kimbe,7,High,1,high,Scolopsis unid,1
+Kimbe,7,High,1,high,Stegastes lividus,4
+Kimbe,22,High,2,high,Acan dark juveniles,8
+Kimbe,22,High,2,high,Apogon ventrifasciatus,1
+Kimbe,22,High,2,high,Balistapus undulatus,1
+Kimbe,22,High,2,high,Canthigaster valentini,1
+Kimbe,22,High,2,high,Cephalopholis microprion,1
+Kimbe,22,High,2,high,Chromis viridis,20
+Kimbe,22,High,2,high,Dascyllus aruanus,1
+Kimbe,22,High,2,high,Dascyllus melanurus,14
+Kimbe,22,High,2,high,Dascyllus reticulatus,15
+Kimbe,22,High,2,high,Eviota nigriventris,1
+Kimbe,22,High,2,high,Gobiodon albofasciatus,1
+Kimbe,22,High,2,high,Gobiodon histrio,2
+Kimbe,22,High,2,high,Gobiodon quinquestrigatus,3
+Kimbe,22,High,2,high,Gobiodon sp C,3
+Kimbe,22,High,2,high,Halichoeres cyanopleura,1
+Kimbe,22,High,2,high,Halichoeres scapularis,1
+Kimbe,22,High,2,high,Lutjanus gibbus,50
+Kimbe,22,High,2,high,Lutjanus kasmira,1
+Kimbe,22,High,2,high,Lutjanus monostigma,1
+Kimbe,22,High,2,high,Neoniphon sp,1
+Kimbe,22,High,2,high,Paragobiodon echinocephalus,4
+Kimbe,22,High,2,high,Parupeneus barberinus,1
+Kimbe,22,High,2,high,Pomacentrus pavo,6
+Kimbe,22,High,2,high,Premnas biaculeatus,1
+Kimbe,22,High,2,high,Pseudochromis fuscus,2
+Kimbe,22,High,2,high,Stegastes lividus,1
+Kimbe,32,High,3,high,Acan dark juveniles,5
+Kimbe,32,High,3,high,Amblygobius phaelaena,1
+Kimbe,32,High,3,high,Balistapus undulatus,2
+Kimbe,32,High,3,high,Cephalopholis cyanostigma,1
+Kimbe,32,High,3,high,Chromis viridis,2
+Kimbe,32,High,3,high,Dascyllus melanurus,12
+Kimbe,32,High,3,high,Dascyllus reticulatus,12
+Kimbe,32,High,3,high,Dascyllus trimaculatus,6
+Kimbe,32,High,3,high,Gobiodon albofasciatus,1
+Kimbe,32,High,3,high,Gobiodon histrio,2
+Kimbe,32,High,3,high,Gobiodon okulolineatus,1
+Kimbe,32,High,3,high,Gobiodon sp C,5
+Kimbe,32,High,3,high,Halichoeres melanurus,5
+Kimbe,32,High,3,high,Halichoeres scapularis,1
+Kimbe,32,High,3,high,Lutjanus gibbus,3
+Kimbe,32,High,3,high,Lutjanus monostigma,1
+Kimbe,32,High,3,high,Paragobiodon melanosomus,2
+Kimbe,32,High,3,high,Pomacentrus adelus,1
+Kimbe,32,High,3,high,Pomacentrus amboinensis,4
+Kimbe,32,High,3,high,Pomacentrus pavo,4
+Kimbe,32,High,3,high,Pomacentrus simsiang,1
+Kimbe,32,High,3,high,Pseudochromis fuscus,1
+Kimbe,32,High,3,high,Thalassoma lunare,1
+Kimbe,56,High,4,high,Acan dark juveniles,7
+Kimbe,56,High,4,high,Aeoliscus strigatus,1
+Kimbe,56,High,4,high,Apogon fraenatus,1
+Kimbe,56,High,4,high,Chaetodon baronessa,1
+Kimbe,56,High,4,high,Chromis viridis,5
+Kimbe,56,High,4,high,Dascyllus melanurus,6
+Kimbe,56,High,4,high,Dascyllus reticulatus,8
+Kimbe,56,High,4,high,Dascyllus trimaculatus,1
+Kimbe,56,High,4,high,Dischistodus perspicillatus,1
+Kimbe,56,High,4,high,Gobiodon albofasciatus,1
+Kimbe,56,High,4,high,Gobiodon histrio,1
+Kimbe,56,High,4,high,Gobiodon quinquestrigatus,2
+Kimbe,56,High,4,high,Gobiodon sp C,4
+Kimbe,56,High,4,high,Halichoeres chloropterus,1
+Kimbe,56,High,4,high,Lutjanus gibbus,20
+Kimbe,56,High,4,high,Monotaxis grandoculis,1
+Kimbe,56,High,4,high,Neoniphon sp,1
+Kimbe,56,High,4,high,Odonus niger,1
+Kimbe,56,High,4,high,Paragobiodon echinocephalus,2
+Kimbe,56,High,4,high,Paragobiodon xanthosomus,2
+Kimbe,56,High,4,high,Parupeneus heptacanthus,1
+Kimbe,56,High,4,high,Pomacentrus simsiang,1
+Kimbe,56,High,4,high,Sufflamen chrysopterus,1
+Kimbe,56,High,4,high,Triggerfish juv  titan or P flavi,2
+Kimbe,80,High,5,high,Acan dark juveniles,8
+Kimbe,80,High,5,high,Cirrhitichthys falco,1
+Kimbe,80,High,5,high,Corythoichthys intestinalis,3
+Kimbe,80,High,5,high,Dascyllus melanurus,12
+Kimbe,80,High,5,high,Dascyllus reticulatus,15
+Kimbe,80,High,5,high,Dascyllus trimaculatus,1
+Kimbe,80,High,5,high,Gobiodon albofasciatus,1
+Kimbe,80,High,5,high,Gobiodon ceramicus,1
+Kimbe,80,High,5,high,Gobiodon quinquestrigatus,1
+Kimbe,80,High,5,high,Halichoeres melanurus,3
+Kimbe,80,High,5,high,Halichoeres scapularis,2
+Kimbe,80,High,5,high,juv  Scarid striped,1
+Kimbe,80,High,5,high,Lutjanus gibbus,20
+Kimbe,80,High,5,high,Lutjanus kasmira,1
+Kimbe,80,High,5,high,Paragobiodon echinocephalus,2
+Kimbe,80,High,5,high,Paragobiodon xanthosomus,2
+Kimbe,80,High,5,high,Pseudocheilinus hexataenia,1
+Kimbe,80,High,5,high,Pseudochromis fuscus,1
+Kimbe,80,High,5,high,Sufflamen chrysopterus,1
+Kimbe,80,High,5,high,Triggerfish juv  titan or P flavi,1
+Kimbe,17,Acropora nasuta,1,low,Apogon hartzfeldii,1
+Kimbe,17,Acropora nasuta,1,low,Balistapus undulatus,1
+Kimbe,17,Acropora nasuta,1,low,Chaetodon baronessa,2
+Kimbe,17,Acropora nasuta,1,low,Chaetodon octofascialis,2
+Kimbe,17,Acropora nasuta,1,low,Cheilodipterus quinquelineatus,2
+Kimbe,17,Acropora nasuta,1,low,Chromis viridis,500
+Kimbe,17,Acropora nasuta,1,low,Dascyllus melanurus,40
+Kimbe,17,Acropora nasuta,1,low,Dascyllus reticulatus,5
+Kimbe,17,Acropora nasuta,1,low,Dischistodus perspicillatus,3
+Kimbe,17,Acropora nasuta,1,low,Gobiodon histrio,3
+Kimbe,17,Acropora nasuta,1,low,Gobiodon quinquestrigatus,19
+Kimbe,17,Acropora nasuta,1,low,Halichoeres chloropterus,1
+Kimbe,17,Acropora nasuta,1,low,Halichoeres melanurus,1
+Kimbe,17,Acropora nasuta,1,low,Lutjanus gibbus,10
+Kimbe,17,Acropora nasuta,1,low,Monotaxis grandoculis,1
+Kimbe,17,Acropora nasuta,1,low,Neoniphon sp,5
+Kimbe,17,Acropora nasuta,1,low,Pomacentrus aurifrons,1
+Kimbe,17,Acropora nasuta,1,low,Stegastes lividus,8
+Kimbe,28,Acropora nasuta,2,low,Acan dark juveniles,8
+Kimbe,28,Acropora nasuta,2,low,Apogon fraenatus,7
+Kimbe,28,Acropora nasuta,2,low,Chaetodon baronessa,1
+Kimbe,28,Acropora nasuta,2,low,Chaetodon lunulatus,1
+Kimbe,28,Acropora nasuta,2,low,Chaetodon octofascialis,1
+Kimbe,28,Acropora nasuta,2,low,Chromis viridis,350
+Kimbe,28,Acropora nasuta,2,low,Dascyllus melanurus,14
+Kimbe,28,Acropora nasuta,2,low,Dascyllus reticulatus,11
+Kimbe,28,Acropora nasuta,2,low,Dascyllus trimaculatus,3
+Kimbe,28,Acropora nasuta,2,low,Gnathodentex aureolineatus  dark,1
+Kimbe,28,Acropora nasuta,2,low,Gobiodon quinquestrigatus,15
+Kimbe,28,Acropora nasuta,2,low,Halichoeres chloropterus,1
+Kimbe,28,Acropora nasuta,2,low,Halichoeres melanurus,1
+Kimbe,28,Acropora nasuta,2,low,Lutjanus gibbus,30
+Kimbe,28,Acropora nasuta,2,low,Monotaxis grandoculis,1
+Kimbe,28,Acropora nasuta,2,low,Neoniphon sp,5
+Kimbe,28,Acropora nasuta,2,low,Pomacentrus aurifrons,2
+Kimbe,28,Acropora nasuta,2,low,Pomacentrus pavo,5
+Kimbe,28,Acropora nasuta,2,low,Pomacentrus simsiang,1
+Kimbe,28,Acropora nasuta,2,low,Stegastes lividus,2
+Kimbe,28,Acropora nasuta,2,low,Triggerfish juv  titan or P flavi,1
+Kimbe,30,Acropora nasuta,3,low,Acan dark juveniles,7
+Kimbe,30,Acropora nasuta,3,low,Balistapus undulatus,1
+Kimbe,30,Acropora nasuta,3,low,Chaetodon baronessa,1
+Kimbe,30,Acropora nasuta,3,low,Chaetodon octofascialis,3
+Kimbe,30,Acropora nasuta,3,low,Chromis viridis,500
+Kimbe,30,Acropora nasuta,3,low,Dascyllus melanurus,30
+Kimbe,30,Acropora nasuta,3,low,Dascyllus reticulatus,40
+Kimbe,30,Acropora nasuta,3,low,Dascyllus trimaculatus,1
+Kimbe,30,Acropora nasuta,3,low,Gobiodon okinawae,1
+Kimbe,30,Acropora nasuta,3,low,Gobiodon quinquestrigatus,9
+Kimbe,30,Acropora nasuta,3,low,Gobiodon sp C,2
+Kimbe,30,Acropora nasuta,3,low,Lutjanus gibbus,40
+Kimbe,30,Acropora nasuta,3,low,Lutjanus kasmira,6
+Kimbe,30,Acropora nasuta,3,low,Paracanthurus hepatus,5
+Kimbe,30,Acropora nasuta,3,low,Pervagor nigrolineatus,1
+Kimbe,30,Acropora nasuta,3,low,Pomacentrus aurifrons,1
+Kimbe,30,Acropora nasuta,3,low,Pseudochromis fuscus,1
+Kimbe,30,Acropora nasuta,3,low,Stegastes lividus,3
+Kimbe,30,Acropora nasuta,3,low,Triggerfish juv  titan or P flavi,2
+Kimbe,60,Acropora nasuta,4,low,Acan dark juveniles,20
+Kimbe,60,Acropora nasuta,4,low,Amblygobius phaelaena,5
+Kimbe,60,Acropora nasuta,4,low,Chaetodon octofascialis,16
+Kimbe,60,Acropora nasuta,4,low,Chromis viridis,100
+Kimbe,60,Acropora nasuta,4,low,Dascyllus melanurus,9
+Kimbe,60,Acropora nasuta,4,low,Dascyllus reticulatus,18
+Kimbe,60,Acropora nasuta,4,low,Dascyllus trimaculatus,7
+Kimbe,60,Acropora nasuta,4,low,Gobiodon ceramicus,1
+Kimbe,60,Acropora nasuta,4,low,Gobiodon quinquestrigatus,9
+Kimbe,60,Acropora nasuta,4,low,Halichoeres melanurus,2
+Kimbe,60,Acropora nasuta,4,low,Halichoeres scapularis,1
+Kimbe,60,Acropora nasuta,4,low,Lutjanus gibbus,20
+Kimbe,60,Acropora nasuta,4,low,Lutjanus kasmira,2
+Kimbe,60,Acropora nasuta,4,low,Lutjanus monostigma,7
+Kimbe,60,Acropora nasuta,4,low,Paracanthurus hepatus,2
+Kimbe,60,Acropora nasuta,4,low,Parupeneus barberinus,2
+Kimbe,60,Acropora nasuta,4,low,Parupeneus heptacanthus,4
+Kimbe,60,Acropora nasuta,4,low,Pomacentrus aurifrons,2
+Kimbe,60,Acropora nasuta,4,low,Pomacentrus pavo,6
+Kimbe,60,Acropora nasuta,4,low,Pomacentrus simsiang,2
+Kimbe,60,Acropora nasuta,4,low,Scolopsis unid,1
+Kimbe,60,Acropora nasuta,4,low,Stegastes lividus,1
+Kimbe,60,Acropora nasuta,4,low,Sufflamen chrysopterus,1
+Kimbe,99,Acropora nasuta,5,low,Acan dark juveniles,15
+Kimbe,99,Acropora nasuta,5,low,Chaetodon baronessa,2
+Kimbe,99,Acropora nasuta,5,low,Chaetodon octofascialis,1
+Kimbe,99,Acropora nasuta,5,low,Chromis viridis,30
+Kimbe,99,Acropora nasuta,5,low,Cirrhitichthys falco,1
+Kimbe,99,Acropora nasuta,5,low,Dascyllus melanurus,15
+Kimbe,99,Acropora nasuta,5,low,Dascyllus reticulatus,20
+Kimbe,99,Acropora nasuta,5,low,Dascyllus trimaculatus,3
+Kimbe,99,Acropora nasuta,5,low,Gobiodon ceramicus,1
+Kimbe,99,Acropora nasuta,5,low,Gobiodon histrio,4
+Kimbe,99,Acropora nasuta,5,low,Gobiodon quinquestrigatus,8
+Kimbe,99,Acropora nasuta,5,low,Halichoeres scapularis,1
+Kimbe,99,Acropora nasuta,5,low,juv  Scarid other,1
+Kimbe,99,Acropora nasuta,5,low,Lutjanus gibbus,10
+Kimbe,99,Acropora nasuta,5,low,Lutjanus kasmira,1
+Kimbe,99,Acropora nasuta,5,low,Lutjanus monostigma,4
+Kimbe,99,Acropora nasuta,5,low,Neoniphon sp,1
+Kimbe,99,Acropora nasuta,5,low,Oxycheilinus bimaculatus,1
+Kimbe,99,Acropora nasuta,5,low,Paracanthurus hepatus,2
+Kimbe,99,Acropora nasuta,5,low,Stegastes lividus,1
+Kimbe,99,Acropora nasuta,5,low,Sufflamen chrysopterus,1
+Kimbe,99,Acropora nasuta,5,low,Triggerfish juv  titan or P flavi,2
+Kimbe,99,Acropora nasuta,5,low,Valenciennea muralis,1
+Kimbe,1,Acropora carduus,1,low,Acan dark juveniles,4
+Kimbe,1,Acropora carduus,1,low,Canthigaster bennetti,1
+Kimbe,1,Acropora carduus,1,low,Chaetodon lunulatus,1
+Kimbe,1,Acropora carduus,1,low,Dascyllus melanurus,27
+Kimbe,1,Acropora carduus,1,low,Dascyllus reticulatus,13
+Kimbe,1,Acropora carduus,1,low,Dischistodus perspicillatus,2
+Kimbe,1,Acropora carduus,1,low,Eviota nigriventris,2
+Kimbe,1,Acropora carduus,1,low,Gobiodon sp C,25
+Kimbe,1,Acropora carduus,1,low,Halichoeres melanurus,1
+Kimbe,1,Acropora carduus,1,low,Lutjanus gibbus,40
+Kimbe,1,Acropora carduus,1,low,Lutjanus monostigma,1
+Kimbe,1,Acropora carduus,1,low,Neoniphon sp,1
+Kimbe,1,Acropora carduus,1,low,Pomacentrus pavo,3
+Kimbe,1,Acropora carduus,1,low,Pseudochromis fuscus,1
+Kimbe,1,Acropora carduus,1,low,Scolopsis unid,1
+Kimbe,1,Acropora carduus,1,low,Sufflamen chrysopterus,1
+Kimbe,26,Acropora carduus,2,low,Apogon fraenatus,9
+Kimbe,26,Acropora carduus,2,low,Balistapus undulatus,1
+Kimbe,26,Acropora carduus,2,low,Cheilodipterus quinquelineatus,12
+Kimbe,26,Acropora carduus,2,low,Dascyllus melanurus,60
+Kimbe,26,Acropora carduus,2,low,Dascyllus reticulatus,9
+Kimbe,26,Acropora carduus,2,low,Dascyllus trimaculatus,8
+Kimbe,26,Acropora carduus,2,low,Dischistodus perspicillatus,1
+Kimbe,26,Acropora carduus,2,low,Eviota nigriventris,9
+Kimbe,26,Acropora carduus,2,low,Gobiodon sp C,50
+Kimbe,26,Acropora carduus,2,low,Halichoeres chloropterus,1
+Kimbe,26,Acropora carduus,2,low,Lutjanus gibbus,60
+Kimbe,26,Acropora carduus,2,low,Lutjanus kasmira,3
+Kimbe,26,Acropora carduus,2,low,Lutjanus monostigma,5
+Kimbe,26,Acropora carduus,2,low,Monotaxis grandoculis,2
+Kimbe,26,Acropora carduus,2,low,Pomacentrus simsiang,2
+Kimbe,26,Acropora carduus,2,low,Pseudochromis fuscus,2
+Kimbe,48,Acropora carduus,3,low,Acan dark juveniles,20
+Kimbe,48,Acropora carduus,3,low,Amblygobius phaelaena,2
+Kimbe,48,Acropora carduus,3,low,Canthigaster bennetti,1
+Kimbe,48,Acropora carduus,3,low,Dascyllus melanurus,2
+Kimbe,48,Acropora carduus,3,low,Dascyllus reticulatus,4
+Kimbe,48,Acropora carduus,3,low,Eviota nigriventris,1
+Kimbe,48,Acropora carduus,3,low,Gobiodon okinawae,1
+Kimbe,48,Acropora carduus,3,low,Gobiodon sp C,19
+Kimbe,48,Acropora carduus,3,low,Halichoeres chloropterus,1
+Kimbe,48,Acropora carduus,3,low,Halichoeres scapularis,3
+Kimbe,48,Acropora carduus,3,low,Lutjanus gibbus,35
+Kimbe,48,Acropora carduus,3,low,Lutjanus kasmira,1
+Kimbe,48,Acropora carduus,3,low,Lutjanus monostigma,1
+Kimbe,48,Acropora carduus,3,low,Odonus niger,1
+Kimbe,48,Acropora carduus,3,low,Scolopsis temporalis,2
+Kimbe,48,Acropora carduus,3,low,Triggerfish juv  titan or P flavi,3
+Kimbe,67,Acropora carduus,4,low,Acan dark juveniles,9
+Kimbe,67,Acropora carduus,4,low,Dascyllus melanurus,21
+Kimbe,67,Acropora carduus,4,low,Dascyllus reticulatus,10
+Kimbe,67,Acropora carduus,4,low,Dascyllus trimaculatus,3
+Kimbe,67,Acropora carduus,4,low,Eviota nigriventris,1
+Kimbe,67,Acropora carduus,4,low,Gobiodon okinawae,2
+Kimbe,67,Acropora carduus,4,low,Gobiodon sp C,10
+Kimbe,67,Acropora carduus,4,low,Halichoeres chloropterus,2
+Kimbe,67,Acropora carduus,4,low,Lutjanus gibbus,15
+Kimbe,67,Acropora carduus,4,low,Pomacentrus amboinensis,1
+Kimbe,67,Acropora carduus,4,low,Sufflamen chrysopterus,1
+Kimbe,75,Acropora carduus,5,low,Acan dark juveniles,6
+Kimbe,75,Acropora carduus,5,low,Apogon hartzfeldii,1
+Kimbe,75,Acropora carduus,5,low,Apogon ventrifasciatus,40
+Kimbe,75,Acropora carduus,5,low,Balistapus undulatus,1
+Kimbe,75,Acropora carduus,5,low,Dascyllus melanurus,23
+Kimbe,75,Acropora carduus,5,low,Dascyllus reticulatus,3
+Kimbe,75,Acropora carduus,5,low,Dascyllus trimaculatus,15
+Kimbe,75,Acropora carduus,5,low,Gobiodon okinawae,2
+Kimbe,75,Acropora carduus,5,low,Gobiodon sp C,31
+Kimbe,75,Acropora carduus,5,low,Halichoeres scapularis,4
+Kimbe,75,Acropora carduus,5,low,Lutjanus gibbus,30
+Kimbe,75,Acropora carduus,5,low,Lutjanus kasmira,1
+Kimbe,75,Acropora carduus,5,low,Pomacentrus pavo,2
+Kimbe,75,Acropora carduus,5,low,Pomacentrus simsiang,1
+Kimbe,75,Acropora carduus,5,low,Pseudochromis fuscus,1
+Kimbe,75,Acropora carduus,5,low,Triggerfish juv  titan or P flavi,2
+Kimbe,12,Pocillopora damicornis,1,low,Amblygobius phaelaena,2
+Kimbe,12,Pocillopora damicornis,1,low,Chaetodon baronessa,1
+Kimbe,12,Pocillopora damicornis,1,low,Chromis viridis,6
+Kimbe,12,Pocillopora damicornis,1,low,Dascyllus melanurus,25
+Kimbe,12,Pocillopora damicornis,1,low,Dascyllus reticulatus,50
+Kimbe,12,Pocillopora damicornis,1,low,Dascyllus trimaculatus,6
+Kimbe,12,Pocillopora damicornis,1,low,Dischistodus perspicillatus,12
+Kimbe,12,Pocillopora damicornis,1,low,Halichoeres scapularis,1
+Kimbe,12,Pocillopora damicornis,1,low,Lutjanus gibbus,11
+Kimbe,12,Pocillopora damicornis,1,low,Neoniphon sp,1
+Kimbe,12,Pocillopora damicornis,1,low,Paragobiodon echinocephalus,12
+Kimbe,12,Pocillopora damicornis,1,low,Pomacentrus amboinensis,1
+Kimbe,12,Pocillopora damicornis,1,low,Pomacentrus pavo,5
+Kimbe,12,Pocillopora damicornis,1,low,Pseudochromis fuscus,1
+Kimbe,12,Pocillopora damicornis,1,low,Stegastes lividus,7
+Kimbe,25,Pocillopora damicornis,2,low,Cheilodipterus quinquelineatus,4
+Kimbe,25,Pocillopora damicornis,2,low,Dascyllus aruanus,2
+Kimbe,25,Pocillopora damicornis,2,low,Dascyllus melanurus,2
+Kimbe,25,Pocillopora damicornis,2,low,Dascyllus reticulatus,20
+Kimbe,25,Pocillopora damicornis,2,low,Dascyllus trimaculatus,5
+Kimbe,25,Pocillopora damicornis,2,low,Halichoeres melanurus,2
+Kimbe,25,Pocillopora damicornis,2,low,Halichoeres scapularis,1
+Kimbe,25,Pocillopora damicornis,2,low,Lutjanus gibbus,15
+Kimbe,25,Pocillopora damicornis,2,low,Paragobiodon echinocephalus,5
+Kimbe,25,Pocillopora damicornis,2,low,Pomacentrus pavo,1
+Kimbe,25,Pocillopora damicornis,2,low,Pseudochromis fuscus,1
+Kimbe,25,Pocillopora damicornis,2,low,Rhinecanthus verrucosus,1
+Kimbe,25,Pocillopora damicornis,2,low,Thalassoma lunare,1
+Kimbe,34,Pocillopora damicornis,3,low,Acan dark juveniles,9
+Kimbe,34,Pocillopora damicornis,3,low,Cephalopholis urodeta,1
+Kimbe,34,Pocillopora damicornis,3,low,Chaetodon baronessa,1
+Kimbe,34,Pocillopora damicornis,3,low,Chromis viridis,10
+Kimbe,34,Pocillopora damicornis,3,low,Dascyllus aruanus,1
+Kimbe,34,Pocillopora damicornis,3,low,Dascyllus melanurus,15
+Kimbe,34,Pocillopora damicornis,3,low,Dascyllus reticulatus,50
+Kimbe,34,Pocillopora damicornis,3,low,Dascyllus trimaculatus,4
+Kimbe,34,Pocillopora damicornis,3,low,Halichoeres chloropterus,1
+Kimbe,34,Pocillopora damicornis,3,low,Halichoeres scapularis,2
+Kimbe,34,Pocillopora damicornis,3,low,Lutjanus gibbus,11
+Kimbe,34,Pocillopora damicornis,3,low,Lutjanus kasmira,1
+Kimbe,34,Pocillopora damicornis,3,low,Neoniphon sp,2
+Kimbe,34,Pocillopora damicornis,3,low,Paragobiodon echinocephalus,5
+Kimbe,34,Pocillopora damicornis,3,low,Pomacentrus amboinensis,2
+Kimbe,34,Pocillopora damicornis,3,low,Pomacentrus aurifrons,6
+Kimbe,34,Pocillopora damicornis,3,low,Pomacentrus simsiang,1
+Kimbe,34,Pocillopora damicornis,3,low,Scorpionfish,1
+Kimbe,42,Pocillopora damicornis,4,low,Acan dark juveniles,2
+Kimbe,42,Pocillopora damicornis,4,low,Canthigaster bennetti,1
+Kimbe,42,Pocillopora damicornis,4,low,Cephalopholis microprion,1
+Kimbe,42,Pocillopora damicornis,4,low,Chromis viridis,20
+Kimbe,42,Pocillopora damicornis,4,low,Dascyllus reticulatus,40
+Kimbe,42,Pocillopora damicornis,4,low,Dascyllus trimaculatus,14
+Kimbe,42,Pocillopora damicornis,4,low,Halichoeres melanurus,1
+Kimbe,42,Pocillopora damicornis,4,low,Lutjanus gibbus,8
+Kimbe,42,Pocillopora damicornis,4,low,Lutjanus kasmira,1
+Kimbe,42,Pocillopora damicornis,4,low,Parupeneus heptacanthus,1
+Kimbe,42,Pocillopora damicornis,4,low,Pomacentrus pavo,8
+Kimbe,42,Pocillopora damicornis,4,low,Pseudochromis fuscus,1
+Kimbe,42,Pocillopora damicornis,4,low,Thalassoma lunare,1
+Kimbe,69,Pocillopora damicornis,5,low,Acan dark juveniles,20
+Kimbe,69,Pocillopora damicornis,5,low,Canthigaster valentini,1
+Kimbe,69,Pocillopora damicornis,5,low,Chromis viridis,1
+Kimbe,69,Pocillopora damicornis,5,low,Dascyllus melanurus,8
+Kimbe,69,Pocillopora damicornis,5,low,Dascyllus reticulatus,70
+Kimbe,69,Pocillopora damicornis,5,low,Dascyllus trimaculatus,12
+Kimbe,69,Pocillopora damicornis,5,low,Halichoeres melanurus,1
+Kimbe,69,Pocillopora damicornis,5,low,Halichoeres scapularis,2
+Kimbe,69,Pocillopora damicornis,5,low,Lutjanus gibbus,10
+Kimbe,69,Pocillopora damicornis,5,low,Lutjanus kasmira,2
+Kimbe,69,Pocillopora damicornis,5,low,Lutjanus monostigma,1
+Kimbe,69,Pocillopora damicornis,5,low,Paragobiodon echinocephalus,5
+Kimbe,69,Pocillopora damicornis,5,low,Pomacentrus coelestis,1
+Kimbe,69,Pocillopora damicornis,5,low,Pseudochromis fuscus,2
+Kimbe,69,Pocillopora damicornis,5,low,Sufflamen chrysopterus,1
+Kimbe,69,Pocillopora damicornis,5,low,Thalassoma lunare,1
+Kimbe,69,Pocillopora damicornis,5,low,Triggerfish juv  titan or P flavi,2
+Kimbe,9,Porites cylindrica,1,low,Canthigaster valentini,1
+Kimbe,9,Porites cylindrica,1,low,Dascyllus aruanus,2
+Kimbe,9,Porites cylindrica,1,low,Dascyllus melanurus,12
+Kimbe,9,Porites cylindrica,1,low,Dischistodus perspicillatus,5
+Kimbe,9,Porites cylindrica,1,low,Epinephelus maculatus,1
+Kimbe,9,Porites cylindrica,1,low,Halichoeres chloropterus,3
+Kimbe,9,Porites cylindrica,1,low,Halichoeres scapularis,6
+Kimbe,9,Porites cylindrica,1,low,Lutjanus gibbus,50
+Kimbe,9,Porites cylindrica,1,low,Lutjanus monostigma,1
+Kimbe,9,Porites cylindrica,1,low,Monotaxis grandoculis,3
+Kimbe,9,Porites cylindrica,1,low,Neoniphon sp,2
+Kimbe,9,Porites cylindrica,1,low,Parupeneus barberinus,1
+Kimbe,9,Porites cylindrica,1,low,Pseudobalistes flavimarginatus,1
+Kimbe,9,Porites cylindrica,1,low,Pseudochromis fuscus,2
+Kimbe,23,Porites cylindrica,2,low,Apogon fraenatus,5
+Kimbe,23,Porites cylindrica,2,low,Balistoides viridescens,1
+Kimbe,23,Porites cylindrica,2,low,Cheilodipterus quinquelineatus,40
+Kimbe,23,Porites cylindrica,2,low,Dascyllus aruanus,2
+Kimbe,23,Porites cylindrica,2,low,Dascyllus melanurus,8
+Kimbe,23,Porites cylindrica,2,low,Dascyllus trimaculatus,1
+Kimbe,23,Porites cylindrica,2,low,Dischistodus perspicillatus,3
+Kimbe,23,Porites cylindrica,2,low,Gobiodon albofasciatus,7
+Kimbe,23,Porites cylindrica,2,low,Halichoeres melanurus,2
+Kimbe,23,Porites cylindrica,2,low,Halichoeres scapularis,2
+Kimbe,23,Porites cylindrica,2,low,Lutjanus gibbus,17
+Kimbe,23,Porites cylindrica,2,low,Monotaxis grandoculis,7
+Kimbe,23,Porites cylindrica,2,low,Pomacentrus pavo,4
+Kimbe,23,Porites cylindrica,2,low,Pomacentrus simsiang,1
+Kimbe,23,Porites cylindrica,2,low,Pseudochromis fuscus,1
+Kimbe,23,Porites cylindrica,2,low,Scolopsis affinis,1
+Kimbe,23,Porites cylindrica,2,low,Stegastes lividus,1
+Kimbe,24,Porites cylindrica,3,low,Apogon fraenatus,1
+Kimbe,24,Porites cylindrica,3,low,Canthigaster bennetti,3
+Kimbe,24,Porites cylindrica,3,low,Canthigaster papua,1
+Kimbe,24,Porites cylindrica,3,low,Cephalopholis boenak,1
+Kimbe,24,Porites cylindrica,3,low,Corythoichthys intestinalis,1
+Kimbe,24,Porites cylindrica,3,low,Dascyllus melanurus,6
+Kimbe,24,Porites cylindrica,3,low,Dascyllus reticulatus,2
+Kimbe,24,Porites cylindrica,3,low,Dischistodus perspicillatus,3
+Kimbe,24,Porites cylindrica,3,low,Eviota pellucida,1
+Kimbe,24,Porites cylindrica,3,low,Halichoeres chloropterus,1
+Kimbe,24,Porites cylindrica,3,low,Halichoeres melanurus,1
+Kimbe,24,Porites cylindrica,3,low,Halichoeres scapularis,2
+Kimbe,24,Porites cylindrica,3,low,Istigobius decoratus,1
+Kimbe,24,Porites cylindrica,3,low,juv  Scarid striped,6
+Kimbe,24,Porites cylindrica,3,low,Lionfish,1
+Kimbe,24,Porites cylindrica,3,low,Lutjanus gibbus,20
+Kimbe,24,Porites cylindrica,3,low,Pseudochromis fuscus,1
+Kimbe,24,Porites cylindrica,3,low,Rhinecanthus verrucosus,1
+Kimbe,24,Porites cylindrica,3,low,Stegastes lividus,1
+Kimbe,24,Porites cylindrica,3,low,Thalassoma lunare,1
+Kimbe,24,Porites cylindrica,3,low,Triggerfish juv  titan or P flavi,1
+Kimbe,24,Porites cylindrica,3,low,Wetmorella sp,1
+Kimbe,66,Porites cylindrica,4,low,Acan dark juveniles,20
+Kimbe,66,Porites cylindrica,4,low,Amblygobius phaelaena,1
+Kimbe,66,Porites cylindrica,4,low,Apogon fraenatus,1
+Kimbe,66,Porites cylindrica,4,low,Canthigaster bennetti,3
+Kimbe,66,Porites cylindrica,4,low,Canthigaster valentini,1
+Kimbe,66,Porites cylindrica,4,low,Dascyllus trimaculatus,1
+Kimbe,66,Porites cylindrica,4,low,Halichoeres scapularis,2
+Kimbe,66,Porites cylindrica,4,low,Lutjanus gibbus,30
+Kimbe,66,Porites cylindrica,4,low,Lutjanus monostigma,6
+Kimbe,66,Porites cylindrica,4,low,Monotaxis grandoculis,3
+Kimbe,66,Porites cylindrica,4,low,Neoniphon sp,1
+Kimbe,66,Porites cylindrica,4,low,Oxycheilinus bimaculatus,2
+Kimbe,66,Porites cylindrica,4,low,Pomacentrus simsiang,1
+Kimbe,66,Porites cylindrica,4,low,Pseudochromis fuscus,1
+Kimbe,66,Porites cylindrica,4,low,Scolopsis affinis,2
+Kimbe,66,Porites cylindrica,4,low,Triggerfish juv  titan or P flavi,1
+Kimbe,78,Porites cylindrica,5,low,Apogon cyanosoma,1
+Kimbe,78,Porites cylindrica,5,low,Dascyllus melanurus,2
+Kimbe,78,Porites cylindrica,5,low,Dascyllus reticulatus,4
+Kimbe,78,Porites cylindrica,5,low,Dascyllus trimaculatus,1
+Kimbe,78,Porites cylindrica,5,low,Halichoeres chloropterus,2
+Kimbe,78,Porites cylindrica,5,low,Halichoeres melanurus,2
+Kimbe,78,Porites cylindrica,5,low,Halichoeres scapularis,1
+Kimbe,78,Porites cylindrica,5,low,Lionfish,1
+Kimbe,78,Porites cylindrica,5,low,Lutjanus gibbus,20
+Kimbe,78,Porites cylindrica,5,low,Lutjanus kasmira,3
+Kimbe,78,Porites cylindrica,5,low,Neoniphon sp,2
+Kimbe,78,Porites cylindrica,5,low,Pomacentrus pavo,4
+Kimbe,78,Porites cylindrica,5,low,Pseudochromis fuscus,1
+Kimbe,78,Porites cylindrica,5,low,Sufflamen chrysopterus,1
+Kimbe,78,Porites cylindrica,5,low,Triggerfish juv  titan or P flavi,1
+Kimbe,4,Seriatopora hystrix,1,low,Acan dark juveniles,6
+Kimbe,4,Seriatopora hystrix,1,low,Apogon thermalis,3
+Kimbe,4,Seriatopora hystrix,1,low,Balistapus undulatus,1
+Kimbe,4,Seriatopora hystrix,1,low,Cephalopholis microprion,1
+Kimbe,4,Seriatopora hystrix,1,low,Chaetodon baronessa,2
+Kimbe,4,Seriatopora hystrix,1,low,Chaetodon lunulatus,1
+Kimbe,4,Seriatopora hystrix,1,low,Chromis viridis,100
+Kimbe,4,Seriatopora hystrix,1,low,Dascyllus melanurus,25
+Kimbe,4,Seriatopora hystrix,1,low,Dascyllus reticulatus,5
+Kimbe,4,Seriatopora hystrix,1,low,Gobiodon albofasciatus,1
+Kimbe,4,Seriatopora hystrix,1,low,Halichoeres chloropterus,1
+Kimbe,4,Seriatopora hystrix,1,low,Halichoeres melanurus,2
+Kimbe,4,Seriatopora hystrix,1,low,Labrichthys unilineatus,1
+Kimbe,4,Seriatopora hystrix,1,low,Lutjanus gibbus,20
+Kimbe,4,Seriatopora hystrix,1,low,Lutjanus monostigma,2
+Kimbe,4,Seriatopora hystrix,1,low,Monotaxis grandoculis,3
+Kimbe,4,Seriatopora hystrix,1,low,Myripristis sp,1
+Kimbe,4,Seriatopora hystrix,1,low,Neoniphon sp,2
+Kimbe,4,Seriatopora hystrix,1,low,Paragobiodon xanthosomus,18
+Kimbe,4,Seriatopora hystrix,1,low,Parupeneus barberinus,3
+Kimbe,4,Seriatopora hystrix,1,low,Pomacentrus pavo,4
+Kimbe,4,Seriatopora hystrix,1,low,Pseudochromis fuscus,2
+Kimbe,4,Seriatopora hystrix,1,low,Stegastes lividus,2
+Kimbe,29,Seriatopora hystrix,2,low,Acan dark juveniles,8
+Kimbe,29,Seriatopora hystrix,2,low,Amblygobius phaelaena,1
+Kimbe,29,Seriatopora hystrix,2,low,Apogon ventrifasciatus,2
+Kimbe,29,Seriatopora hystrix,2,low,Balistoides viridescens,1
+Kimbe,29,Seriatopora hystrix,2,low,Cephalopholis microprion,1
+Kimbe,29,Seriatopora hystrix,2,low,Chaetodon baronessa,2
+Kimbe,29,Seriatopora hystrix,2,low,Dascyllus melanurus,21
+Kimbe,29,Seriatopora hystrix,2,low,Dascyllus reticulatus,6
+Kimbe,29,Seriatopora hystrix,2,low,Dascyllus trimaculatus,1
+Kimbe,29,Seriatopora hystrix,2,low,Dischistodus perspicillatus,1
+Kimbe,29,Seriatopora hystrix,2,low,Eviota pellucida,1
+Kimbe,29,Seriatopora hystrix,2,low,Gobiodon ceramicus,6
+Kimbe,29,Seriatopora hystrix,2,low,Halichoeres chloropterus,1
+Kimbe,29,Seriatopora hystrix,2,low,juv  Scarid other,1
+Kimbe,29,Seriatopora hystrix,2,low,Lutjanus gibbus,60
+Kimbe,29,Seriatopora hystrix,2,low,Lutjanus kasmira,5
+Kimbe,29,Seriatopora hystrix,2,low,Neoniphon sp,2
+Kimbe,29,Seriatopora hystrix,2,low,Paragobiodon echinocephalus,1
+Kimbe,29,Seriatopora hystrix,2,low,Paragobiodon xanthosomus,6
+Kimbe,29,Seriatopora hystrix,2,low,Pomacentrus amboinensis,1
+Kimbe,29,Seriatopora hystrix,2,low,Pseudochromis fuscus,2
+Kimbe,29,Seriatopora hystrix,2,low,Stegastes lividus,4
+Kimbe,65,Seriatopora hystrix,3,low,Acan dark juveniles,15
+Kimbe,65,Seriatopora hystrix,3,low,Cephalopholis cyanostigma,1
+Kimbe,65,Seriatopora hystrix,3,low,Cephalopholis microprion,1
+Kimbe,65,Seriatopora hystrix,3,low,Chaetodon lunulatus,1
+Kimbe,65,Seriatopora hystrix,3,low,Chromis viridis,70
+Kimbe,65,Seriatopora hystrix,3,low,Dascyllus melanurus,11
+Kimbe,65,Seriatopora hystrix,3,low,Dascyllus reticulatus,4
+Kimbe,65,Seriatopora hystrix,3,low,Dascyllus trimaculatus,4
+Kimbe,65,Seriatopora hystrix,3,low,Epinephelus ongus,1
+Kimbe,65,Seriatopora hystrix,3,low,Halichoeres melanurus,3
+Kimbe,65,Seriatopora hystrix,3,low,Halichoeres scapularis,3
+Kimbe,65,Seriatopora hystrix,3,low,Lutjanus gibbus,10
+Kimbe,65,Seriatopora hystrix,3,low,Monotaxis grandoculis,1
+Kimbe,65,Seriatopora hystrix,3,low,Paragobiodon melanosomus,1
+Kimbe,65,Seriatopora hystrix,3,low,Paragobiodon xantho grey blue,2
+Kimbe,65,Seriatopora hystrix,3,low,Paragobiodon xanthosomus,14
+Kimbe,65,Seriatopora hystrix,3,low,Parupeneus heptacanthus,1
+Kimbe,65,Seriatopora hystrix,3,low,Pomacentrus aurifrons,4
+Kimbe,65,Seriatopora hystrix,3,low,Pomacentrus pavo,6
+Kimbe,65,Seriatopora hystrix,3,low,Pseudochromis fuscus,2
+Kimbe,65,Seriatopora hystrix,3,low,Stegastes lividus,2
+Kimbe,65,Seriatopora hystrix,3,low,Triggerfish juv  titan or P flavi,2
+Kimbe,65,Seriatopora hystrix,3,low,Valenciennea muralis,2
+Kimbe,71,Seriatopora hystrix,4,low,Acan dark juveniles,3
+Kimbe,71,Seriatopora hystrix,4,low,Dascyllus melanurus,4
+Kimbe,71,Seriatopora hystrix,4,low,Dascyllus reticulatus,8
+Kimbe,71,Seriatopora hystrix,4,low,Gobiodon ceramicus,4
+Kimbe,71,Seriatopora hystrix,4,low,Halichoeres melanurus,2
+Kimbe,71,Seriatopora hystrix,4,low,Halichoeres scapularis,2
+Kimbe,71,Seriatopora hystrix,4,low,Lutjanus gibbus,13
+Kimbe,71,Seriatopora hystrix,4,low,Paragobiodon xanthosomus,9
+Kimbe,71,Seriatopora hystrix,4,low,Pseudochromis fuscus,2
+Kimbe,71,Seriatopora hystrix,4,low,Sufflamen chrysopterus,1
+Kimbe,79,Seriatopora hystrix,5,low,Acan dark juveniles,10
+Kimbe,79,Seriatopora hystrix,5,low,Apogon hartzfeldii,1
+Kimbe,79,Seriatopora hystrix,5,low,Apogon ventrifasciatus,1
+Kimbe,79,Seriatopora hystrix,5,low,Canthigaster valentini,1
+Kimbe,79,Seriatopora hystrix,5,low,Cephalopholis microprion,1
+Kimbe,79,Seriatopora hystrix,5,low,Chromis viridis,5
+Kimbe,79,Seriatopora hystrix,5,low,Dascyllus melanurus,12
+Kimbe,79,Seriatopora hystrix,5,low,Dascyllus reticulatus,15
+Kimbe,79,Seriatopora hystrix,5,low,Dascyllus trimaculatus,1
+Kimbe,79,Seriatopora hystrix,5,low,Gobiodon ceramicus,7
+Kimbe,79,Seriatopora hystrix,5,low,Halichoeres chloropterus,1
+Kimbe,79,Seriatopora hystrix,5,low,Halichoeres melanurus,1
+Kimbe,79,Seriatopora hystrix,5,low,Lutjanus gibbus,25
+Kimbe,79,Seriatopora hystrix,5,low,Neoniphon sp,2
+Kimbe,79,Seriatopora hystrix,5,low,Paragobiodon xanthosomus,7
+Kimbe,79,Seriatopora hystrix,5,low,Pomacentrus simsiang,1
+Kimbe,79,Seriatopora hystrix,5,low,Pseudocheilinus hexataenia,1
+Kimbe,79,Seriatopora hystrix,5,low,Pseudochromis fuscus,1
+Kimbe,79,Seriatopora hystrix,5,low,Ptereleotris microlepis,1
+Kimbe,79,Seriatopora hystrix,5,low,Triggerfish juv  titan or P flavi,5
+Kimbe,18,Acropora grandis,1,low,Acan dark juveniles,1
+Kimbe,18,Acropora grandis,1,low,Aeoliscus strigatus,1
+Kimbe,18,Acropora grandis,1,low,Apogon cyanosoma,1
+Kimbe,18,Acropora grandis,1,low,Canthigaster valentini,1
+Kimbe,18,Acropora grandis,1,low,Chaetodon baronessa,1
+Kimbe,18,Acropora grandis,1,low,Cheilodipterus quinquelineatus,22
+Kimbe,18,Acropora grandis,1,low,Dascyllus melanurus,8
+Kimbe,18,Acropora grandis,1,low,Dascyllus reticulatus,2
+Kimbe,18,Acropora grandis,1,low,Dischistodus perspicillatus,1
+Kimbe,18,Acropora grandis,1,low,Gobiodon albofasciatus,5
+Kimbe,18,Acropora grandis,1,low,Halichoeres chloropterus,1
+Kimbe,18,Acropora grandis,1,low,Lutjanus gibbus,30
+Kimbe,18,Acropora grandis,1,low,Monotaxis grandoculis,2
+Kimbe,18,Acropora grandis,1,low,Neoniphon sp,1
+Kimbe,18,Acropora grandis,1,low,Parupeneus barberinus,2
+Kimbe,18,Acropora grandis,1,low,Parupeneus ciliatus,1
+Kimbe,18,Acropora grandis,1,low,Pomacentrus simsiang,1
+Kimbe,18,Acropora grandis,1,low,Triggerfish juv  titan or P flavi,4
+Kimbe,19,Acropora grandis,2,low,Acan dark juveniles,20
+Kimbe,19,Acropora grandis,2,low,Apogon hartzfeldii,1
+Kimbe,19,Acropora grandis,2,low,Canthigaster bennetti,1
+Kimbe,19,Acropora grandis,2,low,Chaetodon baronessa,2
+Kimbe,19,Acropora grandis,2,low,Dascyllus melanurus,10
+Kimbe,19,Acropora grandis,2,low,Dascyllus reticulatus,2
+Kimbe,19,Acropora grandis,2,low,Gobiodon albofasciatus,3
+Kimbe,19,Acropora grandis,2,low,Halichoeres chloropterus,1
+Kimbe,19,Acropora grandis,2,low,Halichoeres scapularis,2
+Kimbe,19,Acropora grandis,2,low,juv  Scarid striped,1
+Kimbe,19,Acropora grandis,2,low,Lutjanus gibbus,40
+Kimbe,19,Acropora grandis,2,low,Lutjanus monostigma,7
+Kimbe,19,Acropora grandis,2,low,Neoniphon sp,1
+Kimbe,19,Acropora grandis,2,low,Parupeneus barberinus,1
+Kimbe,19,Acropora grandis,2,low,Pomacentrus aurifrons,1
+Kimbe,19,Acropora grandis,2,low,Sufflamen chrysopterus,1
+Kimbe,19,Acropora grandis,2,low,Triggerfish juv  titan or P flavi,7
+Kimbe,31,Acropora grandis,3,low,Acan dark juveniles,11
+Kimbe,31,Acropora grandis,3,low,Amblygobius phaelaena,1
+Kimbe,31,Acropora grandis,3,low,Canthigaster papua,1
+Kimbe,31,Acropora grandis,3,low,Canthigaster valentini,1
+Kimbe,31,Acropora grandis,3,low,Chaetodon baronessa,1
+Kimbe,31,Acropora grandis,3,low,Dascyllus melanurus,6
+Kimbe,31,Acropora grandis,3,low,Dascyllus reticulatus,5
+Kimbe,31,Acropora grandis,3,low,Gobiodon albofasciatus,2
+Kimbe,31,Acropora grandis,3,low,Halichoeres melanurus,1
+Kimbe,31,Acropora grandis,3,low,Halichoeres scapularis,1
+Kimbe,31,Acropora grandis,3,low,Lutjanus gibbus,30
+Kimbe,31,Acropora grandis,3,low,Lutjanus kasmira,1
+Kimbe,31,Acropora grandis,3,low,Lutjanus monostigma,1
+Kimbe,31,Acropora grandis,3,low,Monotaxis grandoculis,1
+Kimbe,31,Acropora grandis,3,low,Myripristis sp,1
+Kimbe,31,Acropora grandis,3,low,Neoniphon sp,3
+Kimbe,31,Acropora grandis,3,low,Pseudochromis fuscus,1
+Kimbe,31,Acropora grandis,3,low,Stegastes lividus,1
+Kimbe,58,Acropora grandis,4,low,Acan dark juveniles,10
+Kimbe,58,Acropora grandis,4,low,Amblygobius phaelaena,3
+Kimbe,58,Acropora grandis,4,low,Canthigaster bennetti,1
+Kimbe,58,Acropora grandis,4,low,Dascyllus melanurus,4
+Kimbe,58,Acropora grandis,4,low,Dascyllus reticulatus,3
+Kimbe,58,Acropora grandis,4,low,Gobiodon albofasciatus,2
+Kimbe,58,Acropora grandis,4,low,Lutjanus gibbus,25
+Kimbe,58,Acropora grandis,4,low,Lutjanus monostigma,2
+Kimbe,58,Acropora grandis,4,low,Monotaxis grandoculis,3
+Kimbe,58,Acropora grandis,4,low,Parupeneus heptacanthus,4
+Kimbe,58,Acropora grandis,4,low,Parupeneus pleurostigma,1
+Kimbe,58,Acropora grandis,4,low,Triggerfish juv  titan or P flavi,4
+Kimbe,76,Acropora grandis,5,low,Acan dark juveniles,3
+Kimbe,76,Acropora grandis,5,low,Apogon hartzfeldii,1
+Kimbe,76,Acropora grandis,5,low,Apogon ventrifasciatus,35
+Kimbe,76,Acropora grandis,5,low,Dascyllus melanurus,2
+Kimbe,76,Acropora grandis,5,low,Dascyllus reticulatus,13
+Kimbe,76,Acropora grandis,5,low,Dascyllus trimaculatus,4
+Kimbe,76,Acropora grandis,5,low,Halichoeres melanurus,2
+Kimbe,76,Acropora grandis,5,low,Lionfish,1
+Kimbe,76,Acropora grandis,5,low,Lutjanus gibbus,30
+Kimbe,76,Acropora grandis,5,low,Lutjanus monostigma,4
+Kimbe,76,Acropora grandis,5,low,Neoniphon sp,3
+Kimbe,76,Acropora grandis,5,low,Pomacentrus adelus,1
+Kimbe,76,Acropora grandis,5,low,Pomacentrus simsiang,1
+Kimbe,2,Med A,1,medium,Acan dark juveniles,3
+Kimbe,2,Med A,1,medium,Balistapus undulatus,1
+Kimbe,2,Med A,1,medium,Cephalopholis microprion,1
+Kimbe,2,Med A,1,medium,Dascyllus melanurus,22
+Kimbe,2,Med A,1,medium,Dascyllus reticulatus,5
+Kimbe,2,Med A,1,medium,Gobiodon sp C,4
+Kimbe,2,Med A,1,medium,Lutjanus gibbus,25
+Kimbe,2,Med A,1,medium,Paragobiodon echinocephalus,5
+Kimbe,2,Med A,1,medium,Pomacentrus pavo,4
+Kimbe,2,Med A,1,medium,Pseudochromis fuscus,1
+Kimbe,2,Med A,1,medium,Stegastes lividus,1
+Kimbe,2,Med A,1,medium,Triggerfish juv  titan or P flavi,3
+Kimbe,15,Med A,2,medium,Acan dark juveniles,1
+Kimbe,15,Med A,2,medium,Canthigaster bennetti,1
+Kimbe,15,Med A,2,medium,Cephalopholis microprion,1
+Kimbe,15,Med A,2,medium,Cheilodipterus quinquelineatus,1
+Kimbe,15,Med A,2,medium,Dascyllus melanurus,11
+Kimbe,15,Med A,2,medium,Dascyllus reticulatus,9
+Kimbe,15,Med A,2,medium,Dischistodus perspicillatus,2
+Kimbe,15,Med A,2,medium,Gobiodon okulolineatus,1
+Kimbe,15,Med A,2,medium,Gobiodon sp C,11
+Kimbe,15,Med A,2,medium,Halichoeres chloropterus,1
+Kimbe,15,Med A,2,medium,Halichoeres melanurus,3
+Kimbe,15,Med A,2,medium,Lutjanus gibbus,50
+Kimbe,15,Med A,2,medium,Paragobiodon echinocephalus,1
+Kimbe,15,Med A,2,medium,Pervagor nigrolineatus,1
+Kimbe,15,Med A,2,medium,Pomacentrus pavo,3
+Kimbe,15,Med A,2,medium,Pomacentrus simsiang,1
+Kimbe,15,Med A,2,medium,Stegastes lividus,1
+Kimbe,21,Med A,3,medium,Acan dark juveniles,5
+Kimbe,21,Med A,3,medium,Apogon fraenatus,1
+Kimbe,21,Med A,3,medium,Chaetodon ephippium,1
+Kimbe,21,Med A,3,medium,Chromis viridis,3
+Kimbe,21,Med A,3,medium,Dascyllus melanurus,20
+Kimbe,21,Med A,3,medium,Dascyllus reticulatus,12
+Kimbe,21,Med A,3,medium,Dascyllus trimaculatus,11
+Kimbe,21,Med A,3,medium,Eviota nigriventris,1
+Kimbe,21,Med A,3,medium,Foa brachygramma,1
+Kimbe,21,Med A,3,medium,Gnathodentex aureolineatus  dark,2
+Kimbe,21,Med A,3,medium,Gobiodon sp C,7
+Kimbe,21,Med A,3,medium,Halichoeres chloropterus,1
+Kimbe,21,Med A,3,medium,Halichoeres melanurus,1
+Kimbe,21,Med A,3,medium,Halichoeres scapularis,1
+Kimbe,21,Med A,3,medium,like Banggai but tot  black  long fins,2
+Kimbe,21,Med A,3,medium,Lutjanus gibbus,35
+Kimbe,21,Med A,3,medium,Monotaxis grandoculis,2
+Kimbe,21,Med A,3,medium,Neoniphon sp,2
+Kimbe,21,Med A,3,medium,Paragobiodon echinocephalus,2
+Kimbe,21,Med A,3,medium,Parupeneus barberinoides,1
+Kimbe,21,Med A,3,medium,Pomacentrus pavo,4
+Kimbe,21,Med A,3,medium,Pomacentrus simsiang,1
+Kimbe,21,Med A,3,medium,Rhinecanthus aculeatus,1
+Kimbe,21,Med A,3,medium,Stegastes lividus,3
+Kimbe,21,Med A,3,medium,Valenciennea muralis,1
+Kimbe,52,Med A,4,medium,Acan dark juveniles,12
+Kimbe,52,Med A,4,medium,Arotrhon meleagris,2
+Kimbe,52,Med A,4,medium,Canthigaster bennetti,1
+Kimbe,52,Med A,4,medium,Dascyllus melanurus,4
+Kimbe,52,Med A,4,medium,Dascyllus reticulatus,25
+Kimbe,52,Med A,4,medium,Dascyllus trimaculatus,1
+Kimbe,52,Med A,4,medium,Halichoeres scapularis,1
+Kimbe,52,Med A,4,medium,Lutjanus gibbus,9
+Kimbe,52,Med A,4,medium,Lutjanus kasmira,1
+Kimbe,52,Med A,4,medium,Neoniphon sp,1
+Kimbe,52,Med A,4,medium,Paragobiodon echinocephalus,4
+Kimbe,52,Med A,4,medium,Pomacentrus pavo,2
+Kimbe,52,Med A,4,medium,Pomacentrus simsiang,1
+Kimbe,52,Med A,4,medium,Pseudocheilinus hexataenia,1
+Kimbe,52,Med A,4,medium,Scolopsis unid,1
+Kimbe,55,Med A,5,medium,Acan dark juveniles,15
+Kimbe,55,Med A,5,medium,Chaetodon octofascialis,1
+Kimbe,55,Med A,5,medium,Chromis viridis,2
+Kimbe,55,Med A,5,medium,Dascyllus melanurus,9
+Kimbe,55,Med A,5,medium,Dascyllus reticulatus,2
+Kimbe,55,Med A,5,medium,Dascyllus trimaculatus,9
+Kimbe,55,Med A,5,medium,Eviota nigriventris,1
+Kimbe,55,Med A,5,medium,Gobiodon okulolineatus,1
+Kimbe,55,Med A,5,medium,Gobiodon sp C,7
+Kimbe,55,Med A,5,medium,Halichoeres chloropterus,1
+Kimbe,55,Med A,5,medium,Halichoeres melanurus,4
+Kimbe,55,Med A,5,medium,Halichoeres scapularis,1
+Kimbe,55,Med A,5,medium,Lutjanus gibbus,20
+Kimbe,55,Med A,5,medium,Paragobiodon echinocephalus,7
+Kimbe,55,Med A,5,medium,Parupeneus heptacanthus,2
+Kimbe,55,Med A,5,medium,Pomacentrus aurifrons,2
+Kimbe,55,Med A,5,medium,Pomacentrus pavo,4
+Kimbe,55,Med A,5,medium,Pseudochromis fuscus,1
+Kimbe,55,Med A,5,medium,Sufflamen chrysopterus,2
+Kimbe,20,Med B,1,medium,Acan dark juveniles,9
+Kimbe,20,Med B,1,medium,Apogon ventrifasciatus,1
+Kimbe,20,Med B,1,medium,Chaetodon baronessa,2
+Kimbe,20,Med B,1,medium,Chaetodon lunulatus,2
+Kimbe,20,Med B,1,medium,Chaetodon octofascialis,1
+Kimbe,20,Med B,1,medium,Chromis viridis,600
+Kimbe,20,Med B,1,medium,Dascyllus melanurus,21
+Kimbe,20,Med B,1,medium,Dascyllus reticulatus,25
+Kimbe,20,Med B,1,medium,Dascyllus trimaculatus,6
+Kimbe,20,Med B,1,medium,Dischistodus perspicillatus,2
+Kimbe,20,Med B,1,medium,Gobiodon albofasciatus,2
+Kimbe,20,Med B,1,medium,Gobiodon histrio,2
+Kimbe,20,Med B,1,medium,Gobiodon quinquestrigatus,6
+Kimbe,20,Med B,1,medium,Halichoeres chloropterus,4
+Kimbe,20,Med B,1,medium,Halichoeres melanurus,1
+Kimbe,20,Med B,1,medium,Halichoeres scapularis,1
+Kimbe,20,Med B,1,medium,juv  Scarid striped,1
+Kimbe,20,Med B,1,medium,Lutjanus gibbus,14
+Kimbe,20,Med B,1,medium,Lutjanus monostigma,1
+Kimbe,20,Med B,1,medium,Monotaxis grandoculis,1
+Kimbe,20,Med B,1,medium,Neoniphon sp,4
+Kimbe,20,Med B,1,medium,Paragobiodon xanthosomus,9
+Kimbe,20,Med B,1,medium,Pomacentrus pavo,4
+Kimbe,20,Med B,1,medium,Pseudochromis fuscus,2
+Kimbe,20,Med B,1,medium,Stegastes lividus,4
+Kimbe,38,Med B,2,medium,Acan dark juveniles,5
+Kimbe,38,Med B,2,medium,Amblygobius phaelaena,2
+Kimbe,38,Med B,2,medium,Canthigaster bennetti,1
+Kimbe,38,Med B,2,medium,Canthigaster papua,1
+Kimbe,38,Med B,2,medium,Chaetodon baronessa,2
+Kimbe,38,Med B,2,medium,Chaetodon lunulatus,1
+Kimbe,38,Med B,2,medium,Chromis viridis,1
+Kimbe,38,Med B,2,medium,Dascyllus melanurus,35
+Kimbe,38,Med B,2,medium,Dascyllus reticulatus,12
+Kimbe,38,Med B,2,medium,Dascyllus trimaculatus,5
+Kimbe,38,Med B,2,medium,Gobiodon albofasciatus,2
+Kimbe,38,Med B,2,medium,Gobiodon ceramicus,2
+Kimbe,38,Med B,2,medium,Gobiodon quinquestrigatus,5
+Kimbe,38,Med B,2,medium,Gobiodon sp C,1
+Kimbe,38,Med B,2,medium,Lutjanus gibbus,20
+Kimbe,38,Med B,2,medium,Monotaxis grandoculis,1
+Kimbe,38,Med B,2,medium,Neoniphon sp,1
+Kimbe,38,Med B,2,medium,Paragobiodon xanthosomus,3
+Kimbe,38,Med B,2,medium,Pomacentrus amboinensis,1
+Kimbe,38,Med B,2,medium,Pomacentrus pavo,6
+Kimbe,38,Med B,2,medium,Pseudochromis fuscus,1
+Kimbe,38,Med B,2,medium,Triggerfish juv  titan or P flavi,1
+Kimbe,41,Med B,3,medium,Acan dark juveniles,8
+Kimbe,41,Med B,3,medium,Chaetodon baronessa,1
+Kimbe,41,Med B,3,medium,Chaetodon trifascialis,1
+Kimbe,41,Med B,3,medium,Chromis viridis,60
+Kimbe,41,Med B,3,medium,Dascyllus melanurus,25
+Kimbe,41,Med B,3,medium,Dascyllus reticulatus,30
+Kimbe,41,Med B,3,medium,Dascyllus trimaculatus,7
+Kimbe,41,Med B,3,medium,Epinephelus maculatus,1
+Kimbe,41,Med B,3,medium,Gobiodon albofasciatus,2
+Kimbe,41,Med B,3,medium,Gobiodon ceramicus,2
+Kimbe,41,Med B,3,medium,Gobiodon okinawae,3
+Kimbe,41,Med B,3,medium,Gobiodon quinquestrigatus,4
+Kimbe,41,Med B,3,medium,Halichoeres melanurus,1
+Kimbe,41,Med B,3,medium,Halichoeres scapularis,1
+Kimbe,41,Med B,3,medium,Hemigymnus fasciatus juv,1
+Kimbe,41,Med B,3,medium,juv  Scarid other,1
+Kimbe,41,Med B,3,medium,Lutjanus gibbus,12
+Kimbe,41,Med B,3,medium,Lutjanus kasmira,2
+Kimbe,41,Med B,3,medium,Oxycheilinus bimaculatus,2
+Kimbe,41,Med B,3,medium,Paragobiodon xanthosomus,4
+Kimbe,41,Med B,3,medium,Pseudocheilinus hexataenia,1
+Kimbe,41,Med B,3,medium,Pseudochromis fuscus,1
+Kimbe,41,Med B,3,medium,Sufflamen chrysopterus,2
+Kimbe,41,Med B,3,medium,Triggerfish juv  titan or P flavi,5
+Kimbe,59,Med B,4,medium,Acan dark juveniles,15
+Kimbe,59,Med B,4,medium,Amblygobius phaelaena,1
+Kimbe,59,Med B,4,medium,Balistapus undulatus,1
+Kimbe,59,Med B,4,medium,Canthigaster bennetti,1
+Kimbe,59,Med B,4,medium,Canthigaster papua,2
+Kimbe,59,Med B,4,medium,Chaetodon baronessa,1
+Kimbe,59,Med B,4,medium,Chaetodon lunulatus,1
+Kimbe,59,Med B,4,medium,Chaetodon octofascialis,3
+Kimbe,59,Med B,4,medium,Chromis viridis,50
+Kimbe,59,Med B,4,medium,Dascyllus aruanus,1
+Kimbe,59,Med B,4,medium,Dascyllus melanurus,8
+Kimbe,59,Med B,4,medium,Dascyllus reticulatus,16
+Kimbe,59,Med B,4,medium,Dascyllus trimaculatus,3
+Kimbe,59,Med B,4,medium,Gobiodon ceramicus,3
+Kimbe,59,Med B,4,medium,Gobiodon histrio,2
+Kimbe,59,Med B,4,medium,Gobiodon quinquestrigatus,4
+Kimbe,59,Med B,4,medium,Halichoeres scapularis,1
+Kimbe,59,Med B,4,medium,Lionfish,1
+Kimbe,59,Med B,4,medium,Lutjanus gibbus,15
+Kimbe,59,Med B,4,medium,Monotaxis grandoculis,2
+Kimbe,59,Med B,4,medium,Neoniphon sp,3
+Kimbe,59,Med B,4,medium,Paracanthurus hepatus,1
+Kimbe,59,Med B,4,medium,Paragobiodon xanthosomus,5
+Kimbe,59,Med B,4,medium,Parupeneus barberinus,1
+Kimbe,59,Med B,4,medium,Parupeneus heptacanthus,2
+Kimbe,59,Med B,4,medium,Pomacentrus amboinensis,1
+Kimbe,59,Med B,4,medium,Pomacentrus aurifrons,3
+Kimbe,59,Med B,4,medium,Pomacentrus simsiang,3
+Kimbe,59,Med B,4,medium,Pseudocheilinus hexataenia,1
+Kimbe,59,Med B,4,medium,Pseudochromis fuscus,1
+Kimbe,59,Med B,4,medium,Triggerfish juv  titan or P flavi,2
+Kimbe,77,Med B,5,medium,Acan dark juveniles,2
+Kimbe,77,Med B,5,medium,Apogon ventrifasciatus,2
+Kimbe,77,Med B,5,medium,Chaetodon baronessa,1
+Kimbe,77,Med B,5,medium,Cirrhitichthys falco,2
+Kimbe,77,Med B,5,medium,Dascyllus melanurus,12
+Kimbe,77,Med B,5,medium,Dascyllus reticulatus,9
+Kimbe,77,Med B,5,medium,Dascyllus trimaculatus,2
+Kimbe,77,Med B,5,medium,Gobiodon albofasciatus,1
+Kimbe,77,Med B,5,medium,Gobiodon histrio,2
+Kimbe,77,Med B,5,medium,Gobiodon quinquestrigatus,6
+Kimbe,77,Med B,5,medium,Halichoeres scapularis,1
+Kimbe,77,Med B,5,medium,Lionfish,1
+Kimbe,77,Med B,5,medium,Lutjanus gibbus,20
+Kimbe,77,Med B,5,medium,Lutjanus monostigma,1
+Kimbe,77,Med B,5,medium,Monotaxis grandoculis,1
+Kimbe,77,Med B,5,medium,Neoniphon sp,4
+Kimbe,77,Med B,5,medium,Paracanthurus hepatus,1
+Kimbe,77,Med B,5,medium,Paragobiodon xanthosomus,12
+Kimbe,77,Med B,5,medium,Pomacentrus pavo,5
+Kimbe,77,Med B,5,medium,Salarias Sp,1
+Kimbe,77,Med B,5,medium,Stegastes lividus,1
+Kimbe,77,Med B,5,medium,Thalassoma lunare,1
+Lizard,2,High,1,high,Acan dark juveniles,2
+Lizard,2,High,1,high,Apogon doederleini,2
+Lizard,2,High,1,high,Canthigaster valentini,2
+Lizard,2,High,1,high,Cheilodipterus quinquelineatus,3
+Lizard,2,High,1,high,Choris batuensis,2
+Lizard,2,High,1,high,Chromis viridis,2
+Lizard,2,High,1,high,Dascyllus aruanus,10
+Lizard,2,High,1,high,Dascyllus reticulatus,11
+Lizard,2,High,1,high,Epinephelus quoyanus,1
+Lizard,2,High,1,high,Fusigobius duospilus,2
+Lizard,2,High,1,high,Gobiodon histrio,1
+Lizard,2,High,1,high,Gobiodon oculineatus,1
+Lizard,2,High,1,high,Gobiodon okinawae,2
+Lizard,2,High,1,high,Gobiodon quinquestrigatus,2
+Lizard,2,High,1,high,Halichoeres melanurus,1
+Lizard,2,High,1,high,Istigobius decoratus,2
+Lizard,2,High,1,high,juv  Scarid other,3
+Lizard,2,High,1,high,juv  Scarid striped,2
+Lizard,2,High,1,high,Ostorhinchus cyanosoma,6
+Lizard,2,High,1,high,Paragobiodon xanthosomus,1
+Lizard,2,High,1,high,Pomacentrus amboinensis,23
+Lizard,2,High,1,high,Pomacentrus moluccensis,2
+Lizard,2,High,1,high,Pomacentrus nagasakiensis,1
+Lizard,2,High,1,high,Pomacentrus pavo,2
+Lizard,2,High,1,high,Pseudobalistes flavimarginatus,1
+Lizard,2,High,1,high,Pseudochromis fuscus,1
+Lizard,2,High,1,high,Thalassoma lunare,2
+Lizard,15,High,2,high,Amblygobius phaelaena,1
+Lizard,15,High,2,high,Apogon doederleini,62
+Lizard,15,High,2,high,Apogon fuscus,2
+Lizard,15,High,2,high,Apogon thermalis,100
+Lizard,15,High,2,high,Asteropteryx semipuctatus,1
+Lizard,15,High,2,high,Canthigaster bennetti,4
+Lizard,15,High,2,high,Chaetodon plebeius,5
+Lizard,15,High,2,high,Cheilodipterus parazonatus,1
+Lizard,15,High,2,high,Cheilodipterus quinquelineatus,23
+Lizard,15,High,2,high,Choris batuensis,1
+Lizard,15,High,2,high,Dascyllus aruanus,24
+Lizard,15,High,2,high,Dischistodus perspicillatus,3
+Lizard,15,High,2,high,Eviota queenslandica,1
+Lizard,15,High,2,high,Gobiodon histrio,3
+Lizard,15,High,2,high,Gobiodon oculineatus,1
+Lizard,15,High,2,high,Gobiodon okinawae,2
+Lizard,15,High,2,high,Istigobius decoratus,2
+Lizard,15,High,2,high,juv  Scarid other,3
+Lizard,15,High,2,high,Lutjanus monostigma,3
+Lizard,15,High,2,high,Ostorhinchus cyanosoma,13
+Lizard,15,High,2,high,Paragobiodon xanthosomus,6
+Lizard,15,High,2,high,Pomacentrus amboinensis,23
+Lizard,15,High,2,high,Pomacentrus grammorhynchus,1
+Lizard,15,High,2,high,Pomacentrus moluccensis,7
+Lizard,15,High,2,high,Pomacentrus nagasakiensis,2
+Lizard,15,High,2,high,Pseudochromis fuscus,1
+Lizard,15,High,2,high,Sargocentron sp,1
+Lizard,15,High,2,high,Siganus doliatus,1
+Lizard,21,High,3,high,Amblygobius phaelaena,2
+Lizard,21,High,3,high,Apogon doederleini,51
+Lizard,21,High,3,high,Apogon thermalis,54
+Lizard,21,High,3,high,Atrosalarias fuscus holomelas,1
+Lizard,21,High,3,high,Cheilodipterus quinquelineatus,46
+Lizard,21,High,3,high,Choris batuensis,1
+Lizard,21,High,3,high,Dascyllus aruanus,1
+Lizard,21,High,3,high,Dischistodus perspicillatus,8
+Lizard,21,High,3,high,Fusigobius duospilus,2
+Lizard,21,High,3,high,Gobiodon oculineatus,2
+Lizard,21,High,3,high,Gobiodon quinquestrigatus,2
+Lizard,21,High,3,high,Gobiodon unicolor,2
+Lizard,21,High,3,high,Halichoeres melanurus,2
+Lizard,21,High,3,high,juv  Scarid other,1
+Lizard,21,High,3,high,juv  Scarid striped,4
+Lizard,21,High,3,high,Lutjanus monostigma,7
+Lizard,21,High,3,high,Ostorhinchus cyanosoma,7
+Lizard,21,High,3,high,Paragobiodon xanthosomus,3
+Lizard,21,High,3,high,Pomacentrus amboinensis,57
+Lizard,21,High,3,high,Pomacentrus nagasakiensis,6
+Lizard,21,High,3,high,Pomacentrus pavo,2
+Lizard,21,High,3,high,Pseudochromis fuscus,1
+Lizard,21,High,3,high,Siganus doliatus,1
+Lizard,21,High,3,high,Siganus punctatus,1
+Lizard,21,High,3,high,Thalassoma lunare,1
+Lizard,34,High,4,high,Acan dark juveniles,3
+Lizard,34,High,4,high,Amblyglyphidodon curacao,1
+Lizard,34,High,4,high,Amblygobius phaelaena,1
+Lizard,34,High,4,high,Apogon doederleini,42
+Lizard,34,High,4,high,Atrosalarias fuscus holomelas,1
+Lizard,34,High,4,high,Canthigaster bennetti,1
+Lizard,34,High,4,high,Canthigaster valentini,1
+Lizard,34,High,4,high,Chaetodon plebeius,1
+Lizard,34,High,4,high,Cheilodipterus quinquelineatus,5
+Lizard,34,High,4,high,Choris batuensis,1
+Lizard,34,High,4,high,Chromis viridis,17
+Lizard,34,High,4,high,Dascyllus aruanus,13
+Lizard,34,High,4,high,Dascyllus reticulatus,4
+Lizard,34,High,4,high,Dischistodus perspicillatus,6
+Lizard,34,High,4,high,Gobiodon oculineatus,2
+Lizard,34,High,4,high,Gobiodon okinawae,2
+Lizard,34,High,4,high,Istigobius decoratus,1
+Lizard,34,High,4,high,Lutjanus gibbus,5
+Lizard,34,High,4,high,Lutjanus monostigma,1
+Lizard,34,High,4,high,Ostorhinchus cyanosoma,29
+Lizard,34,High,4,high,Paragobiodon echinocephalus,1
+Lizard,34,High,4,high,Paragobiodon xanthosomus,6
+Lizard,34,High,4,high,Pomacentrus amboinensis,29
+Lizard,34,High,4,high,Pomacentrus moluccensis,1
+Lizard,34,High,4,high,Pomacentrus nagasakiensis,3
+Lizard,34,High,4,high,Pseudochromis flammicauda,1
+Lizard,34,High,4,high,Pseudochromis marshallensis,1
+Lizard,34,High,4,high,Salarias fasciatus,1
+Lizard,34,High,4,high,Thalassoma lunare,1
+Lizard,45,High,5,high,Amblygobius phaelaena,2
+Lizard,45,High,5,high,Apogon doederleini,58
+Lizard,45,High,5,high,Apogon thermalis,8
+Lizard,45,High,5,high,Canthigaster valentini,1
+Lizard,45,High,5,high,Chaetodon ephippium,1
+Lizard,45,High,5,high,Chaetodon plebeius,2
+Lizard,45,High,5,high,Choris batuensis,2
+Lizard,45,High,5,high,Dascyllus aruanus,8
+Lizard,45,High,5,high,Dascyllus reticulatus,1
+Lizard,45,High,5,high,Dischistodus perspicillatus,3
+Lizard,45,High,5,high,Gobiodon ceramicus,1
+Lizard,45,High,5,high,Gobiodon okinawae,2
+Lizard,45,High,5,high,Gobiodon quinquestrigatus,1
+Lizard,45,High,5,high,Ostorhinchus cyanosoma,20
+Lizard,45,High,5,high,Paragobiodon xanthosomus,4
+Lizard,45,High,5,high,Pomacentrus amboinensis,58
+Lizard,45,High,5,high,Pomacentrus chrysurus,1
+Lizard,45,High,5,high,Pomacentrus moluccensis,1
+Lizard,45,High,5,high,Pomacentrus nagasakiensis,7
+Lizard,45,High,5,high,Pseudochromis fuscus,2
+Lizard,45,High,5,high,Siganus doliatus,3
+Lizard,45,High,5,high,Valencienna longipinnis,1
+Lizard,3,Acropora nasuta,1,low,Acan dark juveniles,2
+Lizard,3,Acropora nasuta,1,low,Amblygobius phaelaena,6
+Lizard,3,Acropora nasuta,1,low,Apogon doederleini,25
+Lizard,3,Acropora nasuta,1,low,Apogon thermalis,1
+Lizard,3,Acropora nasuta,1,low,Canthigaster bennetti,2
+Lizard,3,Acropora nasuta,1,low,Canthigaster valentini,1
+Lizard,3,Acropora nasuta,1,low,Cheilodipterus quinquelineatus,18
+Lizard,3,Acropora nasuta,1,low,Choris batuensis,2
+Lizard,3,Acropora nasuta,1,low,Chromis viridis,100
+Lizard,3,Acropora nasuta,1,low,Dascyllus reticulatus,3
+Lizard,3,Acropora nasuta,1,low,Dischistodus perspicillatus,5
+Lizard,3,Acropora nasuta,1,low,Dischistodus prosopotaenia,1
+Lizard,3,Acropora nasuta,1,low,Fusigobius duospilus,1
+Lizard,3,Acropora nasuta,1,low,Gobiodon brochus,1
+Lizard,3,Acropora nasuta,1,low,Gobiodon quinquestrigatus,1
+Lizard,3,Acropora nasuta,1,low,Iniistius aneitensis,1
+Lizard,3,Acropora nasuta,1,low,Istigobius decoratus,2
+Lizard,3,Acropora nasuta,1,low,juv  Scarid other,1
+Lizard,3,Acropora nasuta,1,low,Ogilbyina queenslandiae,2
+Lizard,3,Acropora nasuta,1,low,Ostorhinchus cyanosoma,12
+Lizard,3,Acropora nasuta,1,low,Pomacentrus amboinensis,4
+Lizard,3,Acropora nasuta,1,low,Pomacentrus chrysurus,1
+Lizard,3,Acropora nasuta,1,low,Pomacentrus nagasakiensis,2
+Lizard,3,Acropora nasuta,1,low,Pomacentrus pavo,1
+Lizard,3,Acropora nasuta,1,low,Pseudochromis fuscus,3
+Lizard,3,Acropora nasuta,1,low,Siganus doliatus,1
+Lizard,13,Acropora nasuta,2,low,Amblygobius phaelaena,4
+Lizard,13,Acropora nasuta,2,low,Apogon doederleini,193
+Lizard,13,Acropora nasuta,2,low,Apogon fragilis,2
+Lizard,13,Acropora nasuta,2,low,Apogon thermalis,100
+Lizard,13,Acropora nasuta,2,low,Chaetodon ephippium,1
+Lizard,13,Acropora nasuta,2,low,Cheilodipterus quinquelineatus,45
+Lizard,13,Acropora nasuta,2,low,Choris batuensis,3
+Lizard,13,Acropora nasuta,2,low,Chromis viridis,165
+Lizard,13,Acropora nasuta,2,low,Dascyllus aruanus,6
+Lizard,13,Acropora nasuta,2,low,Dischistodus perspicillatus,4
+Lizard,13,Acropora nasuta,2,low,Epinephelus maculatus,1
+Lizard,13,Acropora nasuta,2,low,Fusigobius duospilus,2
+Lizard,13,Acropora nasuta,2,low,Gobiodon histrio,2
+Lizard,13,Acropora nasuta,2,low,Gobiodon quinquestrigatus,2
+Lizard,13,Acropora nasuta,2,low,Halichoeres trimaculatus,1
+Lizard,13,Acropora nasuta,2,low,Istigobius decoratus,6
+Lizard,13,Acropora nasuta,2,low,juv  Scarid other,3
+Lizard,13,Acropora nasuta,2,low,juv  Scarid striped,5
+Lizard,13,Acropora nasuta,2,low,Neoniphon sammara,1
+Lizard,13,Acropora nasuta,2,low,Ogilbyina queenslandiae,2
+Lizard,13,Acropora nasuta,2,low,Ostorhinchus cyanosoma,9
+Lizard,13,Acropora nasuta,2,low,Plectorhinchus lessonii,1
+Lizard,13,Acropora nasuta,2,low,Pomacentrus amboinensis,60
+Lizard,13,Acropora nasuta,2,low,Pomacentrus chrysurus,1
+Lizard,13,Acropora nasuta,2,low,Pomacentrus moluccensis,1
+Lizard,13,Acropora nasuta,2,low,Pomacentrus nagasakiensis,5
+Lizard,13,Acropora nasuta,2,low,Pomacentrus pavo,1
+Lizard,13,Acropora nasuta,2,low,Pseudochromis fuscus,3
+Lizard,13,Acropora nasuta,2,low,Siganus doliatus,1
+Lizard,13,Acropora nasuta,2,low,Stethojulis strigiventer,1
+Lizard,13,Acropora nasuta,2,low,Thalassoma lunare,1
+Lizard,17,Acropora nasuta,3,low,Amblygobius phaelaena,9
+Lizard,17,Acropora nasuta,3,low,Apogon doederleini,19
+Lizard,17,Acropora nasuta,3,low,Canthigaster bennetti,1
+Lizard,17,Acropora nasuta,3,low,Cheilodipterus quinquelineatus,27
+Lizard,17,Acropora nasuta,3,low,Choris batuensis,2
+Lizard,17,Acropora nasuta,3,low,Chromis viridis,145
+Lizard,17,Acropora nasuta,3,low,Dascyllus aruanus,6
+Lizard,17,Acropora nasuta,3,low,Dascyllus reticulatus,6
+Lizard,17,Acropora nasuta,3,low,Dischistodus perspicillatus,2
+Lizard,17,Acropora nasuta,3,low,Epinephelus quoyanus,1
+Lizard,17,Acropora nasuta,3,low,Fusigobius duospilus,2
+Lizard,17,Acropora nasuta,3,low,Gobiodon okinawae,2
+Lizard,17,Acropora nasuta,3,low,Gobiodon quinquestrigatus,1
+Lizard,17,Acropora nasuta,3,low,Istigobius decoratus,3
+Lizard,17,Acropora nasuta,3,low,juv  Scarid striped,3
+Lizard,17,Acropora nasuta,3,low,Lutjanus monostigma,1
+Lizard,17,Acropora nasuta,3,low,Ostorhinchus cyanosoma,6
+Lizard,17,Acropora nasuta,3,low,Pomacentrus amboinensis,53
+Lizard,17,Acropora nasuta,3,low,Pseudochromis flammicauda,1
+Lizard,17,Acropora nasuta,3,low,Pseudochromis fuscus,2
+Lizard,17,Acropora nasuta,3,low,Siganus puellus,1
+Lizard,36,Acropora nasuta,4,low,Acan dark juveniles,1
+Lizard,36,Acropora nasuta,4,low,Amblygobius phaelaena,3
+Lizard,36,Acropora nasuta,4,low,Apogon doederleini,65
+Lizard,36,Acropora nasuta,4,low,Canthigaster bennetti,2
+Lizard,36,Acropora nasuta,4,low,Canthigaster valentini,1
+Lizard,36,Acropora nasuta,4,low,Chaetodon ephippium,1
+Lizard,36,Acropora nasuta,4,low,Cheilodipterus quinquelineatus,8
+Lizard,36,Acropora nasuta,4,low,Choris batuensis,1
+Lizard,36,Acropora nasuta,4,low,Chromis viridis,140
+Lizard,36,Acropora nasuta,4,low,Dascyllus aruanus,2
+Lizard,36,Acropora nasuta,4,low,Dascyllus reticulatus,5
+Lizard,36,Acropora nasuta,4,low,Dischistodus perspicillatus,8
+Lizard,36,Acropora nasuta,4,low,Gobiodon brochus,2
+Lizard,36,Acropora nasuta,4,low,Gobiodon erithrospirus,2
+Lizard,36,Acropora nasuta,4,low,Gobiodon histrio,2
+Lizard,36,Acropora nasuta,4,low,Gobiodon oculineatus,1
+Lizard,36,Acropora nasuta,4,low,Istigobius decoratus,1
+Lizard,36,Acropora nasuta,4,low,juv  Scarid other,2
+Lizard,36,Acropora nasuta,4,low,juv  Scarid striped,3
+Lizard,36,Acropora nasuta,4,low,Ostorhinchus cyanosoma,9
+Lizard,36,Acropora nasuta,4,low,Paracanthurus hepatus,1
+Lizard,36,Acropora nasuta,4,low,Parupeneus barberinus,1
+Lizard,36,Acropora nasuta,4,low,Parupeneus macronemma,2
+Lizard,36,Acropora nasuta,4,low,Pomacentrus amboinensis,26
+Lizard,36,Acropora nasuta,4,low,Pomacentrus chrysurus,1
+Lizard,36,Acropora nasuta,4,low,Pomacentrus moluccensis,3
+Lizard,36,Acropora nasuta,4,low,Pomacentrus nagasakiensis,3
+Lizard,36,Acropora nasuta,4,low,Pseudochromis fuscus,4
+Lizard,36,Acropora nasuta,4,low,Scolopsis sp,1
+Lizard,36,Acropora nasuta,4,low,Scorpionfish,1
+Lizard,36,Acropora nasuta,4,low,Siganus doliatus,2
+Lizard,36,Acropora nasuta,4,low,Stegastes lividus,1
+Lizard,36,Acropora nasuta,4,low,Valencienna longipinnis,1
+Lizard,42,Acropora nasuta,5,low,Acan dark juveniles,1
+Lizard,42,Acropora nasuta,5,low,Apogon doederleini,14
+Lizard,42,Acropora nasuta,5,low,Chaetodon plebeius,1
+Lizard,42,Acropora nasuta,5,low,Cheilodipterus artus,1
+Lizard,42,Acropora nasuta,5,low,Cheilodipterus quinquelineatus,4
+Lizard,42,Acropora nasuta,5,low,Chromis viridis,80
+Lizard,42,Acropora nasuta,5,low,Dascyllus aruanus,13
+Lizard,42,Acropora nasuta,5,low,Dascyllus reticulatus,3
+Lizard,42,Acropora nasuta,5,low,Dischistodus perspicillatus,8
+Lizard,42,Acropora nasuta,5,low,Epinephelus maculatus,1
+Lizard,42,Acropora nasuta,5,low,Gobiodon histrio,4
+Lizard,42,Acropora nasuta,5,low,Gobiodon quinquestrigatus,2
+Lizard,42,Acropora nasuta,5,low,Gobiodon unicolor,2
+Lizard,42,Acropora nasuta,5,low,Halichoeres melanurus,1
+Lizard,42,Acropora nasuta,5,low,Istigobius decoratus,1
+Lizard,42,Acropora nasuta,5,low,Lutjanus gibbus,1
+Lizard,42,Acropora nasuta,5,low,Lutjanus monostigma,1
+Lizard,42,Acropora nasuta,5,low,Ostorhinchus cyanosoma,12
+Lizard,42,Acropora nasuta,5,low,Pomacentrus amboinensis,27
+Lizard,42,Acropora nasuta,5,low,Pomacentrus nagasakiensis,1
+Lizard,42,Acropora nasuta,5,low,Pomacentrus pavo,1
+Lizard,42,Acropora nasuta,5,low,Pseudochromis fuscus,2
+Lizard,42,Acropora nasuta,5,low,Siganus doliatus,1
+Lizard,6,Acropora loripes,1,low,Amblygobius phaelaena,6
+Lizard,6,Acropora loripes,1,low,Apogon doederleini,25
+Lizard,6,Acropora loripes,1,low,Apogon thermalis,25
+Lizard,6,Acropora loripes,1,low,Apogon ventrifasciatus,3
+Lizard,6,Acropora loripes,1,low,Atrosalarias fuscus holomelas,1
+Lizard,6,Acropora loripes,1,low,Canthigaster valentini,1
+Lizard,6,Acropora loripes,1,low,Chaetodon ephippium,1
+Lizard,6,Acropora loripes,1,low,Cheilodipterus quinquelineatus,72
+Lizard,6,Acropora loripes,1,low,Choris batuensis,2
+Lizard,6,Acropora loripes,1,low,Dascyllus aruanus,3
+Lizard,6,Acropora loripes,1,low,Dischistodus perspicillatus,3
+Lizard,6,Acropora loripes,1,low,Fusigobius duospilus,2
+Lizard,6,Acropora loripes,1,low,Gobiodon okinawae,3
+Lizard,6,Acropora loripes,1,low,Iniistius aneitensis,2
+Lizard,6,Acropora loripes,1,low,Ostorhinchus cyanosoma,50
+Lizard,6,Acropora loripes,1,low,Pomacentrus amboinensis,37
+Lizard,6,Acropora loripes,1,low,Pomacentrus moluccensis,5
+Lizard,6,Acropora loripes,1,low,Pomacentrus nagasakiensis,2
+Lizard,6,Acropora loripes,1,low,Pseudochromis fuscus,2
+Lizard,6,Acropora loripes,1,low,Siganus doliatus,1
+Lizard,14,Acropora loripes,2,low,Acan dark juveniles,3
+Lizard,14,Acropora loripes,2,low,Amblyglyphidodon curacao,1
+Lizard,14,Acropora loripes,2,low,Amblygobius phaelaena,2
+Lizard,14,Acropora loripes,2,low,Apogon doederleini,62
+Lizard,14,Acropora loripes,2,low,Apogon thermalis,100
+Lizard,14,Acropora loripes,2,low,Canthigaster bennetti,2
+Lizard,14,Acropora loripes,2,low,Chaetodon auriga,1
+Lizard,14,Acropora loripes,2,low,Chaetodon ephippium,1
+Lizard,14,Acropora loripes,2,low,Cheilodipterus quinquelineatus,45
+Lizard,14,Acropora loripes,2,low,Dascyllus aruanus,26
+Lizard,14,Acropora loripes,2,low,Dascyllus reticulatus,3
+Lizard,14,Acropora loripes,2,low,Dischistodus perspicillatus,6
+Lizard,14,Acropora loripes,2,low,Fusigobius duospilus,1
+Lizard,14,Acropora loripes,2,low,Gobiodon okinawae,6
+Lizard,14,Acropora loripes,2,low,Istigobius decoratus,4
+Lizard,14,Acropora loripes,2,low,Istigobius rigilius,1
+Lizard,14,Acropora loripes,2,low,juv  Scarid other,4
+Lizard,14,Acropora loripes,2,low,Lutjanus gibbus,1
+Lizard,14,Acropora loripes,2,low,Lutjanus monostigma,2
+Lizard,14,Acropora loripes,2,low,Ostorhinchus cyanosoma,14
+Lizard,14,Acropora loripes,2,low,Parupeneus barberinus,1
+Lizard,14,Acropora loripes,2,low,Pomacentrus amboinensis,89
+Lizard,14,Acropora loripes,2,low,Pomacentrus moluccensis,1
+Lizard,14,Acropora loripes,2,low,Pomacentrus nagasakiensis,12
+Lizard,14,Acropora loripes,2,low,Pomacentrus pavo,9
+Lizard,14,Acropora loripes,2,low,Pseudochromis marshallensis,1
+Lizard,14,Acropora loripes,2,low,Siganus doliatus,2
+Lizard,14,Acropora loripes,2,low,Siganus punctatus,1
+Lizard,14,Acropora loripes,2,low,Thalassoma lunare,1
+Lizard,23,Acropora loripes,3,low,Amblyglyphidodon curacao,1
+Lizard,23,Acropora loripes,3,low,Apogon doederleini,45
+Lizard,23,Acropora loripes,3,low,Apogon thermalis,100
+Lizard,23,Acropora loripes,3,low,Apogon ventrifasciatus,4
+Lizard,23,Acropora loripes,3,low,Chaetodon ephippium,1
+Lizard,23,Acropora loripes,3,low,Cheilodipterus quinquelineatus,29
+Lizard,23,Acropora loripes,3,low,Choris batuensis,2
+Lizard,23,Acropora loripes,3,low,Dascyllus aruanus,6
+Lizard,23,Acropora loripes,3,low,Dascyllus reticulatus,2
+Lizard,23,Acropora loripes,3,low,Dischistodus perspicillatus,5
+Lizard,23,Acropora loripes,3,low,Fusigobius duospilus,2
+Lizard,23,Acropora loripes,3,low,Gobiodon okinawae,3
+Lizard,23,Acropora loripes,3,low,juv  Scarid other,1
+Lizard,23,Acropora loripes,3,low,juv  Scarid striped,5
+Lizard,23,Acropora loripes,3,low,Lutjanus gibbus,1
+Lizard,23,Acropora loripes,3,low,Lutjanus monostigma,3
+Lizard,23,Acropora loripes,3,low,Ostorhinchus cyanosoma,21
+Lizard,23,Acropora loripes,3,low,Parupeneus barberinus,1
+Lizard,23,Acropora loripes,3,low,Pomacentrus amboinensis,64
+Lizard,23,Acropora loripes,3,low,Pomacentrus moluccensis,2
+Lizard,23,Acropora loripes,3,low,Pomacentrus nagasakiensis,8
+Lizard,23,Acropora loripes,3,low,Pomacentrus pavo,3
+Lizard,23,Acropora loripes,3,low,Pseudochromis fuscus,3
+Lizard,23,Acropora loripes,3,low,Siganus punctatus,1
+Lizard,23,Acropora loripes,3,low,Thalassoma lunare,1
+Lizard,35,Acropora loripes,4,low,Acan dark juveniles,2
+Lizard,35,Acropora loripes,4,low,Aeoliscus strigatus,1
+Lizard,35,Acropora loripes,4,low,Amblyglyphidodon curacao,1
+Lizard,35,Acropora loripes,4,low,Apogon doederleini,29
+Lizard,35,Acropora loripes,4,low,Chaetodon ephippium,1
+Lizard,35,Acropora loripes,4,low,Chaetodon plebeius,1
+Lizard,35,Acropora loripes,4,low,Choris batuensis,2
+Lizard,35,Acropora loripes,4,low,Dascyllus aruanus,7
+Lizard,35,Acropora loripes,4,low,Dascyllus reticulatus,1
+Lizard,35,Acropora loripes,4,low,Dischistodus perspicillatus,6
+Lizard,35,Acropora loripes,4,low,Gobiodon okinawae,1
+Lizard,35,Acropora loripes,4,low,Istigobius decoratus,1
+Lizard,35,Acropora loripes,4,low,juv  Scarid striped,2
+Lizard,35,Acropora loripes,4,low,Lutjanus gibbus,5
+Lizard,35,Acropora loripes,4,low,Lutjanus monostigma,1
+Lizard,35,Acropora loripes,4,low,Neoniphon sammara,1
+Lizard,35,Acropora loripes,4,low,Ostorhinchus cyanosoma,110
+Lizard,35,Acropora loripes,4,low,Pomacentrus amboinensis,41
+Lizard,35,Acropora loripes,4,low,Pomacentrus chrysurus,1
+Lizard,35,Acropora loripes,4,low,Pomacentrus moluccensis,1
+Lizard,35,Acropora loripes,4,low,Pomacentrus nagasakiensis,6
+Lizard,35,Acropora loripes,4,low,Pomacentrus pavo,3
+Lizard,38,Acropora loripes,5,low,Amblygobius phaelaena,1
+Lizard,38,Acropora loripes,5,low,Apogon doederleini,75
+Lizard,38,Acropora loripes,5,low,Apogon thermalis,20
+Lizard,38,Acropora loripes,5,low,Canthigaster valentini,1
+Lizard,38,Acropora loripes,5,low,Chaetodon ephippium,1
+Lizard,38,Acropora loripes,5,low,Cheilodipterus quinquelineatus,18
+Lizard,38,Acropora loripes,5,low,Choris batuensis,2
+Lizard,38,Acropora loripes,5,low,Dascyllus aruanus,12
+Lizard,38,Acropora loripes,5,low,Eviota queenslandica,1
+Lizard,38,Acropora loripes,5,low,Fusigobius duospilus,1
+Lizard,38,Acropora loripes,5,low,Istigobius goldmanni,1
+Lizard,38,Acropora loripes,5,low,Istigobius rigilius,2
+Lizard,38,Acropora loripes,5,low,juv  Scarid striped,6
+Lizard,38,Acropora loripes,5,low,Neoniphon sammara,1
+Lizard,38,Acropora loripes,5,low,Ostorhinchus cyanosoma,127
+Lizard,38,Acropora loripes,5,low,Pomacentrus amboinensis,48
+Lizard,38,Acropora loripes,5,low,Pomacentrus chrysurus,1
+Lizard,38,Acropora loripes,5,low,Pomacentrus moluccensis,2
+Lizard,38,Acropora loripes,5,low,Pomacentrus nagasakiensis,1
+Lizard,38,Acropora loripes,5,low,Pomacentrus pavo,3
+Lizard,38,Acropora loripes,5,low,Pseudochromis fuscus,2
+Lizard,38,Acropora loripes,5,low,Siganus doliatus,3
+Lizard,38,Acropora loripes,5,low,Siganus punctatus,1
+Lizard,38,Acropora loripes,5,low,Stethojulis strigiventer,1
+Lizard,38,Acropora loripes,5,low,Valencienna longipinnis,1
+Lizard,12,Pocillopora damicornis,1,low,Acan dark juveniles,1
+Lizard,12,Pocillopora damicornis,1,low,Amblygobius phaelaena,3
+Lizard,12,Pocillopora damicornis,1,low,Apogon doederleini,10
+Lizard,12,Pocillopora damicornis,1,low,Apogon sp  rainbow,1
+Lizard,12,Pocillopora damicornis,1,low,Apogon thermalis,15
+Lizard,12,Pocillopora damicornis,1,low,Atrosalarias fuscus holomelas,1
+Lizard,12,Pocillopora damicornis,1,low,Canthigaster valentini,1
+Lizard,12,Pocillopora damicornis,1,low,Chaetodon ephippium,1
+Lizard,12,Pocillopora damicornis,1,low,Chaetodon plebeius,2
+Lizard,12,Pocillopora damicornis,1,low,Chaetodon speculum,1
+Lizard,12,Pocillopora damicornis,1,low,Cheilodipterus quinquelineatus,70
+Lizard,12,Pocillopora damicornis,1,low,Choris batuensis,1
+Lizard,12,Pocillopora damicornis,1,low,Chromis viridis,330
+Lizard,12,Pocillopora damicornis,1,low,Dascyllus aruanus,20
+Lizard,12,Pocillopora damicornis,1,low,Dascyllus reticulatus,29
+Lizard,12,Pocillopora damicornis,1,low,Dischistodus perspicillatus,4
+Lizard,12,Pocillopora damicornis,1,low,Istigobius decoratus,2
+Lizard,12,Pocillopora damicornis,1,low,juv  Scarid striped,1
+Lizard,12,Pocillopora damicornis,1,low,Neoniphon sammara,1
+Lizard,12,Pocillopora damicornis,1,low,Ogilbyina queenslandiae,1
+Lizard,12,Pocillopora damicornis,1,low,Ostorhinchus cyanosoma,62
+Lizard,12,Pocillopora damicornis,1,low,Paragobiodon echinocephalus,2
+Lizard,12,Pocillopora damicornis,1,low,Pomacentrus amboinensis,30
+Lizard,12,Pocillopora damicornis,1,low,Pomacentrus chrysurus,1
+Lizard,12,Pocillopora damicornis,1,low,Pomacentrus moluccensis,6
+Lizard,12,Pocillopora damicornis,1,low,Pomacentrus nagasakiensis,1
+Lizard,12,Pocillopora damicornis,1,low,Pomacentrus pavo,3
+Lizard,12,Pocillopora damicornis,1,low,Pseudochromis fuscus,1
+Lizard,12,Pocillopora damicornis,1,low,Scorpionfish,1
+Lizard,12,Pocillopora damicornis,1,low,Thalassoma lunare,3
+Lizard,18,Pocillopora damicornis,2,low,Acan dark juveniles,2
+Lizard,18,Pocillopora damicornis,2,low,Amblygobius phaelaena,2
+Lizard,18,Pocillopora damicornis,2,low,Apgon leptacanthus,30
+Lizard,18,Pocillopora damicornis,2,low,Apo red bl spot   dorsal tip,1
+Lizard,18,Pocillopora damicornis,2,low,Apogon doederleini,52
+Lizard,18,Pocillopora damicornis,2,low,Apogon thermalis,100
+Lizard,18,Pocillopora damicornis,2,low,Apogon ventrifasciatus,6
+Lizard,18,Pocillopora damicornis,2,low,Canthigaster valentini,2
+Lizard,18,Pocillopora damicornis,2,low,Chaetodon bennetti,1
+Lizard,18,Pocillopora damicornis,2,low,Chaetodon ephippium,2
+Lizard,18,Pocillopora damicornis,2,low,Chaetodon lunulatus,1
+Lizard,18,Pocillopora damicornis,2,low,Chaetodon plebeius,3
+Lizard,18,Pocillopora damicornis,2,low,Choris batuensis,2
+Lizard,18,Pocillopora damicornis,2,low,Chromis viridis,7
+Lizard,18,Pocillopora damicornis,2,low,Dascyllus aruanus,24
+Lizard,18,Pocillopora damicornis,2,low,Dascyllus reticulatus,17
+Lizard,18,Pocillopora damicornis,2,low,Dischistodus perspicillatus,4
+Lizard,18,Pocillopora damicornis,2,low,juv  Scarid other,2
+Lizard,18,Pocillopora damicornis,2,low,Lutjanus monostigma,6
+Lizard,18,Pocillopora damicornis,2,low,Micrognathus andersonii,1
+Lizard,18,Pocillopora damicornis,2,low,Ostorhinchus cyanosoma,27
+Lizard,18,Pocillopora damicornis,2,low,Paragobiodon echinocephalus,2
+Lizard,18,Pocillopora damicornis,2,low,Paragobiodon xanthosomus,2
+Lizard,18,Pocillopora damicornis,2,low,Pomacentrus amboinensis,46
+Lizard,18,Pocillopora damicornis,2,low,Pomacentrus chrysurus,1
+Lizard,18,Pocillopora damicornis,2,low,Pomacentrus moluccensis,3
+Lizard,18,Pocillopora damicornis,2,low,Pomacentrus nagasakiensis,1
+Lizard,18,Pocillopora damicornis,2,low,Pomacentrus pavo,2
+Lizard,18,Pocillopora damicornis,2,low,Pseudobalistes flavimarginatus,1
+Lizard,18,Pocillopora damicornis,2,low,Pseudochromis fuscus,3
+Lizard,26,Pocillopora damicornis,3,low,Acan dark juveniles,4
+Lizard,26,Pocillopora damicornis,3,low,Amblygobius phaelaena,3
+Lizard,26,Pocillopora damicornis,3,low,Apogon doederleini,45
+Lizard,26,Pocillopora damicornis,3,low,Apogon fraenatus,1
+Lizard,26,Pocillopora damicornis,3,low,Apogon thermalis,2
+Lizard,26,Pocillopora damicornis,3,low,Chaetodon ephippium,1
+Lizard,26,Pocillopora damicornis,3,low,Chaetodon speculum,1
+Lizard,26,Pocillopora damicornis,3,low,Cheilodipterus quinquelineatus,12
+Lizard,26,Pocillopora damicornis,3,low,Choris batuensis,4
+Lizard,26,Pocillopora damicornis,3,low,Chromis viridis,23
+Lizard,26,Pocillopora damicornis,3,low,Dascyllus aruanus,9
+Lizard,26,Pocillopora damicornis,3,low,Dascyllus reticulatus,7
+Lizard,26,Pocillopora damicornis,3,low,Epinephelus quoyanus,1
+Lizard,26,Pocillopora damicornis,3,low,Istigobius decoratus,1
+Lizard,26,Pocillopora damicornis,3,low,Ostorhinchus cyanosoma,52
+Lizard,26,Pocillopora damicornis,3,low,Paragobiodon echinocephalus,1
+Lizard,26,Pocillopora damicornis,3,low,Pomacentrus amboinensis,31
+Lizard,26,Pocillopora damicornis,3,low,Pomacentrus chrysurus,1
+Lizard,26,Pocillopora damicornis,3,low,Pomacentrus grammorhynchus,1
+Lizard,26,Pocillopora damicornis,3,low,Pomacentrus nagasakiensis,3
+Lizard,26,Pocillopora damicornis,3,low,Pseudochromis fuscus,3
+Lizard,26,Pocillopora damicornis,3,low,Salarias alboguttatus,1
+Lizard,26,Pocillopora damicornis,3,low,Stethojulis strigiventer,1
+Lizard,26,Pocillopora damicornis,3,low,Valencienna longipinnis,1
+Lizard,30,Pocillopora damicornis,4,low,Apogon doederleini,33
+Lizard,30,Pocillopora damicornis,4,low,Apogon thermalis,100
+Lizard,30,Pocillopora damicornis,4,low,Chaetodon plebeius,5
+Lizard,30,Pocillopora damicornis,4,low,Cheilodipterus quinquelineatus,5
+Lizard,30,Pocillopora damicornis,4,low,Choris batuensis,2
+Lizard,30,Pocillopora damicornis,4,low,Chromis viridis,4
+Lizard,30,Pocillopora damicornis,4,low,Dascyllus aruanus,23
+Lizard,30,Pocillopora damicornis,4,low,Dascyllus reticulatus,16
+Lizard,30,Pocillopora damicornis,4,low,Dischistodus perspicillatus,2
+Lizard,30,Pocillopora damicornis,4,low,Epinephelus maculatus,1
+Lizard,30,Pocillopora damicornis,4,low,Lutjanus gibbus,1
+Lizard,30,Pocillopora damicornis,4,low,Neoniphon sammara,1
+Lizard,30,Pocillopora damicornis,4,low,Ostorhinchus cyanosoma,20
+Lizard,30,Pocillopora damicornis,4,low,Paragobiodon echinocephalus,2
+Lizard,30,Pocillopora damicornis,4,low,Pomacentrus amboinensis,43
+Lizard,30,Pocillopora damicornis,4,low,Pomacentrus moluccensis,1
+Lizard,30,Pocillopora damicornis,4,low,Pomacentrus nagasakiensis,1
+Lizard,30,Pocillopora damicornis,4,low,Pomacentrus pavo,2
+Lizard,30,Pocillopora damicornis,4,low,Pseudochromis fuscus,2
+Lizard,30,Pocillopora damicornis,4,low,Thalassoma lunare,1
+Lizard,44,Pocillopora damicornis,5,low,Amblygobius phaelaena,2
+Lizard,44,Pocillopora damicornis,5,low,Apogon doederleini,41
+Lizard,44,Pocillopora damicornis,5,low,Chaetodon plebeius,1
+Lizard,44,Pocillopora damicornis,5,low,Cheilodipterus quinquelineatus,6
+Lizard,44,Pocillopora damicornis,5,low,Chromis viridis,1
+Lizard,44,Pocillopora damicornis,5,low,Dascyllus aruanus,14
+Lizard,44,Pocillopora damicornis,5,low,Dascyllus reticulatus,35
+Lizard,44,Pocillopora damicornis,5,low,Dischistodus perspicillatus,5
+Lizard,44,Pocillopora damicornis,5,low,Eviota queenslandica,1
+Lizard,44,Pocillopora damicornis,5,low,Istigobius decoratus,1
+Lizard,44,Pocillopora damicornis,5,low,Lutjanus gibbus,1
+Lizard,44,Pocillopora damicornis,5,low,Neoniphon sammara,1
+Lizard,44,Pocillopora damicornis,5,low,Ostorhinchus cyanosoma,48
+Lizard,44,Pocillopora damicornis,5,low,Pomacentrus amboinensis,26
+Lizard,44,Pocillopora damicornis,5,low,Pomacentrus moluccensis,9
+Lizard,44,Pocillopora damicornis,5,low,Pomacentrus nagasakiensis,1
+Lizard,44,Pocillopora damicornis,5,low,Pomacentrus pavo,3
+Lizard,44,Pocillopora damicornis,5,low,Pseudochromis fuscus,1
+Lizard,44,Pocillopora damicornis,5,low,Pseudochromis marshallensis,1
+Lizard,4,Porites cylindrica,1,low,Amblygobius phaelaena,2
+Lizard,4,Porites cylindrica,1,low,Apogon doederleini,64
+Lizard,4,Porites cylindrica,1,low,Apogon fragilis,40
+Lizard,4,Porites cylindrica,1,low,Canthigaster valentini,2
+Lizard,4,Porites cylindrica,1,low,Choris batuensis,1
+Lizard,4,Porites cylindrica,1,low,Dascyllus aruanus,2
+Lizard,4,Porites cylindrica,1,low,Dischistodus perspicillatus,2
+Lizard,4,Porites cylindrica,1,low,Epinephelus maculatus,1
+Lizard,4,Porites cylindrica,1,low,Fusigobius duospilus,1
+Lizard,4,Porites cylindrica,1,low,Halichoeres trimaculatus,1
+Lizard,4,Porites cylindrica,1,low,Iniistius aneitensis,1
+Lizard,4,Porites cylindrica,1,low,juv  Scarid other,3
+Lizard,4,Porites cylindrica,1,low,juv  Scarid striped,3
+Lizard,4,Porites cylindrica,1,low,Lutjanus monostigma,1
+Lizard,4,Porites cylindrica,1,low,Ostorhinchus cyanosoma,6
+Lizard,4,Porites cylindrica,1,low,Pomacentrus amboinensis,24
+Lizard,4,Porites cylindrica,1,low,Pomacentrus nagasakiensis,2
+Lizard,4,Porites cylindrica,1,low,Pseudochromis fuscus,1
+Lizard,4,Porites cylindrica,1,low,Scorpionfish,1
+Lizard,4,Porites cylindrica,1,low,Thalassoma lunare,1
+Lizard,11,Porites cylindrica,2,low,Amblyglyphidodon curacao,1
+Lizard,11,Porites cylindrica,2,low,Amblygobius phaelaena,1
+Lizard,11,Porites cylindrica,2,low,Apogon doederleini,51
+Lizard,11,Porites cylindrica,2,low,Apogon thermalis,50
+Lizard,11,Porites cylindrica,2,low,Canthigaster bennetti,2
+Lizard,11,Porites cylindrica,2,low,Cheilodipterus artus,6
+Lizard,11,Porites cylindrica,2,low,Cheilodipterus quinquelineatus,35
+Lizard,11,Porites cylindrica,2,low,Choris batuensis,2
+Lizard,11,Porites cylindrica,2,low,Dischistodus perspicillatus,4
+Lizard,11,Porites cylindrica,2,low,juv  Scarid striped,5
+Lizard,11,Porites cylindrica,2,low,Lutjanus monostigma,1
+Lizard,11,Porites cylindrica,2,low,Ostorhinchus cyanosoma,54
+Lizard,11,Porites cylindrica,2,low,Pomacentrus amboinensis,29
+Lizard,11,Porites cylindrica,2,low,Pomacentrus chrysurus,1
+Lizard,11,Porites cylindrica,2,low,Pomacentrus nagasakiensis,3
+Lizard,11,Porites cylindrica,2,low,Pomacentrus pavo,5
+Lizard,11,Porites cylindrica,2,low,Pseudochromis flammicauda,1
+Lizard,11,Porites cylindrica,2,low,Pseudochromis fuscus,2
+Lizard,11,Porites cylindrica,2,low,Rhinecanthus aculeatus,1
+Lizard,11,Porites cylindrica,2,low,Sargocentron sp,1
+Lizard,11,Porites cylindrica,2,low,Siganus doliatus,1
+Lizard,25,Porites cylindrica,3,low,Acan dark juveniles,3
+Lizard,25,Porites cylindrica,3,low,Amblygobius phaelaena,3
+Lizard,25,Porites cylindrica,3,low,Apogon doederleini,72
+Lizard,25,Porites cylindrica,3,low,Apogon thermalis,100
+Lizard,25,Porites cylindrica,3,low,Canthigaster valentini,1
+Lizard,25,Porites cylindrica,3,low,Cheilodipterus quinquelineatus,20
+Lizard,25,Porites cylindrica,3,low,Choris batuensis,3
+Lizard,25,Porites cylindrica,3,low,Dischistodus perspicillatus,5
+Lizard,25,Porites cylindrica,3,low,Istigobius decoratus,1
+Lizard,25,Porites cylindrica,3,low,Lutjanus monostigma,3
+Lizard,25,Porites cylindrica,3,low,Ostorhinchus cyanosoma,47
+Lizard,25,Porites cylindrica,3,low,Pomacentrus amboinensis,44
+Lizard,25,Porites cylindrica,3,low,Pomacentrus chrysurus,2
+Lizard,25,Porites cylindrica,3,low,Pomacentrus nagasakiensis,7
+Lizard,25,Porites cylindrica,3,low,Pomacentrus pavo,3
+Lizard,25,Porites cylindrica,3,low,Pseudochromis fuscus,2
+Lizard,25,Porites cylindrica,3,low,Valencienna longipinnis,1
+Lizard,29,Porites cylindrica,4,low,Cheilinus trilobatus,1
+Lizard,29,Porites cylindrica,4,low,Choris batuensis,2
+Lizard,29,Porites cylindrica,4,low,Dascyllus aruanus,1
+Lizard,29,Porites cylindrica,4,low,Dischistodus perspicillatus,2
+Lizard,29,Porites cylindrica,4,low,Epinephelus maculatus,1
+Lizard,29,Porites cylindrica,4,low,Hemigymnus melapterus,1
+Lizard,29,Porites cylindrica,4,low,Pomacentrus amboinensis,10
+Lizard,29,Porites cylindrica,4,low,Pomacentrus chrysurus,1
+Lizard,40,Porites cylindrica,5,low,Amblygobius phaelaena,3
+Lizard,40,Porites cylindrica,5,low,Apogon doederleini,80
+Lizard,40,Porites cylindrica,5,low,Apogon thermalis,12
+Lizard,40,Porites cylindrica,5,low,Canthigaster bennetti,1
+Lizard,40,Porites cylindrica,5,low,Canthigaster valentini,1
+Lizard,40,Porites cylindrica,5,low,Cheilodipterus quinquelineatus,30
+Lizard,40,Porites cylindrica,5,low,Dischistodus perspicillatus,6
+Lizard,40,Porites cylindrica,5,low,Eviota queenslandica,1
+Lizard,40,Porites cylindrica,5,low,Fusigobius duospilus,1
+Lizard,40,Porites cylindrica,5,low,juv  Scarid other,2
+Lizard,40,Porites cylindrica,5,low,Lionfish,1
+Lizard,40,Porites cylindrica,5,low,Lutjanus monostigma,1
+Lizard,40,Porites cylindrica,5,low,Ostorhinchus cyanosoma,167
+Lizard,40,Porites cylindrica,5,low,Pomacentrus amboinensis,33
+Lizard,40,Porites cylindrica,5,low,Pomacentrus chrysurus,2
+Lizard,40,Porites cylindrica,5,low,Pomacentrus grammorhynchus,1
+Lizard,40,Porites cylindrica,5,low,Pomacentrus moluccensis,1
+Lizard,40,Porites cylindrica,5,low,Pomacentrus nagasakiensis,1
+Lizard,40,Porites cylindrica,5,low,Pseudobalistes flavimarginatus,1
+Lizard,40,Porites cylindrica,5,low,Pseudochromis fuscus,2
+Lizard,40,Porites cylindrica,5,low,Salarias fasciatus,1
+Lizard,40,Porites cylindrica,5,low,Stethojulis strigiventer,1
+Lizard,10,Seriatopora hystrix,1,low,Amblygobius phaelaena,3
+Lizard,10,Seriatopora hystrix,1,low,Apogon doederleini,105
+Lizard,10,Seriatopora hystrix,1,low,Apogon exostigma  not aligned,1
+Lizard,10,Seriatopora hystrix,1,low,Apogon thermalis,3
+Lizard,10,Seriatopora hystrix,1,low,Asteropteryx semipuctatus,1
+Lizard,10,Seriatopora hystrix,1,low,Cheilinus chlorourus,1
+Lizard,10,Seriatopora hystrix,1,low,Cheilodipterus quinquelineatus,11
+Lizard,10,Seriatopora hystrix,1,low,Choris batuensis,3
+Lizard,10,Seriatopora hystrix,1,low,Chromis viridis,430
+Lizard,10,Seriatopora hystrix,1,low,Dascyllus aruanus,10
+Lizard,10,Seriatopora hystrix,1,low,Dischistodus perspicillatus,7
+Lizard,10,Seriatopora hystrix,1,low,Gobiodon ceramicus,2
+Lizard,10,Seriatopora hystrix,1,low,Istigobius decoratus,4
+Lizard,10,Seriatopora hystrix,1,low,juv  Scarid other,1
+Lizard,10,Seriatopora hystrix,1,low,Lutjanus monostigma,1
+Lizard,10,Seriatopora hystrix,1,low,Neoniphon sammara,1
+Lizard,10,Seriatopora hystrix,1,low,Ostorhinchus cyanosoma,11
+Lizard,10,Seriatopora hystrix,1,low,Paragobiodon xanthosomus,11
+Lizard,10,Seriatopora hystrix,1,low,Pomacentrus amboinensis,12
+Lizard,10,Seriatopora hystrix,1,low,Pomacentrus grammorhynchus,2
+Lizard,10,Seriatopora hystrix,1,low,Pomacentrus moluccensis,10
+Lizard,10,Seriatopora hystrix,1,low,Pomacentrus nagasakiensis,3
+Lizard,10,Seriatopora hystrix,1,low,Pomacentrus pavo,3
+Lizard,10,Seriatopora hystrix,1,low,Pseudochromis fuscus,1
+Lizard,10,Seriatopora hystrix,1,low,Stegastes lividus,1
+Lizard,20,Seriatopora hystrix,2,low,Acan dark juveniles,3
+Lizard,20,Seriatopora hystrix,2,low,Chaetodon ephippium,3
+Lizard,20,Seriatopora hystrix,2,low,Choris batuensis,2
+Lizard,20,Seriatopora hystrix,2,low,Chromis viridis,20
+Lizard,20,Seriatopora hystrix,2,low,Dascyllus aruanus,9
+Lizard,20,Seriatopora hystrix,2,low,Dischistodus perspicillatus,3
+Lizard,20,Seriatopora hystrix,2,low,Istigobius decoratus,1
+Lizard,20,Seriatopora hystrix,2,low,juv  Scarid other,1
+Lizard,20,Seriatopora hystrix,2,low,juv  Scarid striped,2
+Lizard,20,Seriatopora hystrix,2,low,Ogilbyina queenslandiae,1
+Lizard,20,Seriatopora hystrix,2,low,Ostorhinchus cyanosoma,22
+Lizard,20,Seriatopora hystrix,2,low,Paragobiodon xanthosomus,15
+Lizard,20,Seriatopora hystrix,2,low,Pomacentrus amboinensis,63
+Lizard,20,Seriatopora hystrix,2,low,Pomacentrus moluccensis,5
+Lizard,20,Seriatopora hystrix,2,low,Pomacentrus nagasakiensis,2
+Lizard,20,Seriatopora hystrix,2,low,Pomacentrus pavo,1
+Lizard,20,Seriatopora hystrix,2,low,Pseudochromis fuscus,1
+Lizard,20,Seriatopora hystrix,2,low,Siganus puellus,1
+Lizard,20,Seriatopora hystrix,2,low,Thalassoma lunare,3
+Lizard,27,Seriatopora hystrix,3,low,Acan dark juveniles,3
+Lizard,27,Seriatopora hystrix,3,low,Apgon leptacanthus,10
+Lizard,27,Seriatopora hystrix,3,low,Apo red bl spot   dorsal tip,2
+Lizard,27,Seriatopora hystrix,3,low,Apogon doederleini,156
+Lizard,27,Seriatopora hystrix,3,low,Apogon thermalis,104
+Lizard,27,Seriatopora hystrix,3,low,Apogon ventrifasciatus,3
+Lizard,27,Seriatopora hystrix,3,low,Canthigaster bennetti,1
+Lizard,27,Seriatopora hystrix,3,low,Chaetodon lunulatus,1
+Lizard,27,Seriatopora hystrix,3,low,Chaetodon plebeius,2
+Lizard,27,Seriatopora hystrix,3,low,Chaetodon ulientensis,1
+Lizard,27,Seriatopora hystrix,3,low,Cheilodipterus quinquelineatus,10
+Lizard,27,Seriatopora hystrix,3,low,Choris batuensis,1
+Lizard,27,Seriatopora hystrix,3,low,Chromis viridis,3
+Lizard,27,Seriatopora hystrix,3,low,Dascyllus aruanus,4
+Lizard,27,Seriatopora hystrix,3,low,Dischistodus perspicillatus,9
+Lizard,27,Seriatopora hystrix,3,low,Hemigymnus melapterus,1
+Lizard,27,Seriatopora hystrix,3,low,juv  Scarid other,2
+Lizard,27,Seriatopora hystrix,3,low,Lutjanus gibbus,1
+Lizard,27,Seriatopora hystrix,3,low,Lutjanus monostigma,7
+Lizard,27,Seriatopora hystrix,3,low,Ostorhinchus cyanosoma,16
+Lizard,27,Seriatopora hystrix,3,low,Paragobiodon xanthosomus,6
+Lizard,27,Seriatopora hystrix,3,low,Parupeneus barberinus,2
+Lizard,27,Seriatopora hystrix,3,low,Pomacentrus amboinensis,43
+Lizard,27,Seriatopora hystrix,3,low,Pomacentrus chrysurus,1
+Lizard,27,Seriatopora hystrix,3,low,Pomacentrus moluccensis,2
+Lizard,27,Seriatopora hystrix,3,low,Pomacentrus nagasakiensis,7
+Lizard,27,Seriatopora hystrix,3,low,Pomacentrus pavo,6
+Lizard,27,Seriatopora hystrix,3,low,Pseudochromis fuscus,3
+Lizard,27,Seriatopora hystrix,3,low,Valencienna longipinnis,2
+Lizard,33,Seriatopora hystrix,4,low,Acan dark juveniles,4
+Lizard,33,Seriatopora hystrix,4,low,Atrosalarias fuscus holomelas,1
+Lizard,33,Seriatopora hystrix,4,low,Canthigaster bennetti,1
+Lizard,33,Seriatopora hystrix,4,low,Chaetodon plebeius,1
+Lizard,33,Seriatopora hystrix,4,low,Choris batuensis,1
+Lizard,33,Seriatopora hystrix,4,low,Chromis viridis,2
+Lizard,33,Seriatopora hystrix,4,low,Dascyllus aruanus,8
+Lizard,33,Seriatopora hystrix,4,low,Dischistodus perspicillatus,2
+Lizard,33,Seriatopora hystrix,4,low,Epinephelus maculatus,1
+Lizard,33,Seriatopora hystrix,4,low,Eviota queenslandica,1
+Lizard,33,Seriatopora hystrix,4,low,Fusigobius duospilus,1
+Lizard,33,Seriatopora hystrix,4,low,Gobiodon ceramicus,3
+Lizard,33,Seriatopora hystrix,4,low,Istigobius decoratus,1
+Lizard,33,Seriatopora hystrix,4,low,juv  Scarid other,2
+Lizard,33,Seriatopora hystrix,4,low,juv  Scarid striped,1
+Lizard,33,Seriatopora hystrix,4,low,Ostorhinchus cyanosoma,2
+Lizard,33,Seriatopora hystrix,4,low,Paragobiodon xanthosomus,10
+Lizard,33,Seriatopora hystrix,4,low,Pomacentrus adelus,1
+Lizard,33,Seriatopora hystrix,4,low,Pomacentrus amboinensis,32
+Lizard,33,Seriatopora hystrix,4,low,Pomacentrus chrysurus,4
+Lizard,33,Seriatopora hystrix,4,low,Pomacentrus moluccensis,9
+Lizard,33,Seriatopora hystrix,4,low,Pomacentrus nagasakiensis,1
+Lizard,33,Seriatopora hystrix,4,low,Pseudochromis fuscus,2
+Lizard,33,Seriatopora hystrix,4,low,Siganus puellus,1
+Lizard,33,Seriatopora hystrix,4,low,Stethojulis strigiventer,1
+Lizard,33,Seriatopora hystrix,4,low,Thalassoma lunare,1
+Lizard,43,Seriatopora hystrix,5,low,Acan dark juveniles,2
+Lizard,43,Seriatopora hystrix,5,low,Apogon doederleini,61
+Lizard,43,Seriatopora hystrix,5,low,Canthigaster valentini,2
+Lizard,43,Seriatopora hystrix,5,low,Chaetodon ephippium,1
+Lizard,43,Seriatopora hystrix,5,low,Cheilodipterus quinquelineatus,12
+Lizard,43,Seriatopora hystrix,5,low,Choris batuensis,1
+Lizard,43,Seriatopora hystrix,5,low,Dascyllus aruanus,8
+Lizard,43,Seriatopora hystrix,5,low,Dischistodus perspicillatus,5
+Lizard,43,Seriatopora hystrix,5,low,Eviota queenslandica,1
+Lizard,43,Seriatopora hystrix,5,low,Gobiodon ceramicus,1
+Lizard,43,Seriatopora hystrix,5,low,Halichoeres melanurus,1
+Lizard,43,Seriatopora hystrix,5,low,Ostorhinchus cyanosoma,47
+Lizard,43,Seriatopora hystrix,5,low,Paragobiodon xanthosomus,35
+Lizard,43,Seriatopora hystrix,5,low,Parupeneus barberinus,1
+Lizard,43,Seriatopora hystrix,5,low,Pomacentrus amboinensis,56
+Lizard,43,Seriatopora hystrix,5,low,Pomacentrus chrysurus,1
+Lizard,43,Seriatopora hystrix,5,low,Pomacentrus grammorhynchus,1
+Lizard,43,Seriatopora hystrix,5,low,Pomacentrus moluccensis,5
+Lizard,43,Seriatopora hystrix,5,low,Pomacentrus nagasakiensis,6
+Lizard,43,Seriatopora hystrix,5,low,Pomacentrus pavo,4
+Lizard,43,Seriatopora hystrix,5,low,Pseudobalistes flavimarginatus,1
+Lizard,43,Seriatopora hystrix,5,low,Pseudochromis flammicauda,1
+Lizard,43,Seriatopora hystrix,5,low,Pseudochromis fuscus,1
+Lizard,43,Seriatopora hystrix,5,low,Salarias alboguttatus,1
+Lizard,43,Seriatopora hystrix,5,low,Thalassoma lunare,1
+Lizard,1,Acropora muricata,1,low,Amblyglyphidodon curacao,2
+Lizard,1,Acropora muricata,1,low,Amblygobius phaelaena,1
+Lizard,1,Acropora muricata,1,low,Apogon doederleini,75
+Lizard,1,Acropora muricata,1,low,Apogon thermalis,30
+Lizard,1,Acropora muricata,1,low,Canthigaster bennetti,4
+Lizard,1,Acropora muricata,1,low,Canthigaster valentini,1
+Lizard,1,Acropora muricata,1,low,Cheilodipterus quinquelineatus,34
+Lizard,1,Acropora muricata,1,low,Choris batuensis,2
+Lizard,1,Acropora muricata,1,low,Dischistodus perspicillatus,9
+Lizard,1,Acropora muricata,1,low,Fusigobius duospilus,1
+Lizard,1,Acropora muricata,1,low,Gobiodon okinawae,10
+Lizard,1,Acropora muricata,1,low,juv  Scarid other,1
+Lizard,1,Acropora muricata,1,low,juv  Scarid striped,1
+Lizard,1,Acropora muricata,1,low,Ostorhinchus cyanosoma,26
+Lizard,1,Acropora muricata,1,low,Pleurosicya micheli,1
+Lizard,1,Acropora muricata,1,low,Pomacentrus amboinensis,12
+Lizard,1,Acropora muricata,1,low,Pomacentrus nagasakiensis,2
+Lizard,1,Acropora muricata,1,low,Pseudochromis fuscus,1
+Lizard,1,Acropora muricata,1,low,Siganus doliatus,1
+Lizard,8,Acropora muricata,2,low,Acan dark juveniles,1
+Lizard,8,Acropora muricata,2,low,Canthigaster bennetti,1
+Lizard,8,Acropora muricata,2,low,Canthigaster valentini,1
+Lizard,8,Acropora muricata,2,low,Cheilodipterus quinquelineatus,3
+Lizard,8,Acropora muricata,2,low,Choris batuensis,3
+Lizard,8,Acropora muricata,2,low,Dischistodus perspicillatus,2
+Lizard,8,Acropora muricata,2,low,Eviota queenslandica,4
+Lizard,8,Acropora muricata,2,low,Gobiodon citrinus,1
+Lizard,8,Acropora muricata,2,low,Gobiodon okinawae,1
+Lizard,8,Acropora muricata,2,low,Istigobius decoratus,4
+Lizard,8,Acropora muricata,2,low,juv  Scarid striped,6
+Lizard,8,Acropora muricata,2,low,Lutjanus carponatus,1
+Lizard,8,Acropora muricata,2,low,Parupeneus macronemma,2
+Lizard,8,Acropora muricata,2,low,Pomacentrus amboinensis,37
+Lizard,8,Acropora muricata,2,low,Pomacentrus nagasakiensis,2
+Lizard,8,Acropora muricata,2,low,Pseudobalistes flavimarginatus,1
+Lizard,8,Acropora muricata,2,low,Pseudochromis fuscus,3
+Lizard,22,Acropora muricata,3,low,Amblygobius phaelaena,1
+Lizard,22,Acropora muricata,3,low,Apo red bl spot   dorsal tip,1
+Lizard,22,Acropora muricata,3,low,Apogon doederleini,202
+Lizard,22,Acropora muricata,3,low,Apogon thermalis,100
+Lizard,22,Acropora muricata,3,low,Apogon ventrifasciatus,3
+Lizard,22,Acropora muricata,3,low,Canthigaster bennetti,1
+Lizard,22,Acropora muricata,3,low,Chaetodon trifascialis,1
+Lizard,22,Acropora muricata,3,low,Cheilodipterus quinquelineatus,70
+Lizard,22,Acropora muricata,3,low,Choris batuensis,4
+Lizard,22,Acropora muricata,3,low,Dischistodus perspicillatus,2
+Lizard,22,Acropora muricata,3,low,Gobiodon okinawae,1
+Lizard,22,Acropora muricata,3,low,Istigobius decoratus,4
+Lizard,22,Acropora muricata,3,low,Lutjanus monostigma,5
+Lizard,22,Acropora muricata,3,low,Ostorhinchus cyanosoma,20
+Lizard,22,Acropora muricata,3,low,Pomacentrus amboinensis,16
+Lizard,22,Acropora muricata,3,low,Pseudochromis fuscus,1
+Lizard,31,Acropora muricata,4,low,Acan dark juveniles,1
+Lizard,31,Acropora muricata,4,low,Amblygobius phaelaena,10
+Lizard,31,Acropora muricata,4,low,Apogon doederleini,2
+Lizard,31,Acropora muricata,4,low,Canthigaster bennetti,1
+Lizard,31,Acropora muricata,4,low,Cheilodipterus quinquelineatus,11
+Lizard,31,Acropora muricata,4,low,Choris batuensis,6
+Lizard,31,Acropora muricata,4,low,Ctenogobiops pomastictus,1
+Lizard,31,Acropora muricata,4,low,Dischistodus perspicillatus,6
+Lizard,31,Acropora muricata,4,low,Eviota queenslandica,1
+Lizard,31,Acropora muricata,4,low,Fusigobius duospilus,1
+Lizard,31,Acropora muricata,4,low,Gobiodon citrinus,2
+Lizard,31,Acropora muricata,4,low,Gobiodon okinawae,6
+Lizard,31,Acropora muricata,4,low,Istigobius decoratus,3
+Lizard,31,Acropora muricata,4,low,juv  Scarid striped,5
+Lizard,31,Acropora muricata,4,low,Ogilbyina queenslandiae,1
+Lizard,31,Acropora muricata,4,low,Ostorhinchus cyanosoma,38
+Lizard,31,Acropora muricata,4,low,Oxymonacanthus longirostris,1
+Lizard,31,Acropora muricata,4,low,Pomacentrus amboinensis,12
+Lizard,31,Acropora muricata,4,low,Pseudochromis fuscus,2
+Lizard,31,Acropora muricata,4,low,Salarias fasciatus,1
+Lizard,41,Acropora muricata,5,low,Amblygobius phaelaena,5
+Lizard,41,Acropora muricata,5,low,Apogon doederleini,8
+Lizard,41,Acropora muricata,5,low,Apogon thermalis,12
+Lizard,41,Acropora muricata,5,low,Canthigaster bennetti,1
+Lizard,41,Acropora muricata,5,low,Cheilodipterus quinquelineatus,9
+Lizard,41,Acropora muricata,5,low,Choris batuensis,3
+Lizard,41,Acropora muricata,5,low,Dischistodus perspicillatus,5
+Lizard,41,Acropora muricata,5,low,Epinephelus maculatus,1
+Lizard,41,Acropora muricata,5,low,Fusigobius duospilus,1
+Lizard,41,Acropora muricata,5,low,Gobiodon citrinus,1
+Lizard,41,Acropora muricata,5,low,Iniistius aneitensis,1
+Lizard,41,Acropora muricata,5,low,juv  Scarid striped,6
+Lizard,41,Acropora muricata,5,low,Ostorhinchus cyanosoma,120
+Lizard,41,Acropora muricata,5,low,Pomacentrus amboinensis,12
+Lizard,41,Acropora muricata,5,low,Pomacentrus chrysurus,1
+Lizard,41,Acropora muricata,5,low,Pomacentrus nagasakiensis,1
+Lizard,41,Acropora muricata,5,low,Pseudochromis fuscus,2
+Lizard,5,Med A,1,medium,Apogon doederleini,7
+Lizard,5,Med A,1,medium,Canthigaster valentini,1
+Lizard,5,Med A,1,medium,Choris batuensis,2
+Lizard,5,Med A,1,medium,Dascyllus aruanus,9
+Lizard,5,Med A,1,medium,Dascyllus reticulatus,2
+Lizard,5,Med A,1,medium,Dischistodus perspicillatus,3
+Lizard,5,Med A,1,medium,Fusigobius duospilus,2
+Lizard,5,Med A,1,medium,Gobiodon okinawae,1
+Lizard,5,Med A,1,medium,Istigobius decoratus,1
+Lizard,5,Med A,1,medium,Istigobius rigilius,1
+Lizard,5,Med A,1,medium,Lutjanus gibbus,1
+Lizard,5,Med A,1,medium,Lutjanus monostigma,1
+Lizard,5,Med A,1,medium,Ostorhinchus cyanosoma,13
+Lizard,5,Med A,1,medium,Paragobiodon echinocephalus,1
+Lizard,5,Med A,1,medium,Pomacentrus amboinensis,38
+Lizard,5,Med A,1,medium,Pomacentrus moluccensis,6
+Lizard,5,Med A,1,medium,Pseudochromis fuscus,1
+Lizard,5,Med A,1,medium,Rhinecanthus aculeatus,1
+Lizard,5,Med A,1,medium,Siganus punctatus,1
+Lizard,5,Med A,1,medium,Thalassoma lunare,1
+Lizard,9,Med A,2,medium,Amblygobius phaelaena,4
+Lizard,9,Med A,2,medium,Apogon doederleini,38
+Lizard,9,Med A,2,medium,Apogon thermalis,100
+Lizard,9,Med A,2,medium,Canthigaster valentini,1
+Lizard,9,Med A,2,medium,Chaetodon plebeius,1
+Lizard,9,Med A,2,medium,Cheilodipterus quinquelineatus,16
+Lizard,9,Med A,2,medium,Choris batuensis,2
+Lizard,9,Med A,2,medium,Dascyllus aruanus,9
+Lizard,9,Med A,2,medium,Dascyllus reticulatus,9
+Lizard,9,Med A,2,medium,Dischistodus perspicillatus,6
+Lizard,9,Med A,2,medium,Fusigobius duospilus,2
+Lizard,9,Med A,2,medium,Gobiodon okinawae,2
+Lizard,9,Med A,2,medium,Istigobius decoratus,1
+Lizard,9,Med A,2,medium,Ostorhinchus cyanosoma,127
+Lizard,9,Med A,2,medium,Pomacentrus amboinensis,47
+Lizard,9,Med A,2,medium,Pomacentrus moluccensis,6
+Lizard,9,Med A,2,medium,Pomacentrus nagasakiensis,11
+Lizard,9,Med A,2,medium,Pseudochromis fuscus,1
+Lizard,9,Med A,2,medium,Rhinecanthus aculeatus,1
+Lizard,9,Med A,2,medium,Siganus doliatus,1
+Lizard,9,Med A,2,medium,Siganus punctatus,1
+Lizard,19,Med A,3,medium,Acan dark juveniles,3
+Lizard,19,Med A,3,medium,Amblyglyphidodon curacao,1
+Lizard,19,Med A,3,medium,Apogon doederleini,32
+Lizard,19,Med A,3,medium,Apogon thermalis,100
+Lizard,19,Med A,3,medium,Atrosalarias fuscus holomelas,1
+Lizard,19,Med A,3,medium,Cheilodipterus quinquelineatus,12
+Lizard,19,Med A,3,medium,Cromileptes altivelis,1
+Lizard,19,Med A,3,medium,Cypho purpurascens,1
+Lizard,19,Med A,3,medium,Dascyllus aruanus,9
+Lizard,19,Med A,3,medium,Dascyllus reticulatus,9
+Lizard,19,Med A,3,medium,Dischistodus perspicillatus,4
+Lizard,19,Med A,3,medium,Gobiodon okinawae,2
+Lizard,19,Med A,3,medium,Istigobius decoratus,2
+Lizard,19,Med A,3,medium,Lutjanus monostigma,4
+Lizard,19,Med A,3,medium,Ostorhinchus cyanosoma,21
+Lizard,19,Med A,3,medium,Pomacentrus amboinensis,49
+Lizard,19,Med A,3,medium,Pomacentrus moluccensis,4
+Lizard,19,Med A,3,medium,Pomacentrus nagasakiensis,2
+Lizard,19,Med A,3,medium,Pomacentrus pavo,4
+Lizard,19,Med A,3,medium,Pseudochromis fuscus,1
+Lizard,28,Med A,4,medium,Amblygobius phaelaena,2
+Lizard,28,Med A,4,medium,Apogon doederleini,39
+Lizard,28,Med A,4,medium,Apogon thermalis,20
+Lizard,28,Med A,4,medium,Cheilodipterus quinquelineatus,10
+Lizard,28,Med A,4,medium,Choris batuensis,4
+Lizard,28,Med A,4,medium,Chromis viridis,4
+Lizard,28,Med A,4,medium,Dascyllus aruanus,2
+Lizard,28,Med A,4,medium,Dascyllus reticulatus,5
+Lizard,28,Med A,4,medium,Dischistodus perspicillatus,6
+Lizard,28,Med A,4,medium,Fusigobius duospilus,1
+Lizard,28,Med A,4,medium,Gobiodon okinawae,2
+Lizard,28,Med A,4,medium,Istigobius decoratus,2
+Lizard,28,Med A,4,medium,Mulloidichthys flavolineatus,4
+Lizard,28,Med A,4,medium,Neoniphon sammara,1
+Lizard,28,Med A,4,medium,Ostorhinchus cyanosoma,205
+Lizard,28,Med A,4,medium,Parupeneus macronemma,1
+Lizard,28,Med A,4,medium,Pomacentrus amboinensis,19
+Lizard,28,Med A,4,medium,Pomacentrus chrysurus,2
+Lizard,28,Med A,4,medium,Pomacentrus moluccensis,4
+Lizard,28,Med A,4,medium,Pomacentrus nagasakiensis,2
+Lizard,28,Med A,4,medium,Pseudobalistes flavimarginatus,1
+Lizard,28,Med A,4,medium,Pseudochromis fuscus,2
+Lizard,37,Med A,5,medium,Acan dark juveniles,5
+Lizard,37,Med A,5,medium,Amblygobius phaelaena,4
+Lizard,37,Med A,5,medium,Apogon doederleini,75
+Lizard,37,Med A,5,medium,Apogon thermalis,100
+Lizard,37,Med A,5,medium,Apogon ventrifasciatus,13
+Lizard,37,Med A,5,medium,Chaetodon plebeius,2
+Lizard,37,Med A,5,medium,Cheilodipterus quinquelineatus,18
+Lizard,37,Med A,5,medium,Chromis viridis,1
+Lizard,37,Med A,5,medium,Dascyllus aruanus,8
+Lizard,37,Med A,5,medium,Dascyllus reticulatus,6
+Lizard,37,Med A,5,medium,Dischistodus perspicillatus,5
+Lizard,37,Med A,5,medium,Gobiodon okinawae,2
+Lizard,37,Med A,5,medium,Istigobius decoratus,2
+Lizard,37,Med A,5,medium,Lutjanus gibbus,2
+Lizard,37,Med A,5,medium,Ostorhinchus cyanosoma,45
+Lizard,37,Med A,5,medium,Pomacentrus amboinensis,39
+Lizard,37,Med A,5,medium,Pomacentrus chrysurus,2
+Lizard,37,Med A,5,medium,Pomacentrus nagasakiensis,5
+Lizard,37,Med A,5,medium,Pomacentrus pavo,2
+Lizard,37,Med A,5,medium,Siganus doliatus,1
+Lizard,37,Med A,5,medium,Thalassoma lunare,3
+Lizard,7,Med B,1,medium,Acan dark juveniles,2
+Lizard,7,Med B,1,medium,Apogon doederleini,3
+Lizard,7,Med B,1,medium,Canthigaster bennetti,1
+Lizard,7,Med B,1,medium,Canthigaster valentini,1
+Lizard,7,Med B,1,medium,Chaetodon auriga,1
+Lizard,7,Med B,1,medium,Cheilodipterus quinquelineatus,33
+Lizard,7,Med B,1,medium,Choris batuensis,1
+Lizard,7,Med B,1,medium,Chromis viridis,6
+Lizard,7,Med B,1,medium,Dascyllus aruanus,9
+Lizard,7,Med B,1,medium,Dischistodus perspicillatus,5
+Lizard,7,Med B,1,medium,Fusigobius duospilus,1
+Lizard,7,Med B,1,medium,Gobiodon quinquestrigatus,1
+Lizard,7,Med B,1,medium,Istigobius decoratus,1
+Lizard,7,Med B,1,medium,juv  Scarid other,3
+Lizard,7,Med B,1,medium,Neoniphon sammara,1
+Lizard,7,Med B,1,medium,Paragobiodon xanthosomus,5
+Lizard,7,Med B,1,medium,Parupeneus barberinus,1
+Lizard,7,Med B,1,medium,Parupeneus macronemma,1
+Lizard,7,Med B,1,medium,Pomacentrus amboinensis,54
+Lizard,7,Med B,1,medium,Pomacentrus grammorhynchus,2
+Lizard,7,Med B,1,medium,Pomacentrus moluccensis,2
+Lizard,7,Med B,1,medium,Pomacentrus nagasakiensis,5
+Lizard,7,Med B,1,medium,Pomacentrus pavo,6
+Lizard,7,Med B,1,medium,Pseudobalistes flavimarginatus,1
+Lizard,7,Med B,1,medium,Pseudochromis fuscus,2
+Lizard,7,Med B,1,medium,Rhinecanthus aculeatus,1
+Lizard,16,Med B,2,medium,Aeoliscus strigatus,1
+Lizard,16,Med B,2,medium,Amblygobius phaelaena,2
+Lizard,16,Med B,2,medium,Apogon doederleini,21
+Lizard,16,Med B,2,medium,Apogon exostigma  not aligned,1
+Lizard,16,Med B,2,medium,Apogon thermalis,2
+Lizard,16,Med B,2,medium,Cheilodipterus quinquelineatus,18
+Lizard,16,Med B,2,medium,Chromis viridis,150
+Lizard,16,Med B,2,medium,Dascyllus aruanus,4
+Lizard,16,Med B,2,medium,Dascyllus reticulatus,5
+Lizard,16,Med B,2,medium,Dascyllus trimaculatus,1
+Lizard,16,Med B,2,medium,Dischistodus perspicillatus,2
+Lizard,16,Med B,2,medium,Epinephelus quoyanus,1
+Lizard,16,Med B,2,medium,Gnatholepis anjerensis,1
+Lizard,16,Med B,2,medium,Gobiodon ceramicus,2
+Lizard,16,Med B,2,medium,Gobiodon okinawae,2
+Lizard,16,Med B,2,medium,Gobiodon quinquestrigatus,1
+Lizard,16,Med B,2,medium,Istigobius decoratus,1
+Lizard,16,Med B,2,medium,Ostorhinchus cyanosoma,28
+Lizard,16,Med B,2,medium,Paragobiodon xanthosomus,2
+Lizard,16,Med B,2,medium,Pomacentrus amboinensis,22
+Lizard,16,Med B,2,medium,Pomacentrus chrysurus,1
+Lizard,16,Med B,2,medium,Pomacentrus moluccensis,7
+Lizard,16,Med B,2,medium,Pomacentrus nagasakiensis,2
+Lizard,16,Med B,2,medium,Pomacentrus pavo,2
+Lizard,16,Med B,2,medium,Pseudochromis flammicauda,1
+Lizard,16,Med B,2,medium,Pseudochromis fuscus,2
+Lizard,16,Med B,2,medium,Stegastes lividus,1
+Lizard,24,Med B,3,medium,Acan dark juveniles,3
+Lizard,24,Med B,3,medium,Amblygobius phaelaena,2
+Lizard,24,Med B,3,medium,Apgon leptacanthus,8
+Lizard,24,Med B,3,medium,Apogon doederleini,114
+Lizard,24,Med B,3,medium,Apogon thermalis,3
+Lizard,24,Med B,3,medium,Canthigaster valentini,1
+Lizard,24,Med B,3,medium,Chaetodon plebeius,2
+Lizard,24,Med B,3,medium,Cheilodipterus quinquelineatus,39
+Lizard,24,Med B,3,medium,Chromis viridis,158
+Lizard,24,Med B,3,medium,Dascyllus aruanus,2
+Lizard,24,Med B,3,medium,Dascyllus reticulatus,2
+Lizard,24,Med B,3,medium,Dischistodus perspicillatus,2
+Lizard,24,Med B,3,medium,Gobiodon okinawae,1
+Lizard,24,Med B,3,medium,Istigobius decoratus,4
+Lizard,24,Med B,3,medium,Istigobius rigilius,1
+Lizard,24,Med B,3,medium,Lutjanus monostigma,1
+Lizard,24,Med B,3,medium,Neoniphon sammara,1
+Lizard,24,Med B,3,medium,Ostorhinchus cyanosoma,80
+Lizard,24,Med B,3,medium,Oxymonacanthus longirostris,1
+Lizard,24,Med B,3,medium,Paragobiodon xanthosomus,6
+Lizard,24,Med B,3,medium,Parupeneus barberinus,1
+Lizard,24,Med B,3,medium,Parupeneus macronemma,2
+Lizard,24,Med B,3,medium,Petroscirtes variabilis,1
+Lizard,24,Med B,3,medium,Pomacentrus amboinensis,37
+Lizard,24,Med B,3,medium,Pomacentrus moluccensis,4
+Lizard,24,Med B,3,medium,Pomacentrus nagasakiensis,3
+Lizard,24,Med B,3,medium,Pseudobalistes flavimarginatus,1
+Lizard,24,Med B,3,medium,Pseudochromis fuscus,2
+Lizard,24,Med B,3,medium,Pseudochromis marshallensis,1
+Lizard,24,Med B,3,medium,Siganus doliatus,1
+Lizard,24,Med B,3,medium,Siganus punctatus,1
+Lizard,24,Med B,3,medium,Thalassoma lunare,1
+Lizard,32,Med B,4,medium,Apogon doederleini,34
+Lizard,32,Med B,4,medium,Apogon thermalis,100
+Lizard,32,Med B,4,medium,Canthigaster valentini,1
+Lizard,32,Med B,4,medium,Cheilodipterus quinquelineatus,50
+Lizard,32,Med B,4,medium,Choris batuensis,3
+Lizard,32,Med B,4,medium,Chromis viridis,16
+Lizard,32,Med B,4,medium,Dascyllus aruanus,9
+Lizard,32,Med B,4,medium,Dascyllus reticulatus,10
+Lizard,32,Med B,4,medium,Dascyllus trimaculatus,1
+Lizard,32,Med B,4,medium,Dischistodus perspicillatus,2
+Lizard,32,Med B,4,medium,Epinephelus maculatus,1
+Lizard,32,Med B,4,medium,Gobiodon brochus,1
+Lizard,32,Med B,4,medium,Gobiodon okinawae,2
+Lizard,32,Med B,4,medium,Gobiodon quinquestrigatus,3
+Lizard,32,Med B,4,medium,Halichoeres trimaculatus,1
+Lizard,32,Med B,4,medium,Istigobius decoratus,1
+Lizard,32,Med B,4,medium,juv  Scarid other,2
+Lizard,32,Med B,4,medium,juv  Scarid striped,1
+Lizard,32,Med B,4,medium,Ostorhinchus cyanosoma,35
+Lizard,32,Med B,4,medium,Paragobiodon xanthosomus,8
+Lizard,32,Med B,4,medium,Pomacentrus amboinensis,27
+Lizard,32,Med B,4,medium,Pomacentrus nagasakiensis,3
+Lizard,32,Med B,4,medium,Pomacentrus pavo,2
+Lizard,32,Med B,4,medium,Pseudochromis fuscus,2
+Lizard,32,Med B,4,medium,Pseudochromis marshallensis,1
+Lizard,32,Med B,4,medium,Stethojulis strigiventer,1
+Lizard,39,Med B,5,medium,Amblygobius phaelaena,2
+Lizard,39,Med B,5,medium,Apogon doederleini,80
+Lizard,39,Med B,5,medium,Apogon fuscus,2
+Lizard,39,Med B,5,medium,Canthigaster bennetti,1
+Lizard,39,Med B,5,medium,Canthigaster valentini,1
+Lizard,39,Med B,5,medium,Chaetodon ephippium,1
+Lizard,39,Med B,5,medium,Chaetodon plebeius,1
+Lizard,39,Med B,5,medium,Cheilodipterus quinquelineatus,44
+Lizard,39,Med B,5,medium,Choris batuensis,1
+Lizard,39,Med B,5,medium,Dascyllus aruanus,7
+Lizard,39,Med B,5,medium,Dischistodus perspicillatus,2
+Lizard,39,Med B,5,medium,Gobiodon ceramicus,3
+Lizard,39,Med B,5,medium,Gobiodon histrio,3
+Lizard,39,Med B,5,medium,Gobiodon okinawae,3
+Lizard,39,Med B,5,medium,juv  Scarid other,2
+Lizard,39,Med B,5,medium,Neoniphon sammara,1
+Lizard,39,Med B,5,medium,Ostorhinchus cyanosoma,95
+Lizard,39,Med B,5,medium,Paragobiodon xanthosomus,10
+Lizard,39,Med B,5,medium,Pomacentrus amboinensis,36
+Lizard,39,Med B,5,medium,Pomacentrus chrysurus,1
+Lizard,39,Med B,5,medium,Pomacentrus moluccensis,4
+Lizard,39,Med B,5,medium,Pomacentrus nagasakiensis,6
+Lizard,39,Med B,5,medium,Pseudochromis marshallensis,1
+Lizard,39,Med B,5,medium,Siganus punctatus,1
+Lizard,39,Med B,5,medium,Stegastes lividus,1
+Moorea,2,High,1,high,Acanthurus nigricauda,1
+Moorea,2,High,1,high,Cheilinus chlorourus,1
+Moorea,2,High,1,high,Chromis viridis,300
+Moorea,2,High,1,high,Dascyllus aruanus,29
+Moorea,2,High,1,high,Dascyllus flavicaudus,44
+Moorea,2,High,1,high,Halichoeres trimaculatus,11
+Moorea,2,High,1,high,Parapercis millepunctata,1
+Moorea,2,High,1,high,Pseudocheilinus hexataenia,1
+Moorea,2,High,1,high,Rhinecanthus rectangulus,1
+Moorea,2,High,1,high,Scarus psittacus,1
+Moorea,15,High,2,high,Acanthurus olivaceus,1
+Moorea,15,High,2,high,Asterropteryx ensifera,1
+Moorea,15,High,2,high,Chaetodon citrinellus,2
+Moorea,15,High,2,high,Chromis viridis,33
+Moorea,15,High,2,high,Dascyllus aruanus,33
+Moorea,15,High,2,high,Dascyllus flavicaudus,43
+Moorea,15,High,2,high,Gnatholepis anjerensis,2
+Moorea,15,High,2,high,Halichoeres trimaculatus,6
+Moorea,15,High,2,high,Parupeneus multifasciatus,1
+Moorea,15,High,2,high,Pomacentrus pavo,1
+Moorea,15,High,2,high,Pseudocheilinus hexataenia,1
+Moorea,15,High,2,high,Rhinecanthus aculeatus,2
+Moorea,15,High,2,high,Scarus psittacus,1
+Moorea,24,High,3,high,Chaetodon citrinellus,1
+Moorea,24,High,3,high,Dascyllus aruanus,13
+Moorea,24,High,3,high,Dascyllus flavicaudus,35
+Moorea,24,High,3,high,Gnatholepis anjerensis,1
+Moorea,24,High,3,high,Halichoeres trimaculatus,10
+Moorea,24,High,3,high,Oxycheilinus bimaculatus,1
+Moorea,24,High,3,high,Pseudocheilinus hexataenia,1
+Moorea,24,High,3,high,Scarus psittacus,5
+Moorea,24,High,3,high,Stethojulis bandanensis,1
+Moorea,24,High,3,high,Zebrasoma scopas,1
+Moorea,26,High,4,high,Acanthurus nigricauda,3
+Moorea,26,High,4,high,Balistapus undulatus,1
+Moorea,26,High,4,high,Chaetodon citrinellus,2
+Moorea,26,High,4,high,Dascyllus aruanus,20
+Moorea,26,High,4,high,Dascyllus flavicaudus,20
+Moorea,26,High,4,high,Gnatholepis anjerensis,2
+Moorea,26,High,4,high,Halichoeres trimaculatus,6
+Moorea,26,High,4,high,Pomacentrus pavo,10
+Moorea,26,High,4,high,Scarus psittacus,3
+Moorea,35,High,5,high,Acanthurus olivaceus,1
+Moorea,35,High,5,high,Chlorurus sordidus,1
+Moorea,35,High,5,high,Dascyllus aruanus,26
+Moorea,35,High,5,high,Dascyllus flavicaudus,14
+Moorea,35,High,5,high,Halichoeres trimaculatus,9
+Moorea,35,High,5,high,Stethojulis bandanensis,1
+Moorea,3,Acropora elseyi,1,low,Acanthurus nigricauda,3
+Moorea,3,Acropora elseyi,1,low,Acanthurus nigrofuscus,1
+Moorea,3,Acropora elseyi,1,low,Acanthurus triostegus,2
+Moorea,3,Acropora elseyi,1,low,Chaetodon citrinellus,3
+Moorea,3,Acropora elseyi,1,low,Cheilinus chlorourus,1
+Moorea,3,Acropora elseyi,1,low,Dascyllus aruanus,63
+Moorea,3,Acropora elseyi,1,low,Dascyllus flavicaudus,64
+Moorea,3,Acropora elseyi,1,low,Dascyllus trimaculatus,1
+Moorea,3,Acropora elseyi,1,low,Halichoeres trimaculatus,6
+Moorea,3,Acropora elseyi,1,low,Neoniphon sammara,1
+Moorea,3,Acropora elseyi,1,low,Parupeneus multifasciatus,1
+Moorea,3,Acropora elseyi,1,low,Pomacentrus pavo,8
+Moorea,3,Acropora elseyi,1,low,Pseudocheilinus hexataenia,1
+Moorea,3,Acropora elseyi,1,low,Scarus psittacus,2
+Moorea,3,Acropora elseyi,1,low,Stegastes nigricans,2
+Moorea,3,Acropora elseyi,1,low,Stethojulis bandanensis,1
+Moorea,18,Acropora elseyi,2,low,Acanthurus nigricauda,2
+Moorea,18,Acropora elseyi,2,low,Acanthurus olivaceus,1
+Moorea,18,Acropora elseyi,2,low,Canthigaster bennetti,2
+Moorea,18,Acropora elseyi,2,low,Chaetodon citrinellus,1
+Moorea,18,Acropora elseyi,2,low,Chaetodon trifascialis,1
+Moorea,18,Acropora elseyi,2,low,Cheilinus chlorourus,1
+Moorea,18,Acropora elseyi,2,low,Chlorurus sordidus,2
+Moorea,18,Acropora elseyi,2,low,Chromis viridis,2
+Moorea,18,Acropora elseyi,2,low,Dascyllus aruanus,24
+Moorea,18,Acropora elseyi,2,low,Dascyllus flavicaudus,19
+Moorea,18,Acropora elseyi,2,low,Halichoeres trimaculatus,8
+Moorea,18,Acropora elseyi,2,low,Naso literatus,1
+Moorea,18,Acropora elseyi,2,low,Parapercis millepunctata,1
+Moorea,18,Acropora elseyi,2,low,Parupeneus barberinus,1
+Moorea,18,Acropora elseyi,2,low,Parupeneus multifasciatus,3
+Moorea,18,Acropora elseyi,2,low,Parupeneus pleurostigma,3
+Moorea,18,Acropora elseyi,2,low,Pterois  antennata,1
+Moorea,18,Acropora elseyi,2,low,Sargocentron microstoma,1
+Moorea,18,Acropora elseyi,2,low,Scarus psittacus,3
+Moorea,18,Acropora elseyi,2,low,Stethojulis bandanensis,1
+Moorea,20,Acropora elseyi,3,low,Acanthurus olivaceus,1
+Moorea,20,Acropora elseyi,3,low,Acanthurus triostegus,1
+Moorea,20,Acropora elseyi,3,low,Coryphopterus neophytus,1
+Moorea,20,Acropora elseyi,3,low,Ctenochaetus binotatus,2
+Moorea,20,Acropora elseyi,3,low,Dascyllus aruanus,18
+Moorea,20,Acropora elseyi,3,low,Dascyllus flavicaudus,23
+Moorea,20,Acropora elseyi,3,low,Halichoeres trimaculatus,11
+Moorea,20,Acropora elseyi,3,low,Parupeneus multifasciatus,1
+Moorea,20,Acropora elseyi,3,low,Scarus psittacus,4
+Moorea,20,Acropora elseyi,3,low,Stethojulis bandanensis,1
+Moorea,36,Acropora elseyi,4,low,Acanthurus olivaceus,1
+Moorea,36,Acropora elseyi,4,low,Cheilinus chlorourus,5
+Moorea,36,Acropora elseyi,4,low,Chlorurus sordidus,3
+Moorea,36,Acropora elseyi,4,low,Dascyllus aruanus,17
+Moorea,36,Acropora elseyi,4,low,Dascyllus flavicaudus,9
+Moorea,36,Acropora elseyi,4,low,Naso unicornis,1
+Moorea,36,Acropora elseyi,4,low,Parapercis millepunctata,1
+Moorea,36,Acropora elseyi,4,low,Parupeneus multifasciatus,3
+Moorea,36,Acropora elseyi,4,low,Parupeneus pleurostigma,3
+Moorea,36,Acropora elseyi,4,low,Stethojulis bandanensis,1
+Moorea,41,Acropora elseyi,5,low,Acanthurus nigricauda,4
+Moorea,41,Acropora elseyi,5,low,Acanthurus olivaceus,1
+Moorea,41,Acropora elseyi,5,low,Chaetodon citrinellus,2
+Moorea,41,Acropora elseyi,5,low,Chlorurus sordidus,2
+Moorea,41,Acropora elseyi,5,low,Chromis viridis,180
+Moorea,41,Acropora elseyi,5,low,Cirrhilabrus exquisitus,1
+Moorea,41,Acropora elseyi,5,low,Dascyllus aruanus,25
+Moorea,41,Acropora elseyi,5,low,Dascyllus flavicaudus,30
+Moorea,41,Acropora elseyi,5,low,Dascyllus trimaculatus,1
+Moorea,41,Acropora elseyi,5,low,Halichoeres trimaculatus,10
+Moorea,41,Acropora elseyi,5,low,Naso literatus,3
+Moorea,41,Acropora elseyi,5,low,Parupeneus multifasciatus,3
+Moorea,41,Acropora elseyi,5,low,Parupeneus pleurostigma,6
+Moorea,41,Acropora elseyi,5,low,Pomacentrus pavo,5
+Moorea,41,Acropora elseyi,5,low,Rhinecanthus aculeatus,1
+Moorea,41,Acropora elseyi,5,low,Zebrasoma scopas,1
+Moorea,1,Acropora fragilae,1,low,Acanthurus nigricauda,1
+Moorea,1,Acropora fragilae,1,low,Acanthurus olivaceus,1
+Moorea,1,Acropora fragilae,1,low,Acanthurus triostegus,1
+Moorea,1,Acropora fragilae,1,low,Chaetodon citrinellus,2
+Moorea,1,Acropora fragilae,1,low,Chromis viridis,450
+Moorea,1,Acropora fragilae,1,low,Dascyllus aruanus,90
+Moorea,1,Acropora fragilae,1,low,Dascyllus flavicaudus,46
+Moorea,1,Acropora fragilae,1,low,Gnatholepis anjerensis,2
+Moorea,1,Acropora fragilae,1,low,Halichoeres trimaculatus,11
+Moorea,1,Acropora fragilae,1,low,Ostorhinchus nigrofasciatus,1
+Moorea,1,Acropora fragilae,1,low,Parapercis millepunctata,1
+Moorea,1,Acropora fragilae,1,low,Parupeneus multifasciatus,1
+Moorea,1,Acropora fragilae,1,low,Scarus psittacus,2
+Moorea,1,Acropora fragilae,1,low,Stegastes nigricans,1
+Moorea,1,Acropora fragilae,1,low,Stethojulis bandanensis,1
+Moorea,21,Acropora fragilae,2,low,Acanthurus nigricauda,2
+Moorea,21,Acropora fragilae,2,low,Acanthurus triostegus,1
+Moorea,21,Acropora fragilae,2,low,Chaetodon citrinellus,1
+Moorea,21,Acropora fragilae,2,low,Cheilinus chlorourus,1
+Moorea,21,Acropora fragilae,2,low,Dascyllus aruanus,27
+Moorea,21,Acropora fragilae,2,low,Dascyllus flavicaudus,36
+Moorea,21,Acropora fragilae,2,low,Halichoeres trimaculatus,10
+Moorea,21,Acropora fragilae,2,low,Lethrinus olivaceus,1
+Moorea,21,Acropora fragilae,2,low,Parapercis millepunctata,1
+Moorea,21,Acropora fragilae,2,low,Parupeneus barberinus,1
+Moorea,21,Acropora fragilae,2,low,Pseudocheilinus hexataenia,1
+Moorea,21,Acropora fragilae,2,low,Rhinecanthus aculeatus,1
+Moorea,29,Acropora fragilae,3,low,Acanthurus olivaceus,1
+Moorea,29,Acropora fragilae,3,low,Chlorurus sordidus,1
+Moorea,29,Acropora fragilae,3,low,Coryphopterus neophytus,1
+Moorea,29,Acropora fragilae,3,low,Ctenochaetus binotatus,1
+Moorea,29,Acropora fragilae,3,low,Dascyllus aruanus,14
+Moorea,29,Acropora fragilae,3,low,Dascyllus flavicaudus,29
+Moorea,29,Acropora fragilae,3,low,Gnatholepis anjerensis,1
+Moorea,29,Acropora fragilae,3,low,Halichoeres trimaculatus,10
+Moorea,29,Acropora fragilae,3,low,Scarus psittacus,2
+Moorea,32,Acropora fragilae,4,low,Asterropteryx ensifera,3
+Moorea,32,Acropora fragilae,4,low,Chlorurus sordidus,19
+Moorea,32,Acropora fragilae,4,low,Dascyllus aruanus,65
+Moorea,32,Acropora fragilae,4,low,Dascyllus flavicaudus,82
+Moorea,32,Acropora fragilae,4,low,Gnatholepis anjerensis,1
+Moorea,32,Acropora fragilae,4,low,Halichoeres trimaculatus,6
+Moorea,32,Acropora fragilae,4,low,Stethojulis bandanensis,1
+Moorea,32,Acropora fragilae,4,low,Synodus dermatogenys,1
+Moorea,32,Acropora fragilae,4,low,Valenciennea strigata,1
+Moorea,45,Acropora fragilae,5,low,Acanthurus olivaceus,6
+Moorea,45,Acropora fragilae,5,low,Chlorurus sordidus,1
+Moorea,45,Acropora fragilae,5,low,Chrysiptera brownriggii,1
+Moorea,45,Acropora fragilae,5,low,Dascyllus flavicaudus,6
+Moorea,45,Acropora fragilae,5,low,Halichoeres trimaculatus,6
+Moorea,45,Acropora fragilae,5,low,Parapercis millepunctata,1
+Moorea,45,Acropora fragilae,5,low,Parupeneus multifasciatus,1
+Moorea,45,Acropora fragilae,5,low,Rhinecanthus aculeatus,1
+Moorea,45,Acropora fragilae,5,low,Stethojulis bandanensis,1
+Moorea,11,Pocillopora eydouxi,1,low,Acanthurus nigricauda,2
+Moorea,11,Pocillopora eydouxi,1,low,Canthigaster bennetti,2
+Moorea,11,Pocillopora eydouxi,1,low,Caracanthus maculatus,1
+Moorea,11,Pocillopora eydouxi,1,low,Chaetodon citrinellus,2
+Moorea,11,Pocillopora eydouxi,1,low,Cheilinus chlorourus,1
+Moorea,11,Pocillopora eydouxi,1,low,Chlorurus sordidus,1
+Moorea,11,Pocillopora eydouxi,1,low,Chromis viridis,35
+Moorea,11,Pocillopora eydouxi,1,low,Chrysiptera brownriggii,1
+Moorea,11,Pocillopora eydouxi,1,low,Dascyllus aruanus,14
+Moorea,11,Pocillopora eydouxi,1,low,Dascyllus flavicaudus,51
+Moorea,11,Pocillopora eydouxi,1,low,Halichoeres trimaculatus,7
+Moorea,11,Pocillopora eydouxi,1,low,Neocirrhitus armatus,1
+Moorea,11,Pocillopora eydouxi,1,low,Neoniphon sammara,3
+Moorea,11,Pocillopora eydouxi,1,low,Parupeneus multifasciatus,9
+Moorea,11,Pocillopora eydouxi,1,low,Scarus psittacus,1
+Moorea,11,Pocillopora eydouxi,1,low,Stegastes nigricans,1
+Moorea,11,Pocillopora eydouxi,1,low,Zebrasoma scopas,2
+Moorea,14,Pocillopora eydouxi,2,low,Centropyge bispinosus,1
+Moorea,14,Pocillopora eydouxi,2,low,Chaetodon citrinellus,2
+Moorea,14,Pocillopora eydouxi,2,low,Chlorurus sordidus,1
+Moorea,14,Pocillopora eydouxi,2,low,Chromis viridis,12
+Moorea,14,Pocillopora eydouxi,2,low,Dascyllus aruanus,11
+Moorea,14,Pocillopora eydouxi,2,low,Dascyllus flavicaudus,59
+Moorea,14,Pocillopora eydouxi,2,low,Gnatholepis anjerensis,2
+Moorea,14,Pocillopora eydouxi,2,low,Halichoeres trimaculatus,6
+Moorea,14,Pocillopora eydouxi,2,low,Paracirrhitus arcatus,1
+Moorea,14,Pocillopora eydouxi,2,low,Parupeneus multifasciatus,1
+Moorea,14,Pocillopora eydouxi,2,low,Pomacentrus pavo,4
+Moorea,14,Pocillopora eydouxi,2,low,Pseudocheilinus hexataenia,1
+Moorea,19,Pocillopora eydouxi,3,low,Acanthurus nigricauda,2
+Moorea,19,Pocillopora eydouxi,3,low,Acanthurus olivaceus,1
+Moorea,19,Pocillopora eydouxi,3,low,Acanthurus triostegus,1
+Moorea,19,Pocillopora eydouxi,3,low,Caracanthus maculatus,1
+Moorea,19,Pocillopora eydouxi,3,low,Chaetodon citrinellus,2
+Moorea,19,Pocillopora eydouxi,3,low,Cheilinus chlorourus,1
+Moorea,19,Pocillopora eydouxi,3,low,Chromis viridis,15
+Moorea,19,Pocillopora eydouxi,3,low,Dascyllus aruanus,13
+Moorea,19,Pocillopora eydouxi,3,low,Dascyllus flavicaudus,37
+Moorea,19,Pocillopora eydouxi,3,low,Halichoeres trimaculatus,4
+Moorea,19,Pocillopora eydouxi,3,low,Naso literatus,1
+Moorea,19,Pocillopora eydouxi,3,low,Neoniphon sammara,1
+Moorea,19,Pocillopora eydouxi,3,low,Parapercis millepunctata,2
+Moorea,19,Pocillopora eydouxi,3,low,Parupeneus multifasciatus,4
+Moorea,19,Pocillopora eydouxi,3,low,Pomacentrus pavo,3
+Moorea,19,Pocillopora eydouxi,3,low,Rhinecanthus aculeatus,1
+Moorea,19,Pocillopora eydouxi,3,low,Sargocentron microstoma,1
+Moorea,19,Pocillopora eydouxi,3,low,Scarus psittacus,2
+Moorea,19,Pocillopora eydouxi,3,low,Stethojulis bandanensis,1
+Moorea,19,Pocillopora eydouxi,3,low,Zebrasoma scopas,1
+Moorea,30,Pocillopora eydouxi,4,low,Acanthurus nigricauda,1
+Moorea,30,Pocillopora eydouxi,4,low,Acanthurus nigrofuscus,1
+Moorea,30,Pocillopora eydouxi,4,low,Caracanthus maculatus,1
+Moorea,30,Pocillopora eydouxi,4,low,Chaetodon citrinellus,2
+Moorea,30,Pocillopora eydouxi,4,low,Chlorurus sordidus,3
+Moorea,30,Pocillopora eydouxi,4,low,Chromis viridis,8
+Moorea,30,Pocillopora eydouxi,4,low,Dascyllus flavicaudus,86
+Moorea,30,Pocillopora eydouxi,4,low,Halichoeres trimaculatus,3
+Moorea,30,Pocillopora eydouxi,4,low,Neocirrhitus armatus,1
+Moorea,30,Pocillopora eydouxi,4,low,Paracirrhitus arcatus,1
+Moorea,30,Pocillopora eydouxi,4,low,Parapercis millepunctata,1
+Moorea,30,Pocillopora eydouxi,4,low,Parupeneus multifasciatus,1
+Moorea,30,Pocillopora eydouxi,4,low,Pseudocheilinus hexataenia,1
+Moorea,30,Pocillopora eydouxi,4,low,Stegastes nigricans,1
+Moorea,30,Pocillopora eydouxi,4,low,Stethojulis bandanensis,1
+Moorea,44,Pocillopora eydouxi,5,low,Acanthurus nigricauda,3
+Moorea,44,Pocillopora eydouxi,5,low,Acanthurus olivaceus,1
+Moorea,44,Pocillopora eydouxi,5,low,Chaetodon citrinellus,6
+Moorea,44,Pocillopora eydouxi,5,low,Dascyllus aruanus,27
+Moorea,44,Pocillopora eydouxi,5,low,Dascyllus flavicaudus,76
+Moorea,44,Pocillopora eydouxi,5,low,Halichoeres trimaculatus,2
+Moorea,44,Pocillopora eydouxi,5,low,Ostracion  cubicus,1
+Moorea,44,Pocillopora eydouxi,5,low,Parapercis millepunctata,1
+Moorea,44,Pocillopora eydouxi,5,low,Parupeneus multifasciatus,3
+Moorea,44,Pocillopora eydouxi,5,low,Parupeneus pleurostigma,2
+Moorea,44,Pocillopora eydouxi,5,low,Zebrasoma scopas,1
+Moorea,5,Pocillopora veruccusa,1,low,Acanthurus olivaceus,1
+Moorea,5,Pocillopora veruccusa,1,low,Acanthurus triostegus,1
+Moorea,5,Pocillopora veruccusa,1,low,Dascyllus aruanus,11
+Moorea,5,Pocillopora veruccusa,1,low,Dascyllus flavicaudus,17
+Moorea,5,Pocillopora veruccusa,1,low,Gnatholepis anjerensis,2
+Moorea,5,Pocillopora veruccusa,1,low,Halichoeres trimaculatus,12
+Moorea,5,Pocillopora veruccusa,1,low,Parapercis millepunctata,1
+Moorea,5,Pocillopora veruccusa,1,low,Pomacentrus pavo,4
+Moorea,5,Pocillopora veruccusa,1,low,Scarus psittacus,3
+Moorea,5,Pocillopora veruccusa,1,low,Valenciennea strigata,1
+Moorea,9,Pocillopora veruccusa,2,low,Acanthurus nigricauda,1
+Moorea,9,Pocillopora veruccusa,2,low,Acanthurus nigrofuscus,1
+Moorea,9,Pocillopora veruccusa,2,low,Acanthurus triostegus,1
+Moorea,9,Pocillopora veruccusa,2,low,Chaetodon citrinellus,2
+Moorea,9,Pocillopora veruccusa,2,low,Chrysiptera brownriggii,1
+Moorea,9,Pocillopora veruccusa,2,low,Coryphopterus neophytus,1
+Moorea,9,Pocillopora veruccusa,2,low,Dascyllus aruanus,36
+Moorea,9,Pocillopora veruccusa,2,low,Dascyllus flavicaudus,10
+Moorea,9,Pocillopora veruccusa,2,low,Gnatholepis anjerensis,1
+Moorea,9,Pocillopora veruccusa,2,low,Halichoeres trimaculatus,10
+Moorea,9,Pocillopora veruccusa,2,low,Parupeneus multifasciatus,1
+Moorea,9,Pocillopora veruccusa,2,low,Pomacentrus pavo,2
+Moorea,9,Pocillopora veruccusa,2,low,Pseudocheilinus hexataenia,2
+Moorea,9,Pocillopora veruccusa,2,low,Scarus psittacus,2
+Moorea,9,Pocillopora veruccusa,2,low,Stethojulis bandanensis,1
+Moorea,33,Pocillopora veruccusa,3,low,Acanthurus nigricauda,1
+Moorea,33,Pocillopora veruccusa,3,low,Acanthurus olivaceus,1
+Moorea,33,Pocillopora veruccusa,3,low,Acanthurus triostegus,1
+Moorea,33,Pocillopora veruccusa,3,low,Chaetodon citrinellus,2
+Moorea,33,Pocillopora veruccusa,3,low,Chlorurus sordidus,5
+Moorea,33,Pocillopora veruccusa,3,low,Chromis viridis,6
+Moorea,33,Pocillopora veruccusa,3,low,Dascyllus aruanus,23
+Moorea,33,Pocillopora veruccusa,3,low,Dascyllus flavicaudus,11
+Moorea,33,Pocillopora veruccusa,3,low,Halichoeres trimaculatus,8
+Moorea,33,Pocillopora veruccusa,3,low,Parapercis millepunctata,1
+Moorea,33,Pocillopora veruccusa,3,low,Parupeneus pleurostigma,3
+Moorea,33,Pocillopora veruccusa,3,low,Stethojulis bandanensis,1
+Moorea,38,Pocillopora veruccusa,4,low,Acanthurus olivaceus,2
+Moorea,38,Pocillopora veruccusa,4,low,Asterropteryx ensifera,1
+Moorea,38,Pocillopora veruccusa,4,low,Chaetodon citrinellus,2
+Moorea,38,Pocillopora veruccusa,4,low,Chromis viridis,11
+Moorea,38,Pocillopora veruccusa,4,low,Dascyllus aruanus,38
+Moorea,38,Pocillopora veruccusa,4,low,Dascyllus flavicaudus,35
+Moorea,38,Pocillopora veruccusa,4,low,Halichoeres trimaculatus,8
+Moorea,38,Pocillopora veruccusa,4,low,Naso annulatus,1
+Moorea,38,Pocillopora veruccusa,4,low,Parapercis millepunctata,1
+Moorea,38,Pocillopora veruccusa,4,low,Parupeneus multifasciatus,2
+Moorea,38,Pocillopora veruccusa,4,low,Parupeneus pleurostigma,2
+Moorea,38,Pocillopora veruccusa,4,low,Pomacentrus pavo,5
+Moorea,38,Pocillopora veruccusa,4,low,Pseudocheilinus hexataenia,1
+Moorea,38,Pocillopora veruccusa,4,low,Pterois  volitans,1
+Moorea,38,Pocillopora veruccusa,4,low,Stethojulis bandanensis,1
+Moorea,38,Pocillopora veruccusa,4,low,Synodus dermatogenys,1
+Moorea,40,Pocillopora veruccusa,5,low,Acanthurus nigricauda,2
+Moorea,40,Pocillopora veruccusa,5,low,Canthigaster bennetti,1
+Moorea,40,Pocillopora veruccusa,5,low,Chaetodon citrinellus,1
+Moorea,40,Pocillopora veruccusa,5,low,Chlorurus sordidus,1
+Moorea,40,Pocillopora veruccusa,5,low,Chromis viridis,14
+Moorea,40,Pocillopora veruccusa,5,low,Dascyllus aruanus,47
+Moorea,40,Pocillopora veruccusa,5,low,Dascyllus flavicaudus,29
+Moorea,40,Pocillopora veruccusa,5,low,Echidna nebulosa,1
+Moorea,40,Pocillopora veruccusa,5,low,Halichoeres trimaculatus,8
+Moorea,40,Pocillopora veruccusa,5,low,Parapercis millepunctata,1
+Moorea,40,Pocillopora veruccusa,5,low,Parupeneus insularis,1
+Moorea,40,Pocillopora veruccusa,5,low,Pomacentrus pavo,2
+Moorea,40,Pocillopora veruccusa,5,low,Pseudocheilinus hexataenia,1
+Moorea,7,Porites rus,1,low,Acanthurus triostegus,1
+Moorea,7,Porites rus,1,low,Dascyllus aruanus,19
+Moorea,7,Porites rus,1,low,Dascyllus flavicaudus,13
+Moorea,7,Porites rus,1,low,Gnatholepis anjerensis,3
+Moorea,7,Porites rus,1,low,Halichoeres trimaculatus,10
+Moorea,7,Porites rus,1,low,Pomacentrus pavo,11
+Moorea,7,Porites rus,1,low,Pseudocheilinus hexataenia,1
+Moorea,12,Porites rus,2,low,Acanthurus nigricauda,3
+Moorea,12,Porites rus,2,low,Acanthurus nigrofuscus,1
+Moorea,12,Porites rus,2,low,Asterropteryx ensifera,1
+Moorea,12,Porites rus,2,low,Chlorurus sordidus,1
+Moorea,12,Porites rus,2,low,Dascyllus aruanus,22
+Moorea,12,Porites rus,2,low,Dascyllus flavicaudus,8
+Moorea,12,Porites rus,2,low,Halichoeres trimaculatus,9
+Moorea,12,Porites rus,2,low,Parapercis millepunctata,1
+Moorea,12,Porites rus,2,low,Parupeneus multifasciatus,1
+Moorea,12,Porites rus,2,low,Pomacentrus pavo,25
+Moorea,12,Porites rus,2,low,Scarus psittacus,2
+Moorea,12,Porites rus,2,low,Stegastes nigricans,1
+Moorea,12,Porites rus,2,low,Stethojulis bandanensis,1
+Moorea,12,Porites rus,2,low,Valenciennea strigata,1
+Moorea,22,Porites rus,3,low,Acanthurus triostegus,1
+Moorea,22,Porites rus,3,low,Centropyge bispinosus,1
+Moorea,22,Porites rus,3,low,Chrysiptera brownriggii,1
+Moorea,22,Porites rus,3,low,Ctenochaetus binotatus,2
+Moorea,22,Porites rus,3,low,Dascyllus aruanus,5
+Moorea,22,Porites rus,3,low,Dascyllus flavicaudus,3
+Moorea,22,Porites rus,3,low,Halichoeres trimaculatus,8
+Moorea,22,Porites rus,3,low,Novaculichthys taenioarus,1
+Moorea,22,Porites rus,3,low,Oxycheilinus bimaculatus,2
+Moorea,22,Porites rus,3,low,Pomacentrus pavo,3
+Moorea,22,Porites rus,3,low,Scarus psittacus,11
+Moorea,31,Porites rus,4,low,Acanthurus nigricauda,1
+Moorea,31,Porites rus,4,low,Chlorurus sordidus,5
+Moorea,31,Porites rus,4,low,Chromis viridis,14
+Moorea,31,Porites rus,4,low,Dascyllus aruanus,17
+Moorea,31,Porites rus,4,low,Dascyllus flavicaudus,33
+Moorea,31,Porites rus,4,low,Halichoeres trimaculatus,7
+Moorea,31,Porites rus,4,low,Stethojulis bandanensis,1
+Moorea,42,Porites rus,5,low,Acanthurus nigricauda,5
+Moorea,42,Porites rus,5,low,Acanthurus olivaceus,1
+Moorea,42,Porites rus,5,low,Chaetodon citrinellus,2
+Moorea,42,Porites rus,5,low,Chlorurus sordidus,2
+Moorea,42,Porites rus,5,low,Dascyllus aruanus,8
+Moorea,42,Porites rus,5,low,Dascyllus flavicaudus,13
+Moorea,42,Porites rus,5,low,Halichoeres trimaculatus,4
+Moorea,42,Porites rus,5,low,Parapercis millepunctata,2
+Moorea,42,Porites rus,5,low,Parupeneus multifasciatus,3
+Moorea,42,Porites rus,5,low,Parupeneus pleurostigma,2
+Moorea,42,Porites rus,5,low,Pomacentrus pavo,3
+Moorea,42,Porites rus,5,low,Stegastes nigricans,1
+Moorea,4,Acropora pulchra,1,low,Acanthurus nigricauda,2
+Moorea,4,Acropora pulchra,1,low,Acanthurus olivaceus,1
+Moorea,4,Acropora pulchra,1,low,Chaetodon citrinellus,1
+Moorea,4,Acropora pulchra,1,low,Dascyllus aruanus,11
+Moorea,4,Acropora pulchra,1,low,Dascyllus flavicaudus,23
+Moorea,4,Acropora pulchra,1,low,Gnatholepis anjerensis,3
+Moorea,4,Acropora pulchra,1,low,Halichoeres trimaculatus,14
+Moorea,4,Acropora pulchra,1,low,Pomacentrus pavo,13
+Moorea,4,Acropora pulchra,1,low,Valenciennea strigata,1
+Moorea,16,Acropora pulchra,2,low,Ctenochaetus binotatus,3
+Moorea,16,Acropora pulchra,2,low,Dascyllus aruanus,3
+Moorea,16,Acropora pulchra,2,low,Halichoeres trimaculatus,10
+Moorea,16,Acropora pulchra,2,low,Oxycheilinus bimaculatus,1
+Moorea,23,Acropora pulchra,3,low,Acanthurus triostegus,1
+Moorea,23,Acropora pulchra,3,low,Centropyge bispinosus,1
+Moorea,23,Acropora pulchra,3,low,Chaetodon citrinellus,1
+Moorea,23,Acropora pulchra,3,low,Ctenochaetus binotatus,1
+Moorea,23,Acropora pulchra,3,low,Dascyllus aruanus,15
+Moorea,23,Acropora pulchra,3,low,Dascyllus flavicaudus,9
+Moorea,23,Acropora pulchra,3,low,Halichoeres trimaculatus,6
+Moorea,23,Acropora pulchra,3,low,Parupeneus barberinus,1
+Moorea,23,Acropora pulchra,3,low,Pseudocheilinus hexataenia,1
+Moorea,23,Acropora pulchra,3,low,Scarus psittacus,6
+Moorea,23,Acropora pulchra,3,low,Stegastes nigricans,1
+Moorea,23,Acropora pulchra,3,low,Valenciennea strigata,1
+Moorea,27,Acropora pulchra,4,low,Acanthurus nigricauda,1
+Moorea,27,Acropora pulchra,4,low,Asterropteryx ensifera,1
+Moorea,27,Acropora pulchra,4,low,Chaetodon citrinellus,1
+Moorea,27,Acropora pulchra,4,low,Cirrhilabrus exquisitus,1
+Moorea,27,Acropora pulchra,4,low,Dascyllus aruanus,32
+Moorea,27,Acropora pulchra,4,low,Dascyllus flavicaudus,30
+Moorea,27,Acropora pulchra,4,low,Halichoeres trimaculatus,4
+Moorea,27,Acropora pulchra,4,low,Parupeneus multifasciatus,1
+Moorea,27,Acropora pulchra,4,low,Pomacentrus pavo,3
+Moorea,27,Acropora pulchra,4,low,Pseudocheilinus evanidus,1
+Moorea,27,Acropora pulchra,4,low,Scarus psittacus,8
+Moorea,27,Acropora pulchra,4,low,Zebrasoma scopas,1
+Moorea,37,Acropora pulchra,5,low,Acanthurus olivaceus,2
+Moorea,37,Acropora pulchra,5,low,Chaetodon citrinellus,1
+Moorea,37,Acropora pulchra,5,low,Halichoeres trimaculatus,5
+Moorea,37,Acropora pulchra,5,low,Parapercis millepunctata,1
+Moorea,37,Acropora pulchra,5,low,Parupeneus multifasciatus,1
+Moorea,8,Med A,1,medium,Acanthurus nigricauda,2
+Moorea,8,Med A,1,medium,Acanthurus triostegus,1
+Moorea,8,Med A,1,medium,Chaetodon citrinellus,2
+Moorea,8,Med A,1,medium,Chromis viridis,400
+Moorea,8,Med A,1,medium,Dascyllus aruanus,22
+Moorea,8,Med A,1,medium,Dascyllus flavicaudus,16
+Moorea,8,Med A,1,medium,Gnatholepis anjerensis,1
+Moorea,8,Med A,1,medium,Halichoeres trimaculatus,11
+Moorea,8,Med A,1,medium,Parapercis millepunctata,1
+Moorea,8,Med A,1,medium,Pomacentrus pavo,7
+Moorea,8,Med A,1,medium,Scarus psittacus,2
+Moorea,13,Med A,2,medium,Acanthurus nigricauda,1
+Moorea,13,Med A,2,medium,Chaetodon citrinellus,2
+Moorea,13,Med A,2,medium,Cheilinus chlorourus,2
+Moorea,13,Med A,2,medium,Chlorurus sordidus,1
+Moorea,13,Med A,2,medium,Chromis viridis,10
+Moorea,13,Med A,2,medium,Ctenochaetus binotatus,1
+Moorea,13,Med A,2,medium,Dascyllus aruanus,51
+Moorea,13,Med A,2,medium,Dascyllus flavicaudus,28
+Moorea,13,Med A,2,medium,Gnatholepis anjerensis,1
+Moorea,13,Med A,2,medium,Halichoeres trimaculatus,8
+Moorea,13,Med A,2,medium,Parapercis millepunctata,1
+Moorea,13,Med A,2,medium,Parupeneus multifasciatus,8
+Moorea,13,Med A,2,medium,Pomacentrus pavo,12
+Moorea,13,Med A,2,medium,Pseudocheilinus hexataenia,1
+Moorea,17,Med A,3,medium,Asterropteryx ensifera,1
+Moorea,17,Med A,3,medium,Chaetodon citrinellus,2
+Moorea,17,Med A,3,medium,Chaetodon vagabundis,2
+Moorea,17,Med A,3,medium,Cheilinus chlorourus,1
+Moorea,17,Med A,3,medium,Chromis viridis,35
+Moorea,17,Med A,3,medium,Dascyllus aruanus,20
+Moorea,17,Med A,3,medium,Dascyllus flavicaudus,11
+Moorea,17,Med A,3,medium,Halichoeres trimaculatus,5
+Moorea,17,Med A,3,medium,Parupeneus multifasciatus,6
+Moorea,17,Med A,3,medium,Pomacentrus pavo,7
+Moorea,17,Med A,3,medium,Scarus psittacus,4
+Moorea,17,Med A,3,medium,Zebrasoma scopas,2
+Moorea,39,Med A,4,medium,Acanthurus olivaceus,1
+Moorea,39,Med A,4,medium,Balistapus undulatus,1
+Moorea,39,Med A,4,medium,Chaetodon citrinellus,1
+Moorea,39,Med A,4,medium,Chlorurus sordidus,7
+Moorea,39,Med A,4,medium,Dascyllus aruanus,47
+Moorea,39,Med A,4,medium,Dascyllus flavicaudus,61
+Moorea,39,Med A,4,medium,Halichoeres trimaculatus,4
+Moorea,39,Med A,4,medium,Pomacentrus pavo,4
+Moorea,39,Med A,4,medium,Pseudocheilinus hexataenia,1
+Moorea,39,Med A,4,medium,Stethojulis bandanensis,1
+Moorea,39,Med A,4,medium,Sufflamen bursa,1
+Moorea,39,Med A,4,medium,Zanclus  cornutus,1
+Moorea,43,Med A,5,medium,Acanthurus nigricauda,4
+Moorea,43,Med A,5,medium,Acanthurus olivaceus,3
+Moorea,43,Med A,5,medium,Chaetodon citrinellus,2
+Moorea,43,Med A,5,medium,Chlorurus sordidus,1
+Moorea,43,Med A,5,medium,Chromis viridis,9
+Moorea,43,Med A,5,medium,Ctenochaetus binotatus,1
+Moorea,43,Med A,5,medium,Dascyllus aruanus,23
+Moorea,43,Med A,5,medium,Dascyllus flavicaudus,94
+Moorea,43,Med A,5,medium,Parupeneus multifasciatus,2
+Moorea,43,Med A,5,medium,Parupeneus pleurostigma,7
+Moorea,43,Med A,5,medium,Pomacentrus pavo,1
+Moorea,43,Med A,5,medium,Stethojulis bandanensis,2
+Moorea,6,Med B,1,medium,Caracanthus maculatus,1
+Moorea,6,Med B,1,medium,Chaetodon citrinellus,3
+Moorea,6,Med B,1,medium,Cheilinus chlorourus,2
+Moorea,6,Med B,1,medium,Chromis viridis,72
+Moorea,6,Med B,1,medium,Dascyllus aruanus,24
+Moorea,6,Med B,1,medium,Dascyllus flavicaudus,45
+Moorea,6,Med B,1,medium,Gnatholepis anjerensis,1
+Moorea,6,Med B,1,medium,Halichoeres trimaculatus,13
+Moorea,6,Med B,1,medium,Parupeneus pleurostigma,1
+Moorea,6,Med B,1,medium,Pomacentrus pavo,3
+Moorea,6,Med B,1,medium,Scarus psittacus,2
+Moorea,10,Med B,2,medium,Acanthurus nigricauda,1
+Moorea,10,Med B,2,medium,Acanthurus nigrofuscus,1
+Moorea,10,Med B,2,medium,Asterropteryx ensifera,2
+Moorea,10,Med B,2,medium,Chaetodon citrinellus,1
+Moorea,10,Med B,2,medium,Chrysiptera brownriggii,1
+Moorea,10,Med B,2,medium,Dascyllus aruanus,34
+Moorea,10,Med B,2,medium,Dascyllus flavicaudus,42
+Moorea,10,Med B,2,medium,Gnatholepis anjerensis,2
+Moorea,10,Med B,2,medium,Halichoeres trimaculatus,22
+Moorea,10,Med B,2,medium,Parapercis millepunctata,1
+Moorea,10,Med B,2,medium,Pseudocheilinus hexataenia,1
+Moorea,10,Med B,2,medium,Scarus psittacus,5
+Moorea,10,Med B,2,medium,Stethojulis bandanensis,1
+Moorea,25,Med B,3,medium,Acanthurus nigricauda,1
+Moorea,25,Med B,3,medium,Chaetodon citrinellus,2
+Moorea,25,Med B,3,medium,Chlorurus sordidus,1
+Moorea,25,Med B,3,medium,Chromis viridis,130
+Moorea,25,Med B,3,medium,Dascyllus aruanus,32
+Moorea,25,Med B,3,medium,Dascyllus flavicaudus,51
+Moorea,25,Med B,3,medium,Gnatholepis anjerensis,2
+Moorea,25,Med B,3,medium,Halichoeres trimaculatus,7
+Moorea,25,Med B,3,medium,Neocirrhitus armatus,1
+Moorea,25,Med B,3,medium,Parupeneus multifasciatus,1
+Moorea,25,Med B,3,medium,Pomacentrus pavo,2
+Moorea,25,Med B,3,medium,Stethojulis bandanensis,1
+Moorea,28,Med B,4,medium,Balistapus undulatus,1
+Moorea,28,Med B,4,medium,Canthigaster bennetti,1
+Moorea,28,Med B,4,medium,Chaetodon citrinellus,2
+Moorea,28,Med B,4,medium,Chromis viridis,13
+Moorea,28,Med B,4,medium,Ctenochaetus binotatus,1
+Moorea,28,Med B,4,medium,Dascyllus aruanus,35
+Moorea,28,Med B,4,medium,Dascyllus flavicaudus,47
+Moorea,28,Med B,4,medium,Halichoeres trimaculatus,4
+Moorea,28,Med B,4,medium,Parupeneus multifasciatus,2
+Moorea,28,Med B,4,medium,Scarus psittacus,4
+Moorea,28,Med B,4,medium,Zebrasoma scopas,1
+Moorea,34,Med B,5,medium,Acanthurus nigricauda,3
+Moorea,34,Med B,5,medium,Acanthurus olivaceus,1
+Moorea,34,Med B,5,medium,Chaetodon citrinellus,2
+Moorea,34,Med B,5,medium,Chlorurus sordidus,2
+Moorea,34,Med B,5,medium,Dascyllus aruanus,4
+Moorea,34,Med B,5,medium,Dascyllus flavicaudus,55
+Moorea,34,Med B,5,medium,Halichoeres trimaculatus,8
+Moorea,34,Med B,5,medium,Parapercis millepunctata,2
+Moorea,34,Med B,5,medium,Parupeneus multifasciatus,5
+Moorea,34,Med B,5,medium,Parupeneus pleurostigma,2
+Moorea,34,Med B,5,medium,Stethojulis bandanensis,1
