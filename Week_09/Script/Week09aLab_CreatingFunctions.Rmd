@@ -11,11 +11,14 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, 
+                      warning=FALSE, 
+                      message=FALSE, 
+                      fig.path="../Outputs/")
 ```
 
 ## Introduction to Lab Assignment 
-
+This lab assignment is to help us practice with functions. The goal is to make one function to use for tidying data that can be applied to many different datasets and to make another function that is helpful when plotting multiple figures with the same style/type of graph. 
 
 ## Load Libraries 
 ```{r}
@@ -42,7 +45,6 @@ MtoF <- function() {feet <- (meters)*3.28084
 }
 
 MtoF <- function(meters) {feet <- (meters)*3.28084
-
 }
 
 MtoF <- function(meters) {feet <- (meters)*3.28084 # this equation gives you conversion of meters to feet 
@@ -60,21 +62,20 @@ ShootHeight <-Shoots %>%
 
 ```
 
-
 ## Make another function that helps with plotting 
-This plot function can be used to clean the amount of code we need to include in each plot. We will mainly be using the Moorea Coral Reef data on fish counts based on treatment and coral diversity. 
-```{r}
+This plot function can be used to clean the amount of code we need to include in each plot. We will be using the Moorea Coral Reef data on fish counts based on treatment and coral diversity. 
+```{r, function plots}
 MCR_Fishies <- read_csv(here("Week_09", "Data", "MCR_JCU_PLoS_DataArchive_20150121.csv"))
 
-## checking distinct IDs 
-MCR_Fishies %>% 
-  distinct(Location)
+MCR_FishCount <- MCR_Fishies %>% 
+  group_by(Location, Coral_Diversity, Treatment) %>% 
+  summarize(sumtotal=sum(Count))
 
 #make a plot 
-ggplot(data=MCR_Fishies, 
+ggplot(data=MCR_FishCount, 
        aes(x=Coral_Diversity, 
-           y=Count), 
-       color="forestgreen") + 
+           y=sumtotal, 
+           fill=Coral_Diversity)) + 
   geom_col() +
   theme_classic() + 
   labs(title="Total Fish Count by Level of Coral Diversity", 
@@ -82,39 +83,42 @@ ggplot(data=MCR_Fishies,
        y="Fish Count") +
   theme(plot.title=element_text(hjust=0.5))
 
+##get rid of all the lines in this bar graph --> redo the tidy data above to group by and summarize columns 
 
+
+testplot <- ggplot(data=MCR_FishCount, 
+       aes(x=Coral_Diversity, 
+           y=sumtotal, 
+           fill=Coral_Diversity)) + 
+  geom_col() +
+  theme_classic() + 
+  
+  scale_fill_manual(values=pnw_palette("Starfish", n=3, type="discrete")) + ##make sure to include "values" when using pnw palette!! 
+  labs(title="Total Fish Count by Level of Coral Diversity", 
+       x="Coral Diversity", 
+       y="Fish Count") +
+  theme(plot.title=element_text(hjust=0.5))
+testplot
 
 ## now based off this plot, create a function that helps us from having to type all of this out again and again for different plots 
 
-Themes_Titles2 <-function(data = MCR_Fishies, x, y){
-  ggplot(data, aes(x = {{x}}, y = {{y}}, fill="forestgreen"))+
+Plot_Themes_Titles <-function(data = MCR_FishCount, x, y){
+  ggplot(data, 
+         aes(x = {{x}}, y = {{y}})) +
     geom_col() +
     theme_classic() + ## this needs to go first because this is sets the defaults and then anything after this will modify default 
-    theme(plot.title=element_text(hjust=0.5))} ## if this went first, it would get overwritten by the classic theme
+    theme(plot.title=element_text(hjust=0.5))
+  } 
+## if this went first, it would get overwritten by the classic theme
 
-Themes_Titles2(x=Coral_Diversity, y=Count) + 
-  labs(title="Total Fish Count by Level of Coral Diversity")
+Plot_Themes_Titles(x=Coral_Diversity, y=sumtotal) + 
+  labs(title="Total Fish Count by Level of Coral Diversity") 
 
-Themes_Titles2(x=Location, y=Count) + 
-  labs(title="Total Fish Count by Location per Coral Diversity Level")
+Plot_Themes_Titles(x=Location, y=sumtotal) + 
+  labs(title="Total Fish Count by Location per Coral Diversity Level") 
 
 ```
-
-
-
-
-Themes_Titles <-function(data = MCR_Fishies, x, y){
-  ggplot(data, aes(x = {{x}}, y = {{y}} , fill = Coral_Diversity))+
-    geom_col() +
-    scale_fill_manual(values=pnw_palette("Sailboat")) + 
-    theme_classic() + ## this needs to go first because this is sets the defaults and then anything after this will modify default 
-    theme(plot.title=element_text(hjust=0.5)) ## if this went first, it would get overwritten by the classic theme
-}
-
-
-
-  scale_fill_manual(values=pnw_palette("Sailboat")) + 
-
-
-
+## Summary 
+This plot function is useful for centering your title and using a classic theme that gets rid of the grid lines on the chart. I struggled to figure out how to get the scale_fill working for this plot as well, so I decided to leave the plot function with the two other theme features.  
+I was already able to apply this lab to my own research to help me process some data, so I am excited to continue practicing the uses of creating your own function. 
 
