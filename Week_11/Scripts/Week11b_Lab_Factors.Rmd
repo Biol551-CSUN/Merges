@@ -1,0 +1,79 @@
+---
+title: "Week11b: Lab Assignment using Factors"
+author: "Hannah Merges"
+date: "`r Sys.Date()`"
+output: 
+  html_document: 
+    theme: flatly
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, 
+                      message = FALSE, 
+                      warning = TRUE, 
+                      fig.path="../Outputs/")
+```
+
+## Introduction 
+This lab will help us practice using factors and tidying datasets. 
+
+## Load libraries 
+```{r}
+library(tidyverse)
+library(here)
+library(janitor)
+library(PNWColors)
+```
+
+## Load datasets 
+```{r}
+intertidal <- read_csv(here("Week_11", "Data", "intertidaldata.csv"))
+```
+
+## Tidy and clean the data 
+```{r}
+intertidal_clean <- intertidal %>% 
+  clean_names() %>% ##cleans all the names so that they are easier 
+  mutate(quadrat=str_replace_all(quadrat, pattern="[0-9]|\\W|\\.", replacement= "")) %>% ## this mutates the column so that other weird named quadrats can get removed. patterns removes extra numbers or characters or periods and then replaces the blank space with nothing. 
+  mutate(quadrat=factor(quadrat, levels=c("Low", "Mid", "High"))) %>% 
+  select(c("site", "transect", "quadrat", "algae")) 
+
+intertidal_pivot <- intertidal_clean %>% 
+  pivot_longer(col=algae, 
+               names_to = "organism", 
+               values_to = "algal_cover") %>% 
+  group_by(quadrat) %>% 
+  summarize(total_count = sum(algal_cover))
+
+
+```
+
+## Plot the data 
+```{r, algae}
+ggplot(data=intertidal_pivot, 
+       aes(x=quadrat, fct_infreq(quadrat), 
+           y=total_count, 
+           fill=quadrat)) + 
+  geom_col() + 
+  scale_fill_manual(values=pnw_palette("Anemone", n=3)) + ## like arguably not the best color scheme to go with but it is intertidal and anemone so how could I not?? 
+  labs(x="Tidal Location", 
+       y="Total Count of Algae", 
+       title="Total Count of Algae Across all Transects") + 
+  theme_bw() + 
+  theme(plot.title=element_text(hjust=0.5))
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
