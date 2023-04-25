@@ -442,6 +442,36 @@ intertidal_df</code></pre>
 ## 3     TP3.csv  13.10386  2.317297  5605.0705  12101.099
 ## 4     TP4.csv  13.22150  2.269209   655.1037   2088.839</code></pre>
 </div>
+<div id="now-do-the-same-thing-for-mean-and-standard-deviation-for-temperature-and-light-but-with-maps" class="section level2">
+<h2>Now do the same thing for mean and standard deviation for
+temperature and light but with <em>maps()</em></h2>
+<pre class="r"><code>IntertidalPath_maps&lt;-here(&quot;Week_12&quot;, &quot;Data&quot;, &quot;homework&quot;)
+tides_files &lt;- dir(path = IntertidalPath_maps,pattern = &quot;.csv&quot;, full.names = TRUE) ## list all the files with .csv that are in this specified path, full.names --&gt; tells R the right place to look 
+tides_files</code></pre>
+<pre><code>## [1] &quot;/Users/hannahmerges/Desktop/Repositories/Merges/Week_12/Data/homework/TP1.csv&quot;
+## [2] &quot;/Users/hannahmerges/Desktop/Repositories/Merges/Week_12/Data/homework/TP2.csv&quot;
+## [3] &quot;/Users/hannahmerges/Desktop/Repositories/Merges/Week_12/Data/homework/TP3.csv&quot;
+## [4] &quot;/Users/hannahmerges/Desktop/Repositories/Merges/Week_12/Data/homework/TP4.csv&quot;</code></pre>
+<pre class="r"><code>## now put it all together in the df and use previous tidyverse knowledge to summarize and create new columns 
+maps_intertidaldata&lt;-tides_files %&gt;% ## tidal_files() is what is getting iteratred over everything 
+  set_names()%&gt;% # sets the id of each list to the file name
+  map_df(read_csv,.id = &quot;filename&quot;) %&gt;% # map everything to a dataframe and put the id in a column called filename --&gt; this is what is iterating 
+  group_by(filename) %&gt;%
+  summarise(mean_temp = mean(Temp.C, na.rm = TRUE),
+            mean_light = mean(Intensity.lux, na.rm = TRUE), 
+            stdv_temp = sd(Temp.C, na.rm = TRUE), 
+            stdv_light = sd(Intensity.lux, na.rm = TRUE)) %&gt;% 
+  mutate(filename = str_sub(filename, start= -7, end= -1))
+
+maps_intertidaldata</code></pre>
+<pre><code>## # A tibble: 4 × 5
+##   filename mean_temp mean_light stdv_temp stdv_light
+##   &lt;chr&gt;        &lt;dbl&gt;      &lt;dbl&gt;     &lt;dbl&gt;      &lt;dbl&gt;
+## 1 TP1.csv       13.3       427.      2.32      1661.
+## 2 TP2.csv       13.2      5603.      2.31     11929.
+## 3 TP3.csv       13.1      5605.      2.32     12101.
+## 4 TP4.csv       13.2       655.      2.27      2089.</code></pre>
+</div>
 
 
 
